@@ -1,0 +1,15 @@
+{{- $.Scratch.Set "location" (.Param "location") | default "" }}
+
+{{- $currentPage := strings.TrimRight "/" (replace .RelPermalink "/en" "") }}
+
+{{- if eq (len (.Param "location" | default "" )) 0 }}
+  {{- with .Sites.First.GetPage $currentPage }}
+    {{- $.Scratch.Set "location" (.Param "location") }}
+  {{- end }}
+{{- end }}
+
+{{- with $.Scratch.Get "location" -}}
+
+  <br>{{ $.Site.Params.LOCATION }}: {{ . }}.
+
+{{- end }}

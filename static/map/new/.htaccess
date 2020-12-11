@@ -1,0 +1,13 @@
+RewriteEngine On
+#------ ВАЖНОЕ ЗАМЕЧАНИЕ
+#------ В REQUEST_URI адрес начинается со слеша
+#------ а в RewriteRule начинается БЕЗ слеша
+
+#------ Карты Yandex & Google & Bing -------
+#RewriteRule ^(yandex|google|bing)/?$ $1.map.php [L,NC,QSA]
+
+#RewriteCond %{REQUEST_URI} ^/map/(yandex|google|bing)/([a-z0-9-\+\.]+)/?$ [NC]
+#RewriteCond %{DOCUMENT_ROOT}/kml-files/%2 -f
+#RewriteRule ^(yandex|google|bing)/([a-z0-9-\+\.]+)/?$ $1.map.php?track=$2 [L,NC,QSA,B]
+#==== флаг [B] даёт указание не менять знак плюса на пробел
+#==== http://httpd.apache.org/docs/2.2/mod/mod_rewrite.html#rewriteflags

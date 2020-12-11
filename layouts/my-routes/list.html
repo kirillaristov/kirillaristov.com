@@ -1,0 +1,11 @@
+{{ define "main" -}}
+  <h2 class="post__title">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</h2>
+
+  {{- .Content -}}
+
+  {{- if eq .File.Dir  "my-routes\\" }}
+    {{- range .Pages }}
+      <h2><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{.}}{{ end }}</a></h2>
+    {{- end }}
+  {{- end }}
+{{- end }}

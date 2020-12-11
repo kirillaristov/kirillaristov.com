@@ -1,0 +1,15 @@
+{{ $coord := .Param "coord" | default "" }}
+
+{{- $currentPage := strings.TrimRight "/" (replace .RelPermalink "/en" "") }}
+
+{{- if eq (len (.Param "coord" | default "" )) 0 }}
+  {{- with .Sites.First.GetPage $currentPage }}
+    {{- $coord = .Param "coord" }}
+  {{- end }}
+{{- end }}
+
+{{- with $coord -}}
+
+<br>{{ $.Site.Params.COORDINATES }}: <a target="_blank" href="/map/?type=hybrid&amp;zoom=12&amp;center={{.}}&amp;placemark={{.}}">{{.}}</a>
+
+{{- end }}

@@ -1,0 +1,22 @@
+{{ define "main" -}}
+
+<ul class="mediacontent">
+  {{- range sort .Paginator.Pages }}
+    <li>
+      <h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
+
+      <p><small>
+      {{- partial "date.html" . }}
+      {{ partial "get-media-coord.html" . }}
+      {{ partial "get-media-location.html" . -}}
+      </small></p>
+
+      {{- .Scratch.Set "addLink" "true" }}
+      {{ partial "figure.html" . }}
+    </li>
+  {{- end }}
+</ul>
+
+  {{- partial "pagination.html" . }}
+
+{{- end }}

@@ -1,0 +1,20 @@
+{{- define "main" }}
+
+<h2 class="post__title">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</h2>
+
+<p><small>
+{{- partial "date.html" . }}
+{{ partial "get-media-coord.html" . }}
+{{ partial "get-media-location.html" . -}}
+</small></p>
+
+{{ partial "prev-next.html" . }}
+
+{{ partial "get-content.html" . }}
+
+{{- .Scratch.Set "addLink" "false" }}
+{{- partial "figure.html" . }}
+
+{{ partial "tags.html" . }}
+
+{{- end }}

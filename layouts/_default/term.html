@@ -1,0 +1,19 @@
+{{ define "main" -}}
+
+{{- with .Pages }}
+<h2>{{ $.Parent.Title }} > {{ $.Title }} <sup>[{{ len . }}]</sup></h2>
+
+<p><a href="/{{ $.Lang }}/categories/">Categories</a> / <a href="/{{ $.Lang }}/tags/">Tags</a></p>
+
+<ul style="margin-left:20px;">
+
+{{- $counter := 0 }}
+{{- range  . }}
+{{- $counter = add $counter 1 }}
+<li>{{ $counter }}. <a href="{{ .RelPermalink}}">{{ with .LinkTitle }}{{ . | safeHTML }}{{ else }}{{ .File.ContentBaseName }}{{ end }}</a></li>
+{{- end }}
+
+</ul>
+{{- end }}
+  
+{{- end }}

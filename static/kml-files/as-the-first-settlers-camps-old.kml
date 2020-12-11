@@ -1,0 +1,3889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Folder>
+      <name>2014-2015 - стоянки</name>
+      <open>1</open>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+          <bgColor>00ffffff</bgColor>
+        </ListStyle>
+      </Style>
+      <Placemark>
+        <name>2014-09-01. Лагерь</name>
+        <description>Около ЦБК. Копал тропинку через вал песка. 2014-09-01 16:54:21, 53 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>48.333983,55.838549,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-02. Крохотный островок</name>
+        <description>Вижу Казань и трассу М7. 2014-09-02 16:00:15, 52 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>48.733539,55.792682,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-10-02. Лагерь. Дневки до 7-го включительно</name>
+        <description>Долгая стоянка из-за непогоды, на которой мне пришла идея строить избушку</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>57.213252,57.533914,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-03. Лагерь. Взял Казань!</name>
+        <description>Около нефтепровода. 2014-09-03 17:42:53, 65 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>48.962623,55.661754,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-04. Лагерь Волга-Кама</name>
+        <description>Островок сосен в полях. 2014-09-04 17:03:50, 82 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>49.196421,55.450838,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-05. Впервые Кама</name>
+        <description>Почти у воды, комары. 2014-09-05 16:43:20, 53 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>49.634995,55.414512,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-06. Лагерь</name>
+        <description>Клязьма. 2014-08-06 18:45:32, 121 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>38.575502,55.839921,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-06. Лагерь. Остров с ивами</name>
+        <description>Дикое, сам делал. 2014-09-06 15:07:30, 60 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>50.033462,55.438975,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-07. Лагерь</name>
+        <description>2014-08-07 19:31:21, 113 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>38.896137,55.770359,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-07. Лагерь. После разливов</name>
+        <description>Чей-то бывший разобранный летний лагерь, рядом другие стоянки. 2014-09-07 15:34:16, 58 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>50.645166,55.408399,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-08. Лагерь</name>
+        <description>Край песчаного берега. 2014-08-08 14:19:43, 116 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>39.149557,55.854464,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-08. Начало течения</name>
+        <description>Около земснарядов, с утра поблизости встало очень много рыбаков.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>51.078102,55.478284,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-09. Лагерь</name>
+        <description>Расчищал, косогор у ямы, утром рыбак заходил. 2014-08-09 19:03:12, 122 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>39.664569,55.891395,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-10. Лагерь</name>
+        <description>Косогор, стол, излучина реки. 2014-08-10 17:46:49, 100 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>39.970273,55.942895,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-09. Лагерь. У реки Вятка</name>
+        <description>Дикое, чистил, ровнял песок. Закуток в песчаном берегу между кустами ив.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>51.573914,55.590953,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-10. Лагерь. Чистая вода!</name>
+        <description>Книжка электронная сломалась. Теперь читаю с телефона. Последние земснаряды позади, и речная вода стала очень чистой.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>51.875704,55.684883,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-11. Лагерь. Обхожу Нижнекамскую ГЭС</name>
+        <description>В лесу около дороги и ж/д</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>52.240011,55.764439,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-11. Лагерь</name>
+        <description>Костёр. Косогор, дубы, перед Владимиром. 2014-08-11 20:57:18, 102 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>40.404148,56.079645,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-12. Лагерь</name>
+        <description>Столик и лавочки. Вековые сосны, сгоревшая хижина. 2014-08-12 18:25:49, 104 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>40.67976,56.127595,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-12. Лагерь. Высоко в соснах</name>
+        <description>Есть авто доступ</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>52.521697,55.912293,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-13. Лагерь</name>
+        <description>Дубы. Арбуз, упавшее поперек тропинки дерево. 2014-08-13 18:43:56, 88 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>41.061611,56.252959,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-13. После основного разлива</name>
+        <description>На косогоре в соснах</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>53.046131,55.894779,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-14. Лагерь</name>
+        <description>Сосны, костёр. Высоко, ночью дождь. 2014-08-15 04:24:17, 93 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>41.529336,56.472512,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-15. Лагерь</name>
+        <description>Дикое. Низко, пляж, песок, легко выброситься, грозы. 2014-08-15 18:51:57, 94 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>41.98845,56.309203,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-15. Напротив острова</name>
+        <description>Будто в протоке - остров длинный</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>53.771446,56.020431,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-16. Лагерь</name>
+        <description>Река Лух, приток. Дикое. Поднялся на 1 км вверх по притоку. Сломалась дуга палатки, использую ремонтную муфту. Отремонтировал дугу полностью только во время зимнего визита во Фрязино. 2014-08-16 16:30:39, 75 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>42.416462,56.230377,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-16. Лагерь</name>
+        <description>Преждевременно, встал рано из-за начавшегося дождя. Рядом паром</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>54.048772,56.051725,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-17. Лагерь. Дневка</name>
+        <description>После короткой дневной перебежки. Из-за холодной сильно ветреной погоды дневаю. Стол, лавки, ежевика, шиповник. Наверху красивый вид и база нефтяников.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>54.077486,56.087854,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-17. Лагерь</name>
+        <description>Песчаная коса. Вытащил каяк к палатке, на траве. 2014-08-18 04:15:56, 72 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>42.900483,56.206488,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-18. Лагерь</name>
+        <description>На песке. Ровнял, ставился в сумерках, место публичное.
+2014-08-18 18:46:06, 64 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>43.655964,56.204838,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-19. Лагерь</name>
+        <description>Пустая летняя стоянка. Напротив Кстово. Утром приехали отдыхающие, угощали арбузом. 2014-08-19 18:50:01, 71 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>44.246177,56.165391,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-19. Лагерь</name>
+        <description>Перед Сарапулом. Портовые краны напротив</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>54.067535,56.30711,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-20. Лагерь</name>
+        <description>После Сарапула. Мышка в палатке</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>53.788162,56.6166,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-21. Лагерь. На Сиве</name>
+        <description>Только сегодня Кама была реальной рекой</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>53.991121,56.858023,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-22. Лагерь</name>
+        <description>На узком конце косы, как в 2010 году. 2014-08-22 16:23:11, 57 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>45.25103,56.135525,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-23. Лагерь</name>
+        <description>Тыльная сторона. Столы, лавки, заход с тыльной стороны острова. 2014-08-23 19:27:16,  68 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>45.756852,56.157648,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-22. Лагерь. Начал Воткинское вдхр</name>
+        <description>На песчаной отмели, с утра приходил рыбак, расспрашивал. 2014-09-22 19:35:09</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>54.433927,56.985668,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-23. Лагерь</name>
+        <description>На крутом склоне. Лиса на берегу вечером! Зеленая и тухлая вода! 2014-09-23 16:52:11</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>55.000764,57.073867,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-24. Лагерь</name>
+        <description>Делал лестницу. Как в 2010 году. Ровное место трудно сделать. Высоко, красиво. 2014-08-24 17:53:32, 60 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>46.166869,56.226287,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-24. Лагерь</name>
+        <description>Осинская дача ООПТ. В сосновой старой полосе у поля</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>55.236089,57.255194,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-25. Лагерь. Дневка</name>
+        <description>У Козьмодемьянска. Ровнял, делал канавки. Штормую. 2014-08-25 16:26:03, 74 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>46.479185,56.309522,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-25. Лагерь</name>
+        <description>Прошёл Осу. В молодой сосновой роще.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>55.512484,57.202619,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-26. Лагерь</name>
+        <description>На водоразделе. Начало седловины, крыша/лавочки, но я стою в 40 м от них.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>55.894164,57.306654,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-27. Лагерь</name>
+        <description>Перед Чебоксарами. Как в 2010, в бухточке. 2014-08-27 16:28:18, 68 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>47.074601,56.142241,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-27. Лагерь</name>
+        <description>Мимо Аннинского. Пологая дорога, около свалки брёвен.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>56.103161,57.502403,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-28. Лагерь</name>
+        <description>Перед Кукуштаном. Роща 40-летних сосен, в 200 метрах от дороги</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>56.409933,57.626149,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-28. Лагерь. Дневка</name>
+        <description>Сам делал у родникового ручья. 2014-08-28 20:02:14, 62 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>47.636547,56.125818,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-29. Лагерь</name>
+        <description>На горе под старой сосной. На трассе Р242 Е22 Пермь-Екатеринбург</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>56.70053,57.479145,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-09-30. Лагерь. Техническая дневка</name>
+        <description>У кафе Птица. Прошёл Кунгур. Покрышки не выдержали нагрузку. Оставил экипировку как есть у палатки и съездил в Кунгур за новыми покрышками. </description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>57.098894,57.483333,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-30. Лагерь. Дневка</name>
+        <description>В слепой протоке. 2014-08-30 18:01:36, 53 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>47.98461,56.001825,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-06. Старт. 06:00</name>
+        <description>Старт из родного Фрязино, от родного дома 19 по улице Вокзальной</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/zz-lovely-place.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>38.041331,55.962579,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-30. База Промежуточная</name>
+        <description>Оставил экипировку на Б.О. Раздолье и поехал в Петербург на SPIEF 2015</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/06-home.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>68.230686,58.277064,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-06-01. Лагерь</name>
+        <description>Вышел с Базы в 22:00, проведя на ней двое суток. За это время перебрал вещи, зарядил и проверил все аккумуляторы, помылся. Взял с собой минимальный комплект для поездки в Питер на SPIEF 2015 на 3 недели. У меня есть билет от Тюмени на 3 июня, за 36 часов я должен добраться до поезда, еду автостопом, чтобы лучше узнать эту местность.
+2015-06-01 17:00:41, 52 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>68.239068,58.273722,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-01. Лагерь</name>
+        <description>2015-05-01 20:52:41, 331 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>59.347955,57.906955,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-02. Лагерь</name>
+        <description>2015-05-02 16:57:29, 222 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>59.733799,57.900102,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-06-02. Лагерь</name>
+        <description>Ночёвка перед Тюменью. 2015-06-02 23:01:15, 58 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>65.827507,57.161274,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-03. Лагерь</name>
+        <description>Первая на Тагиле, рядом ж/д, сосна без макушки. 2015-05-03 18:41:21, 179 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>59.943944,58.016603,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-05. Лагерь</name>
+        <description>У скал, рядом со скалами, в окружении трёхсотлетних сосен и лиственниц. Рядом стекает небольшой ручеёк и есть надежда, что не пересыхает летом.
+2015-05-05 19:05:48, 160 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>60.319606,58.124852,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-07. Лагерь</name>
+        <description>47 км за 5-20. 2015-05-07 17:57:35, 132 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>60.728936,58.229897,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-08. Лагерь</name>
+        <description>Используемая стоянка, смешанный лес. Чушки, рыбаки стояли. 2015-05-08 18:33:00, 114 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>60.96517,58.245745,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-10. Лагерь</name>
+        <description>После последнего переката. 2015-05-10 16:46:54, 89 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>61.439466,58.400775,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-11. Лагерь</name>
+        <description>Первый песчаный пляж на весенней реке. 2015-05-11 16:55:57, 66 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>61.999528,58.483683,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-12. Лагерь Тагил &#62; Тура</name>
+        <description>На стрелке между реками Тагил и Тура. Официально Тагил закончился, вошёл в Туру. Вода более мутная. Река расширилась, эрозия на берегах временно исчезла, теперь удобно причаливать практически везде. 2015-05-12 17:48:51, 73 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>62.474049,58.53176,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-13. Лагерь</name>
+        <description>Приток Янсаевка. Попытался первый раз пройти протоками, сквозного прохода не нашёл, зато здесь очень красиво. Чистая вода, стабильные берега. Много бобров, они порядочно намусорили в русле, сделав множество завалов. По лугам можно свободно гулять. Дошёл до болота, заросшего осокой дернистой - очень необычный вид. Про эти места известно нескольким рыбакам-аборигенам. 2015-05-13 16:11:55, 71 m.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>62.692195,58.455312,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-14. Лагерь</name>
+        <description>На заросшей дороге. Нашёл стоянку в сумерках, пробравшись через затопленный кустарник к коренному берегу. Тщательно всё расчистил от шиповника и веток и только после этого стал ставить палатку и кашевариться. 2015-05-14 17:20:35, 67 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>62.885219,58.290975,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-15. Лагерь</name>
+        <description>Встал на середине поля, на колее просёлочной дороги. Под себя подстелил нарванной сухой травы - я ещё не очень хорошо сплю на жёсткой постели. Зато здесь нет шумных птиц, которых очень много в прибрежных затопленных зарослях. 2015-05-15 16:06:22, 66 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>63.019705,58.181457,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-16. Лагерь</name>
+        <description>Рядом с оврагом, около одинокой молодой сосны. Проведать лет через 10-20 сосну, спилил нижние сухие ветви для её удобства. 2015-05-16 14:53:22, 93 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>63.533574,58.095962,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-19. Лагерь</name>
+        <description>У оттаявшей зимней дороге к вырубке. Кроме этого пятачка повсюду снег. 2015-04-19 09:28:04, 194 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>57.596209,57.702245,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-18. Лагерь</name>
+        <description>Луг у Туры, соловей, Галактионовка. Данная местность представляет наилучшие условия обитания для соловья, и мне прилично досталось от этой птицы, которая вблизи ну очень шумная, вела свои песни всю ночь до самого рассвета. 2015-05-18 18:08:50, 60 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>63.868623,57.950737,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-19. Лагерь</name>
+        <description>На косогоре небольшого размера с соснами. Место известно местным жителям. 2015-05-19 16:56:20, 73 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>63.979226,57.799393,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-20. Лагерь</name>
+        <description>У Барды первый раз, трёхдневная стоянка в ожидании завершения ледохода. Один раз ходил в Саю за продуктами. 173 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>57.715923,57.737979,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-20. Лагерь</name>
+        <description>Весло чинил, вдоль берега грунтовка, стоял в 2 m от неё. 2015-05-20 16:25:47, 63 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>64.298332,57.750453,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-21. Лагерь</name>
+        <description>Поле, летний выпас скота. Со штатива снимал закат. Растительности нет, поэтому птицы и комары не беспокоили. Выгруз очень удобный. Ночью был заморозок, последний раз за весну доставал осенний спальник. 2015-05-21 17:18:49, 58 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>64.536785,57.543514,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-22. Лагерь</name>
+        <description>Поле перед Каменкой. Поставился практически в темноте, почти уже не надеясь найти нормальное место без контакта с посёлками. Поздний сумрак по обыкновению поменял восприятие окружающего пространства, но мне повезло выбраться на твердь земную в очень удачном места, даже не замочив ноги выбрался из каяка. Когда уже совсем стемнело, на мой лагерь набрёл олень, идущий вдоль берега, испугался, стал переплывать реку, минут через 7 я услышал его фырканье с другой стороны. 2015-05-22 18:37:10, 54 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>65.109916,57.276186,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-24. Лагерь</name>
+        <description>Баня Арапова Юрия Афанасьевича, деревня Красоты. 2015-04-24 18:48:43, 219 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-cabin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>57.745096,57.744431,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-23. Лагерь</name>
+        <description>После долгих неудобий из-за поворота реки выплыл очень удобный причал - выдающийся из воды песчаный бугор, со всех сторон затопленный водой. В длину он был не более 70 метров. В летнее время это популярное место, к нему протоптаны грунтовые дороги, но в эту ночь я был тут абсолютно один, без всякой возможности чьего-то визита. Рядом в кустах спрятался воронёнок, и когда я проходил около его тайника, родители поднимали большой шум. Я старался его не тревожить, чтобы утром они дали мне выспаться. В другой ситуации я бы поплыл на другое место, но здесь у меня не было выбора, я был заложником этого острова и мне оставалось только подружиться со всеми его обитателями, кем бы они не были. 2015-05-24 05:50:23, 60 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>65.79886,57.139766,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-24. Лагерь</name>
+        <description>На переволоке. 2015-05-24 17:24:11, 52 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>66.227579,57.14244,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-25. Лагерь</name>
+        <description>Вечер, смеркается, а я всё плыву, и в голове совершенно нет беспокойства о ночлеге, будто точно знаю, что кто-то ждёт меня впереди. Поняв это, сам себе восклицаю - &#34;Кирюха! Ты чего так расслабился?! Берега неудобные, уже сумерки, а ты совершенно не переживаешь о том, что ставиться, скорее всего, будешь в темноте и хорошо, если место найдёшь без помощи фонаря&#34;. Дело, конечно, не в том, что какое-то удобное место специально поджидало меня за поворотом, просто со временем начинаешь воспринимать все неудобства как естественное развитие событий, смиряешься. Буквально через несколько минут после таких размышлений появляется хороший берег, высокий косогор с удобным подъёмом, сосны и мягкая площадка под палатку. Утром, бродя вокруг лагеря, нашёл много отцветшей сон-травы, как и полагается по-прежнему очень красивой.
+2015-05-25 18:55:43, 56 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>66.639708,57.150891,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-26. Лагерь</name>
+        <description>После 10 км прямоты на чистейшем белом речном песке, самом первом таком белом на реке. 2015-05-27 03:12:13, 53 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>67.105539,57.372579,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-27. Лагерь</name>
+        <description>На нефтепроводе у Кормовища. 2015-04-27 20:13:36, 334 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>58.029706,57.84757,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-28. Лагерь</name>
+        <description>Окраина поля, под берёзками. Добывал берёзовый сок. 2015-04-28 17:28:38, 407 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>58.418229,57.891316,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-10-08. Избушка родная</name>
+        <description>В лесном массиве урочище &#34;Маслянный Угор&#34;</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/06-home.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>57.229146,57.525771,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-27. Лагерь</name>
+        <description>Около ЛЭП и молодых сосен. 2015-05-27 17:08:05, 52 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>67.15833,57.559905,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-29. Лагерь</name>
+        <description>Прекрасное маленькое поле, окружённое сосновым лесом! 2015-04-29 18:03:44, 243 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>58.611857,57.850724,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-28. Лагерь</name>
+        <description>В старице, у кряжистой очень старой и толстой сосны. 2015-05-28 18:30:27, 47 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>67.369029,57.820968,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-30. Лагерь</name>
+        <description>Край зарастающего поля, сосны. 2015-04-30 16:46:19, 308 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>58.839798,57.970801,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-05-29. Лагерь</name>
+        <description>Вплыл на каяке в затопленную бухточку у эрозирующего 2-метрового берега, поднялся по плавному подъёму и поставился на травке у берёзок. Комаров уже ну очень много, их постепенно становилось всё больше и вот наконец количество стабилизировалось на очень большом. Больше всего неудобен гнус, пробирающийся через ячею комарника, поэтому самое ближайшее важное дело - обновить комарник на правильный. 2015-05-29 17:49:18, 48 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>67.873782,57.845065,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-04-17. Друзья Трофимовы</name>
+        <description></description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/zz-lovely-place.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>57.236402,57.54096,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2014-08-20. Лагерь. Дневка</name>
+        <description>Заряжал, сушил, перепаковывал. 2014-08-21 18:06:11, 76 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>44.728113,56.046624,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-06-28. Лагерь на территории Базы лесной авиа охраны</name>
+        <description>Семья Зинченко</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-camping.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>68.907613,59.14822,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-06-27. Лагерь</name>
+        <description>У водоворота, Чайки. 2015-06-27 19:12:40, 35 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>68.744758,59.027298,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-06-05 - 21 Дом Петербург</name>
+        <description></description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/06-home.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>30.213657,59.94028,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-06-22 Лагерь</name>
+        <description>Петяярви, речка Волчья, палаточный город, мокрец. 2015-06-22 21:26:30, ele: 66</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>30.09186,60.63085,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-06-26. Лагерь</name>
+        <description>Когда отплыл от Тобольска после почти месячного пребывания на Большой Земле, ощущения были необычными. Было уже знакомое чувство быстрого привыкания к вёслам и лодке, но появилось и что-то новое. Мне было радостно, счастливо и умиротворённо, но почему? Углубляюсь в сплетение чувств, чтобы разложить состояние по кирпичикам, ведь что-то подобное со мной уже бывало, в чём же рецепт счастья?
+Секрет в том, что река и дикая природа стали моим домом, поездка в каменный Петербург в железном поезде показали, что именно я воспринимаю как Дом.
+Здесь мне всё нормально. Да, кое что трудновато, но это мой дом, он сложный, с ним не просто, иногда он выкидывает коленца, но это мой милый дом, я принимаю его таким какой он есть.
+Зато он безграничный, разнообразный, и мой труд всегда приносит дому пользу. Нет лучшей награды, чем видеть востребованность труда – каждый мой километр для чего-то нужен – в будущем, или на сегодняшней ночёвке.
+Мало кто может иметь такой большой дом – непросто это даётся, долго надо свыкаться с трудностями, чтобы начать принимать их как данность, а не как злой рок судьбы. Когда трудности воспринимаешь как естественную цепочку событий, границы мира раздвигаются, и родной дом из четырёх стен и крыши превращается в «Наши стены – сосны великаны, Наша крыша – небо голубое».
+2015-06-26 19:33:51, 42 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>68.450895,58.516235,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-03. Лагерь</name>
+        <description>На изгибе, грязь по колено, песок. 2015-07-03 19:16:26. 41 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>68.85699,59.348237,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-04. Лагерь. 71.3 km</name>
+        <description>Заплыл в старицу. Сосны, черника, высоко. Вошёл в Демьянку в 22:15, через 30 минут после заката, надеялся сразу встать на песчаный пляж. Наивный! Нашёл лагерь только в 2:30 внутри заливчика-останца. Зато стою в соснах, на мягкой подстилке, в теньке - от солнца и ветра. Ветер сильный. Прохладно. Всё ночное время, которое грёб - было светло. Скорость на подъём около 5 км/ч. Отчалил после сна в 16 часов. 2015-07-05 07:48:38. 47 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>69.401257,59.527887,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-06. Лагерь Дом</name>
+        <description>Подготовка к малонаселённому участку. Дом охотоведа Василия Афанасьевича в посёлке Южный. Закупка продовольстивия в посёлке Демьянка и зарядка аккумуляторов.
+2015-07-06 13:05:53. 41 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-camping.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>70.0122266666667,59.4902866666667,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-08. Лагерь</name>
+        <description>Песчаная коса, дождик, пилил, копал. Обогнал Геннадий из Тямки, ему оставалось плыть 380 км. Он был дома к вечеру, а я добрался до Тямки спустя 16 дней. 2015-07-08 19:15:50, 33 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>70.130145,59.51097,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-09. Лагерь</name>
+        <description>Длинная прямая коса. 2015-07-09 18:19:55, 36 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>70.330042,59.522012,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-10. Лагерь</name>
+        <description>Высоченная коса, крутой поворот. 2015-07-10 14:44:02, 38 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>70.514577,59.53818,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-11. Лагерь. Дневка</name>
+        <description>Просевший песок, коса. 2015-07-11 15:52:31, 47 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>70.744732,59.534723,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-13. Лагерь</name>
+        <description>Гора веток, коса, мишка напротив. 2015-07-13 18:13:01, 49 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>70.987707,59.45935,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-15. Лагерь Дом. Дневка</name>
+        <description>Изба Челдыяк. 2015-07-15 14:29:21, 55 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-cabin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.051362,59.396235,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-17. Лагерь</name>
+        <description>Маленькая песчаная коса, надвигался фронт. 2015-07-17 16:35:19, 52 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.282382,59.320268,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-18. Лагерь Дом. Эбудор. Дневки</name>
+        <description>2015-07-19 02:57:25, 62 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-camping.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.265822,59.171675,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-21. Лагерь. Вахтовый посёлок</name>
+        <description>Строительство нефтепровода, затонувший экскаватор. 2015-07-22 04:20:01, 62 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-cabin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.319915,59.15218,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-22. Лагерь. Дневка</name>
+        <description>Еле нашёл хороший песок. Косогор, не коса. Можно войти прямо в лес. Следы медведя, найденные после установки лагеря. 2015-07-22 17:43:56, 58 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.363807,59.059537,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-24. Лагерь Усановы</name>
+        <description>Ханты Усановы. МТС, Мегафон. Ночевал в палатке. 2015-07-24 17:56:18, 65 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-village.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.660097,59.047257,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-25. Лагерь</name>
+        <description>Коса с бухточкой. 2015-07-25 15:13:23, 52 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.743085,59.022265,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-26. Лагерь</name>
+        <description>Коса на повороте. 2015-07-26 13:17:19, 58 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>71.922347,59.005997,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-27. Лагерь Ярсины. Дневка</name>
+        <description>Спал в палатке. Большая хантейская деревня. 2015-07-27 17:08:43, 62 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-village.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>72.14468,58.96638,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-29. Лагерь</name>
+        <description>Заросшая хвощом площадка. 2015-07-29 16:33:57, 60 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>72.252602,58.987517,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-30. Лагерь</name>
+        <description>Обваливающийся берег, ровнял. 2015-07-30 16:57:01, 63 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>72.499445,58.91592,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-07-31. Лагерь</name>
+        <description>Микро намыв песка, который спустя пару дней ушёл под воду из-за повышения уровня реки из-за дождей. 2015-07-31 17:24:02, 58 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>72.567602,58.81939,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-01. Лагерь</name>
+        <description>Кривая коса, ровнял. 2015-08-01 16:11:47, 66 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>72.698433,58.798975,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-02. Лагерь</name>
+        <description>Пилил, ровнял, песок, комары, мокрец, ппц. 2015-08-02 17:58:23, 68 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>72.883863,58.75248,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-04. Лагерь</name>
+        <description>Песчаный бугорок, море мокреца. 2015-08-04 14:46:24, 66 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>73.151567,58.787493,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-05. Лагерь Усть-Урна. Дневка</name>
+        <description>Хантейская деревня. Ночевал в палатке. 2015-08-05 16:57:35, 73 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-village.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>73.319215,58.76713,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-07. Лагерь Урна-30</name>
+        <description>Ровнял землю, прорва мокреца. На траве. Съезд к воде. Бывшая большая вертолётная заправка. 2015-08-07 15:51:44, 62 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>73.472673,58.76071,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-08. Лагерь на охотничей заимке</name>
+        <description>Палаткой рядом, мошкары мало. 2015-08-08 15:14:13, 77 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>73.656902,58.786443,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-09. Лагерь</name>
+        <description>В папоротнике, корчевал, ровнял. 2015-08-09 16:29:26, 92 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>73.866182,58.77477,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-10. Лагерь Мост. Последняя стоянка на Демьянке</name>
+        <description>1 км выше точки выгруза. Чистил, дикое. 2015-08-10 16:31:45, 83 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>74.025992,58.720843,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-11. Лагерь Пешеход</name>
+        <description>Технический съезд. 2015-08-11 16:05:15, 96 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>73.982521,58.81253,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-12. Лагерь</name>
+        <description>Редко используемый съезд. 2015-08-12 16:44:21, 76 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>74.009117,59.097592,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-14. Лагерь</name>
+        <description>Рядом с парковкой. 2015-08-14 15:35:49, 92 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>75.038789,59.299985,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-13. Лагерь под лодкой</name>
+        <description>Не найдя место под лагерь, чувствуя непреодолимые приступы сна, нашёл чуть более широкую обочину, подвесил палатку под лодкой и спал всё тёмное время суток. При первых сумерках начал собираться. Тяжеловозы проезжали буквально в десяти метрах от моего ночлега. Украсил лодку светоотражателями. 2015-08-14 16:32:58</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-flood.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>74.534919,59.248546,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-15. Лагерь. Сторожа, балок</name>
+        <description>Стоянка зимней техники для геологоразведочных работ. 2015-08-16 03:59:04, 123 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-cabin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>75.526216,59.34102,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-16. Лагерь</name>
+        <description>Подъезд к конденсатнику. 2015-08-16 15:13:32, 97 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>75.873041,59.192273,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-19. Лагерь Река Катыльга</name>
+        <description>Перевалочная стоянка в реку Катыльга, у озера гидронамыва. По месторождениям прошёл 223.8 km. 2015-08-19 15:58:03, 70 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>76.48337,59.051569,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-17. Лагерь Общежитие. Дневка</name>
+        <description>Дневка в общежитии нефтяников, вахтовый посёлок Пионерный. Сушка, мойка, зарядка. Есть магазины и столовая, доступные всем.</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-camping.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>76.242346,59.163169,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-20. Лагерь Васюган</name>
+        <description>Коса, хвощ, пилил тальник. 2015-08-20 15:22:49, 63 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>76.905529,59.114774,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-21. Лагерь</name>
+        <description>Коса, хвощ, молоко. 2015-08-21 15:16:26, 60 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>77.577999,59.153485,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-22. Лагерь</name>
+        <description>В тальнике напротив яра. 2015-08-22 17:41:45</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>78.146344,59.200083,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-23. Лагерь. Дневка</name>
+        <description>В протоке, ставился под дождем. 2015-08-23 13:57:31, 61 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>78.424649,59.195128,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-25. Лагерь. 2 дневки</name>
+        <description>Поворот, закат, низкий пляж, штиль, уходящие облака. 2015-08-25 14:48:10</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>78.972474,59.12737,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-28. Лагерь</name>
+        <description>Рядом буровая. 2015-08-28 16:58:54, 51 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>79.749714,59.007049,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-29. Лагерь</name>
+        <description>Протока, коса, вверху в траве, пилил сухие. 2015-08-29 11:43:56, 50 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>80.016172,59.005271,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-30. Лагерь</name>
+        <description>Хвощ, чуть выше воды, шумит дорога. 2015-08-30 16:26:39, 47 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>80.426228,58.95891,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-08-31. Лагерь Обь</name>
+        <description>Парабель, коса, песок, огни вышек, выпиливал площадочку под палатку. 2015-08-31 15:45:45, 47 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>80.937182,59.017682,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-01. Лагерь Парабель</name>
+        <description>2015-09-01 15:17:28, 45 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>81.114193,58.908677,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-02. Лагерь</name>
+        <description>Парабель, высокая коса, стелил траву, луна, штиль. 2015-09-02 16:06:26, 50 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>81.426461,58.746881,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-03. Лагерь</name>
+        <description>В густой траве, медвежьи следы, звериные тропы. 2015-09-03 14:59:29, 55 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>81.808857,58.64203,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-04. Лагерь</name>
+        <description>Уступы, трава, под кроной большой ивы. 2015-09-04 15:24:28, 45 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>82.159873,58.567197,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-05. Лагерь</name>
+        <description>Косогор, берёзы. 2015-09-05 15:46:41, 64 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>82.35996,58.434744,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-06. Лагерь</name>
+        <description>Копал лестницу, под берёзкой, чёрная смородина. 2015-09-06 14:55:34, 54 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>82.630038,58.306596,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-07. Лагерь</name>
+        <description>Напротив Колпашево, лошади. 2015-09-07 15:40:36, 55 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>82.97831,58.305566,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-09. Лагерь</name>
+        <description>Копал полку на песчаном откосе. 2015-09-09 16:04:32, 58 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>83.231132,58.040183,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-10. Лагерь</name>
+        <description>Трава, молнии, спешил, залез - ливень, жара, духота. 2015-09-10 14:44:50, 65 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>83.510891,57.714303,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-12. Лагерь</name>
+        <description>У заводи, рядом ручей, низко, тальник. 2015-09-12 14:25:24, 55 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>83.669371,57.690553,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-13. Лагерь</name>
+        <description>Отмель, делал якорь, поляна, уютно. 2015-09-13 14:05:58, 67 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>83.865686,57.535372,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-14. Лагерь</name>
+        <description>Самый край склона, высоко, ровнял. 2015-09-14 14:43:18, 67 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>84.048014,57.32754,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-15. Лагерь</name>
+        <description>Незатопляемое! Старые деревья. 2015-09-15 15:25:22, 68 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>84.37096,57.1196,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-17. Лагерь Устье Томи</name>
+        <description>Вышки ЛЭП, хвощ, песок. 2015-09-17 14:50:11, 68 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>84.442141,56.899735,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-18. Лагерь Томь</name>
+        <description>Начало острова, высокая трава, сделал сеновал. 2015-09-18 15:03:13, 64 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>84.70284,56.691558,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-19. Лагерь</name>
+        <description>Внутри тальника, крапива, хвощ. Маленькая полянка внутри тальника. Ставился в темноте. 2015-09-19 15:49:06, 78 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>84.950946,56.380527,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-20. Лагерь</name>
+        <description>Ночной поиск, рядом каменный мыс, уходящий в неимоверную глубину - ощущения при плавании с фонарём, будто плывёшь над бездной. 2015-09-20 15:56:41, 83 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>84.981658,56.114583,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-21. Лагерь. 3 погодных дневки</name>
+        <description>Галька, деревня видна, если подняться на поле. 2015-09-21 13:04:29, 86 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>84.970245,55.859155,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-25. Лагерь</name>
+        <description>Спаржа декоративная (как на даче), ровнял ей и травой. 2015-09-25 15:01:20, 103 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>85.290477,55.656032,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-26. Лагерь</name>
+        <description>Верхотура, далеко от парковки. 2015-09-26 16:26:45, 121 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>85.815845,55.56475,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-27. Лагерь</name>
+        <description>Остров, заводь, луна, хороший заморозок, нашёл в темноте. 2015-09-27 15:07:48, 115 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>86.221205,55.349874,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-09-28. Лагерь. 2 дневки погодных</name>
+        <description>Людское, но без автодоступа. 2015-09-28 14:33:20, 114 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>86.319868,55.1197,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-01. Лагерь Дом</name>
+        <description>Дом Артёма. Мытьё, стирка, сушка, зарядка аккумуляторов. 2015-10-02 08:18:13, 134 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-camping.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>86.305894,55.108183,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-02. Лагерь</name>
+        <description>С рыбаками-охотниками из Кемерово. Рядом церквушка. 2015-10-02 17:32:22, 104 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>86.442593,55.122355,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-03. Лагерь</name>
+        <description>Между Томью и озером-останцем, рыбацкое. Ночью сильный ветер с дождём, перебрасывался на более отдалённое от берега место. 2015-10-03 18:09:42, 124 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>86.781353,55.090198,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-04. Лагерь</name>
+        <description>Недостроенная дамба. Парковка на затопленном автомобильном съезде, палатка на гравии с тонким слоем мха. Не получилось найти хоть сколько-то много сухой травы. 2015-10-04 14:51:42, 139 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.021531,55.02126,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-05. Лагерь. Дневка</name>
+        <description>Дикое, слепая протока, сосны, скалы, трава, мягко. 2015-10-05 13:50:27, 146 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.000706,54.817851,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-07. Лагерь</name>
+        <description>Ручей, ровнял-копал, людское. 2015-10-07 14:30:00, 151 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.150277,54.674174,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-08. Лагерь</name>
+        <description>Песчано-галечниковая отмель, перекати-поле. 2015-10-08 14:44:23, 154 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.46851,54.612863,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-09. Лагерь</name>
+        <description>После перекатов Ячменюхи, дикое, низко, трава, тальник, долго старательно выпиливал площадку. 2015-10-09 15:37:30, 166 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.514872,54.474356,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-11. Лагерь</name>
+        <description>Сергей-полиграфист и Гена-музыкант. 2015-10-11 14:41:02, 171 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.438184,54.272627,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-10. Лагерь</name>
+        <description>Старица, пихты, выпиливал для парковки каяка. Ночная птичка-синичка внутри пихты. 2015-10-11 14:44:16, 166 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.42654,54.30658,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-12. Лагерь</name>
+        <description>Нашёл в темноте, под тальником, рядом дачи. 2015-10-12 13:48:04, 177 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.336655,54.014774,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-13. Лагерь</name>
+        <description>Вырезал тальник из песчаной косы. 2015-10-13 13:38:23, 189 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.189621,53.893687,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-14. Лагерь Пешеход</name>
+        <description>Озёра, дачи, у дороги, нашёл в темноте, спрашивал у местных &#34;что это за местность, соориентируйте&#34;, ночью завалило снегом. 2015-10-14 13:15:14, 213 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.353452,53.768961,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-16. Лагерь</name>
+        <description>Овраг, берёзки, белазы, стройка дороги, цепочка фонарей вдалеке. 2015-10-16 12:33:58, 239 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.755447,53.725944,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-15. Лагерь Монастырь</name>
+        <description>Свято-Пантелеймоновский в посёлке Безруково. 2015-10-16 12:37:31</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-camping.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>87.553661,53.776516,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-17. Лагерь</name>
+        <description>Маленький закуток, поезд, гудок, ручей, река, дорога, машины. 2015-10-17 13:45:41, 249 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>88.118159,53.657798,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-18. Лагерь</name>
+        <description>У дороги, протоптанной уралами. Костёр, чтобы обсушиться после купания. Купание первое этой осенью, поэтому с непривычки развёл костёр. Потом, привыкая, костёр уже не развожу, сушу на себе. 2015-10-18 17:43:52, 273 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>88.355805,53.679014,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-19. Лагерь. Дневка</name>
+        <description>Песок и камни, копал лестницу, скучный пейзаж. 2015-10-19 13:25:31, 283 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>88.483778,53.654205,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-21. Лагерь</name>
+        <description>Постель из пихт, склон горы, оползни, перекат длинный, утром развёл костёр, чтобы душевно согреться. Облепленная мельчайшей мошкарой палатка. 2015-10-21 13:07:35, 311 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>88.627039,53.655712,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-22. Лагерь Баня</name>
+        <description>Николай из Новокузнецка. Бывший рабочий посёлок Борисовка, ныне дачи и только один единственный постоянный житель. Пришёл как раз на границе сумерек и напросился на ночлег. 2015-10-22 13:49:37, 336 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/ground-cabin.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>88.772216,53.659573,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-23. Лагерь</name>
+        <description>Вечерний костёр на поляне, вокруг пихты, эхо поездов, утром нетаящий снег на каяке. Палатка под тенью кедра. 2015-10-23 15:22:33, 362 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>88.916928,53.641571,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-24. Лагерь</name>
+        <description>Под крышей могучей ели от снега. Расшвыривал костер, чтобы на его месте поставить палатку. 2015-10-24 21:32:05, 423 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/01-camp.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>89.055551,53.464223,0 </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-10-25. Лагерь Балыкса</name>
+        <description>2015-10-25 18:46:06, 452 m</description>
+        <Style>
+          <LabelStyle>
+            <color>A600FFFF</color>
+            <scale>1</scale>
+          </LabelStyle>
+          <IconStyle>
+            <scale>1</scale>
+            <Icon>
+              <href>https://kirillaristov.com/kml-files/files/06-home.png</href>
+            </Icon>
+            <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+          </IconStyle>
+        </Style>
+        <Point>
+          <extrude>1</extrude>
+          <coordinates>89.158785,53.427928,0 </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
