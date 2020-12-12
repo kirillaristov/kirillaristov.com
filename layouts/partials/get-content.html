@@ -1,10 +1,9 @@
 {{- $currentPage := strings.TrimRight "/" (replace .RelPermalink "/en" "") }}
 
-{{ with .Content }}
-  {{- if eq (len .) 0 }}
-    {{- with .Sites.First.GetPage $currentPage }}
-      {{- .Content | safeHTML }}
-    {{- end }}
+
+{{- if eq (len .Content) 0 }}
+  {{- with .Sites.First.GetPage $currentPage }}
+    {{- .Content | safeHTML }}
   {{- end }}
 {{- else }}
   {{- .Content | safeHTML }}
