@@ -145,9 +145,8 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 
 .menu li a:hover {background-color:#d0fc82;color:#000;border-color:#b44141;}
 
-@media (max-width:400px) {
+
   .menu .menu__content {
-    white-space: nowrap;
     overflow-x: scroll;
     scroll-behavior:auto;
         -webkit-scroll-behavior:auto;-moz-scroll-behavior:auto;-ms-scroll-behavior:auto;-webkit-overflow-scrolling:touch;
@@ -155,7 +154,7 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
         -webkit-scrollbar-width:none;-moz-scrollbar-width:none;-ms-scrollbar-width:none;-ms-overflow-style:none;
   }
     
-  .menu .menu__content:after {
+  .menu:after {
       content: ' ';
       height: 100%;
       width: 3rem;
@@ -167,7 +166,7 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
       pointer-events: none;
       background: linear-gradient( to right,rgba(249,249,249,0) 0%,rgba(249,249,249,1) 100% );
   }
-}
+
 
 
 /* --- </MENU> --- */
