@@ -62,3 +62,4 @@
     x-content-type-options = "nosniff"
     referrer-policy = "origin-when-cross-origin"
     cache-control = "max-age=2592000"
+    strict-transport-security = "max-age=63072000; includeSubdomains; preload"
