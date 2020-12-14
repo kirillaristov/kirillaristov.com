@@ -44,4 +44,3 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "origin-when-cross-origin"
     cache-control = "max-age=2592000"
-    Feature-Policy = "microphone 'none'; geolocation 'none'"
