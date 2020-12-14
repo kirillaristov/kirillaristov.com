@@ -15,7 +15,7 @@
   to = "/en/"
   status = 302
   force = true
-  conditions = {Language = ["en"], Country = ["US"]}
+  conditions = {Language = ["en"]}
 [[redirects]]
   from = "/"
   to = "/ru/"
