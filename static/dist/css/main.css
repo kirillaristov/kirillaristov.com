@@ -1,9 +1,9 @@
 /*----------------------------------------------------------------------------
-(c) Nonprofit organization "National Trails", Russia
+(c) Kirill Aristov, Russia
 ----------------------------------------------------------------------------*/
 
 html, body, p, h1, h2, h3, h4, ul, li, blockquote, figure {margin:0;padding:0;}
-body {overflow-x:hidden;color:#212529;background-color:#fff;font:18px/24px cuprum,serif;}
+body {overflow-x:hidden;color:#212529;background-color:#fff;font-family:cuprum,serif;font-size:120%;line-height:1.3;}
 /*----------------------------------------------------------------------------
 ----------------------------------------------------------------------------*/
 h1 		{font:normal 33px/36px cuprum,serif;color:#767676;}
