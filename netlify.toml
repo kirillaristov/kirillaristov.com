@@ -57,9 +57,10 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    x-frame-options = "deny"
+    Strict-Transport-Security = "max-age=63072000; includeSubdomains; preload"
+    X-Frame-Options = "DENY"
     x-xss-protection = "1; mode=block"  
-    x-content-type-options = "nosniff"
-    referrer-policy = "origin-when-cross-origin"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "origin-when-cross-origin"
     cache-control = "max-age=2592000"
-    strict-transport-security = "max-age=63072000; includeSubdomains; preload"
+    Feature-Policy = "microphone 'none'; geolocation 'none'"
