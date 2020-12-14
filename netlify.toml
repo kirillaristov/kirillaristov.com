@@ -1,11 +1,14 @@
 [build]
-publish = "public"
-command = "hugo --gc --minify --enableGitInfo"
+  publish = "public/"
+  command = "hugo --gc --minify --enableGitInfo"
+
+[build.processing]
+  skip_processing = true
 
 [context.production.environment]
-HUGO_VERSION = "0.79.0"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+  HUGO_VERSION = "0.79.0"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "/ru/*"
@@ -50,3 +53,12 @@ HUGO_ENABLEGITINFO = "true"
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"}
   signed = "API_SIGNATURE_TOKEN"
+  
+[[headers]]
+  for = "/*"
+  [headers.values]
+    x-frame-options = "deny"
+    x-xss-protection = "1; mode=block"  
+    x-content-type-options = "nosniff"
+    referrer-policy = "origin-when-cross-origin"
+    cache-control = "max-age=2592000"

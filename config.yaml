@@ -1,7 +1,5 @@
 baseURL: "https://aristov.netlify.app/"
 
-paginate: 8
-
 frontmatter:
   date:
     - ":filename"
