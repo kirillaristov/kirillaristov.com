@@ -23,6 +23,9 @@ frontmatter:
   expiryDate:
     - "expiryDate"
 
+disableKinds:
+  - "404"
+
 taxonomies:
   category: "categories"
   tag: "tags"
@@ -36,7 +39,7 @@ disableHugoGeneratorInject: true
 disableLiveReload: true
 disableFastRender: true
 disablePathToLower: true
-enableGitInfo: false
+enableGitInfo: true
 # removePathAccents: false
 enableRobotsTXT: true
 
