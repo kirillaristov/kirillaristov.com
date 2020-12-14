@@ -21,15 +21,15 @@ HUGO_ENABLEGITINFO = "true"
   status = 404
 
 [[redirects]]
-  from = "/*"
-  to = "https://aristov.netlify.app/en/:splat"
+  from = "/"
+  to = "https://aristov.netlify.app/en/"
   status = 302
   force = true
   conditions = {Language = ["en"]}
 
 [[redirects]]
-  from = "/*"
-  to = "https://aristov.netlify.app/ru/:splat"
+  from = "/"
+  to = "https://aristov.netlify.app/ru/"
   status = 302
   force = true
   conditions = {Language = ["ru"]}
