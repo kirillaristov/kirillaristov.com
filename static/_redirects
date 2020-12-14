@@ -2,4 +2,4 @@
 /en/* /en/404/ 404
 /* /en/404/ 404
 
-/ /en 302!
+/ https://aristov.netlify.app/en 302!
