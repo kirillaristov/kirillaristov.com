@@ -15,6 +15,10 @@ HUGO_ENABLEGITINFO = "true"
   from = "/en/*"
   to = "/en/404/"
   status = 404
+[[redirects]]
+  from = "/*"
+  to = "/en/404/"
+  status = 404
 
 [[redirects]]
   from = "/old-path"
