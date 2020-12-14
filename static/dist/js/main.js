@@ -16,7 +16,7 @@ function youtube () {
 
     var nb_videos = videos.length;
     for (var i = 0; i < nb_videos; i++) {
-        var src = '/user/data/videos/thumbs/' + videos[i].id + '.jpg';
+        var src = '/static/videos/thumbs/' + videos[i].id + '.jpg';
 		var img = document.createElement('img');
 		img.setAttribute('src', src);
 		img.setAttribute('alt', '');

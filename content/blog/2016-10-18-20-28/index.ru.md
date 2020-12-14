@@ -5,4 +5,4 @@ coord: 47.73790,131.29828
 
 Так что же там, за дверью?.. Жизнь.
 
-{{< youtube "T2VpOYXu3vQ" >}}
+{{< youtube-thumb "T2VpOYXu3vQ" >}}

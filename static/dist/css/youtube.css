@@ -1,7 +1,6 @@
 /* --------------you tube preloader ------------------------ */
 
-.youtube {display:inline-block;position:relative;overflow:hidden;
-transition:all 200ms ease-out;cursor:pointer;}
+.youtube {display:inline-block;position:relative;overflow:hidden; transition:all 200ms ease-out;cursor:pointer;}
 
 .youtube > img {width:100%;max-width:640px;height:auto;}
 
