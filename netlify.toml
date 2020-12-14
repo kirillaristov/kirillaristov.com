@@ -25,17 +25,9 @@
 
 [[redirects]]
   from = "/"
-  to = "/en/"
-  status = 302
-  force = true
-  conditions = {Language = ["en"]}
-
-[[redirects]]
-  from = "/"
   to = "/ru/"
   status = 302
   force = true
-  conditions = {Language = ["ru"]}
 
 [[redirects]]
   from = "/old-path"
