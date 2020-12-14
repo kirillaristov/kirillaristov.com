@@ -1,9 +1,5 @@
 ---
 title: 10.300 km by bicycle 2008
-menu:
-  main:
-    name: TransRussia
-    weight: 17
 description: 'On the bicycle through whole Russia: Moscow—Vladivostok'
 keywords: Bicycle, Russia, expedition, Moscow, Vladivostok, cycle
 gallery:

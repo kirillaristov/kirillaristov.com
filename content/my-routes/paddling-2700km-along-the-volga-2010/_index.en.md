@@ -1,9 +1,5 @@
 ---
 title: 2.700 km paddling along the Volga 2010
-menu:
-  main:
-    name: The Volga
-    weight: 15
 description: Paddling 2.700 km along the Volga, across 8 dams of 9
 keywords: Volga, russia, baidarka, kayak, paddling, along, whole, caspian sea, dam
 gallery:
