@@ -1,23 +1,19 @@
 {{ define "main" -}}
 
 <br>
-<ul class="mediacontent">
-  {{- range sort .Paginator.Pages }}
-    <li>
-      <h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
 
-      <p><small>
-      {{- partial "date.html" . }}
-      {{ partial "get-media-coord.html" . }}
-      {{ partial "get-media-location.html" . -}}
-      </small></p>
+<div class="mediacontent__short">
+{{- range sort .Pages }}
 
-      {{- .Scratch.Set "addLink" "true" }}
-      {{ partial "figure.html" . }}
-    </li>
-  {{- end }}
-</ul>
+{{- $path := .RelPermalink }}
+{{- $base := path.Base $path }}
 
-{{ partial "pagination.html" . }}
+{{- $pic_full := print "/static/media/" $base  "/" $base ".jpg" -}}
+{{- $pic_thumb := print "/static/media/" $base  "/" $base ".jpg.thumb.jpg" -}}
+
+<a class="jpic" href="{{ .RelPermalink }}" title="{{ partial "get-title.html" . }}" data-href="{{ $pic_full }}" data-title="{{ partial "get-title.html" . }}" data-location="{{ partial "get-media-location.html" . }}"><img class="galleryPic" src="{{ $pic_thumb }}" alt="{{ partial "get-title.html" . }}{{ with partial "get-content.html" . }}. {{ chomp . }}{{ end }}"></a>
+
+{{ end }}
+</div>
 
 {{- end }}
