@@ -4,6 +4,11 @@
   <div class="breadcrumbs__wrapper">
     <nav class="breadcrumbs">
       {{- template "breadcrumbnav" (dict "p1" . "p2" .) }}
+      {{ if eq .Kind "term" }}
+        {{- with .Pages }}
+          <span>{{ $.Title }} <sup>[{{ len . }}]</sup></span>
+        {{- end }}
+      {{end}}
     </nav>
 
     
