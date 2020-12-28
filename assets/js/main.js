@@ -2,9 +2,8 @@
  * main.js
  * JS main file
  * charset utf-8
- * @author  Nonprofit organization "National Trails"
+ * @author  Kirill Aristov, RUS
  * @version 2018-08-23
- * @url https://nationaltrails.ru/user/themes/sky/js/main.js
  */
 
 // Detect current language

@@ -149,19 +149,10 @@ li {list-style-type: none;}
 	white-space: nowrap;
 }
 
-
-
-
-
-
-
 ::selection {
 	background-color: #00d1b2;
 	color: #fff;
 }
-
-
-
 
 .button, .file-cta, .file-name, .input, .pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, .select select, .textarea {
 	-moz-appearance: none;
@@ -192,8 +183,6 @@ li {list-style-type: none;}
 	text-align: center;
 }
 
-
-
 .breadcrumb, .button, .delete, .file, .is-unselectable, .modal-close, .pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, .tabs {
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
@@ -202,24 +191,17 @@ li {list-style-type: none;}
 	user-select: none;
 }
 
-
-
 .pagination-link, .pagination-next, .pagination-previous {
 	border-color: #dbdbdb;
 	color: #363636;
 	min-width: 2.5em;
 }
 
-
-
 a {
 	color: #3273dc;
 	cursor: pointer;
 	text-decoration: none;
 }
-
-
-
 
 *, ::after, ::before {
 	box-sizing: inherit;

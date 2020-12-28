@@ -12,14 +12,18 @@
 {{- end }}
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="/dist/css/fonts.css" type="text/css">
-<link rel="stylesheet" href="/dist/css/main.css" type="text/css">
-<link rel="stylesheet" href="/dist/css/baguetteBox.css" type="text/css">
-<link rel="stylesheet" href="/dist/css/pagination.css" type="text/css">
-<link rel="stylesheet" href="/dist/css/youtube.css" type="text/css">
-<link rel="stylesheet" href="/dist/css/route-classifier.css" type="text/css">
+{{- $1 := resources.Get "css/fonts.css" }}
+{{- $2 := resources.Get "css/main.css" }}
+{{- $3 := resources.Get "css/baguetteBox.css" }}
+{{- $4 := resources.Get "css/pagination.css" }}
+{{- $5 := resources.Get "css/youtube.css" }}
+{{- $6 := resources.Get "css/route-classifier.css" }}
+
+{{- $css := slice $1 $2 $3 $4 $5 $6 | resources.Concat "css/global.css" }}
+
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 
 <meta name="description" content="{{ .Description | default .Site.Params.description}}">
 <meta name="keywords" content="{{ delimit .Keywords " " | default .Site.Params.keywords}}">
@@ -36,7 +40,9 @@
 <meta name="generator" content="{{ .Site.Params.generator }}">
 </head>
 
-<body{{if .IsHome}} id="home"{{else if not (eq .Kind "taxonomy")}} id="page_{{ delimit (split (print .Page.File) "\\") "_" }}"{{end}} class="lang_{{ .Lang }} type_{{ .Page.Type }} kind_{{ .Page.Kind }}">
+{{ $page_id := index (last 1 (split (delimit (split .RelPermalink "/") "," "") ",")) 0 -}}
+
+<body{{if .IsHome}} id="home"{{else if or (.IsPage) (.IsSection)}} id="page_{{ $page_id }}"{{end}} class="lang_{{ .Lang }} type_{{ .Page.Type }} kind_{{ .Page.Kind }}">
 
 {{ block "header" . }}
   {{- partial "site-header.html" .}}

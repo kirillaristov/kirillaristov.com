@@ -64,3 +64,4 @@ figcaption .title {}
 .spinner div:nth-child(4) {animation:1.2s linear 0.9s normal none infinite running spinner;bottom:0;left:0;}
 @keyframes spinner {50% {opacity:0.3;}100% {opacity:1;}}
 @keyframes spinner {50% {opacity:0.3;}100% {opacity:1;}}
+
