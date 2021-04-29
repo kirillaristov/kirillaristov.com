@@ -135,7 +135,7 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 .menu__button.is-active .line-3 {transform:translateX(-11px) translateY(-11px);}
 /* </hamburger button> */
 
-.menu {position:relative;width:100%;overflow:hidden;margin:0;padding:0;height:41px;}
+.menu {position:relative;width:100%;overflow:hidden;margin:0;padding:0;}
 
 .menu .menu__content {white-space:nowrap;}
 
