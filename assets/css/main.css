@@ -135,7 +135,7 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 .menu__button.is-active .line-3 {transform:translateX(-11px) translateY(-11px);}
 /* </hamburger button> */
 
-.menu {position:relative;width:100%;overflow:hidden;margin:0;padding:0;}
+.menu {position:relative;width:100%;overflow:hidden;margin:0;padding:0;height:41px;}
 
 .menu .menu__content {white-space:nowrap;}
 
@@ -360,8 +360,6 @@ ul.photos__second-nav li:last-child:after {content:'';}
 }
 
 @media (max-width:1000px) {
-	.menu__content {margin-left:1px;}
-	
 	h2 {font-size:26px;line-height:35px;}
 	h3 {font-size:23px;line-height:34px;}
 }
