@@ -254,10 +254,10 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 #footer-contacts {max-width:320px;flex-basis:320px;margin-bottom:30px;}
 #footer-contacts p#explain {border-bottom:1px dashed #8f53fd;padding-bottom:1em;margin-bottom:20px;}
 #footer-contacts p#address {position:relative;padding:0 0 20px 30px;}
-#footer-contacts p#address:before {content:'';position:absolute;top:0;left:0;display:block;width:21px;height:34px;background:transparent url('../images/location.svg') no-repeat left 4px;}
+#footer-contacts p#address:before {content:'';position:absolute;top:0;left:0;display:block;width:21px;height:34px;background:transparent url('/dist/images/location.svg') no-repeat left 4px;}
 
 #footer-contacts p#email {position:relative;padding:7px 0 30px 30px;}
-#footer-contacts p#email:before {content:'';position:absolute;top:8px;left:0;display:block;width:21px;height:26px;background:transparent url('../images/email.svg') no-repeat left 4px;}
+#footer-contacts p#email:before {content:'';position:absolute;top:8px;left:0;display:block;width:21px;height:26px;background:transparent url('/dist/images/email.svg') no-repeat left 4px;}
 
 
 
