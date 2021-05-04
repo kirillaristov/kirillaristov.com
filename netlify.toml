@@ -36,6 +36,20 @@
   status = 404
 
 [[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "max-age=1592001"
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Cache-Control = "max-age=1592002"
+[[headers]]
+  for = "*.woff2"
+  [headers.values]
+    Cache-Control = "max-age=1592003"
+
+
+[[headers]]
   for = "/*"
   [headers.values]
     Strict-Transport-Security = "max-age=63072000; includeSubdomains; preload"
@@ -43,16 +57,4 @@
     X-XSS-protection = "1; mode=block"  
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "origin-when-cross-origin"
-    Cache-Control = "max-age=3592011"
-[[headers]]
-  for = "/*.css"
-  [headers.values]
-    Cache-Control = "max-age=1592001"
-[[headers]]
-  for = "/*.js"
-  [headers.values]
-    Cache-Control = "max-age=1592002"
-[[headers]]
-  for = "/*.woff2"
-  [headers.values]
-    Cache-Control = "max-age=1592003"
+    Cache-Control = "max-age=0, must-revalidate, public"
