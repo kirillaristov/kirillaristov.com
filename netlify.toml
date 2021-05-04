@@ -49,12 +49,4 @@
     Cache-Control = "max-age=1592003"
 
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Strict-Transport-Security = "max-age=63072000; includeSubdomains; preload"
-    X-Frame-Options = "DENY"
-    X-XSS-protection = "1; mode=block"  
-    X-Content-Type-Options = "nosniff"
-    Referrer-Policy = "origin-when-cross-origin"
-    Cache-Control = "max-age=0, must-revalidate, public"
+
