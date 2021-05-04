@@ -34,17 +34,28 @@
   from = "/*"
   to = "/en/404/"
   status = 404
+  
+  
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubdomains; preload"
+    X-Frame-Options = "DENY"
+    X-XSS-protection = "1; mode=block"  
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "origin-when-cross-origin"
+    Cache-Control = "max-age=0, must-revalidate, public"
 
 [[headers]]
-  for = "/css/*.css"
+  for = "*.css"
   [headers.values]
     Cache-Control = "public, max-age=604800"
 [[headers]]
-  for = "/js/*.js"
+  for = "*.js"
   [headers.values]
     Cache-Control = "public, max-age=604800"
 [[headers]]
-  for = "/fonts/*.woff2"
+  for = "*.woff2"
   [headers.values]
     Cache-Control = "public, max-age=604800"
 
