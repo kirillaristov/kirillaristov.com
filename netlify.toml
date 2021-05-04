@@ -40,7 +40,19 @@
   [headers.values]
     Strict-Transport-Security = "max-age=63072000; includeSubdomains; preload"
     X-Frame-Options = "DENY"
-    x-xss-protection = "1; mode=block"  
+    X-XSS-protection = "1; mode=block"  
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "origin-when-cross-origin"
-    cache-control = "max-age=2592000"
+    Cache-Control = "max-age=0, must-revalidate, public"
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "max-age=2592000"
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Cache-Control = "max-age=2592000"
+[[headers]]
+  for = "*.woff2"
+  [headers.values]
+    Cache-Control = "max-age=2592000"
