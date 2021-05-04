@@ -36,15 +36,15 @@
   status = 404
 
 [[headers]]
-  for = "*.css"
+  for = "/css/*.css"
   [headers.values]
     Cache-Control = "public, max-age=604800"
 [[headers]]
-  for = "*.js"
+  for = "/js/*.js"
   [headers.values]
     Cache-Control = "public, max-age=604800"
 [[headers]]
-  for = "*.woff2"
+  for = "/fonts/*.woff2"
   [headers.values]
     Cache-Control = "public, max-age=604800"
 
