@@ -36,17 +36,17 @@
   status = 404
 
 [[headers]]
-  for = "/*.css"
+  for = "*.css"
   [headers.values]
-    Cache-Control = "max-age=1592001"
+    Cache-Control = "public, max-age=604800"
 [[headers]]
-  for = "/*.js"
+  for = "*.js"
   [headers.values]
-    Cache-Control = "max-age=1592002"
+    Cache-Control = "public, max-age=604800"
 [[headers]]
-  for = "/*.woff2"
+  for = "*.woff2"
   [headers.values]
-    Cache-Control = "max-age=1592003"
+    Cache-Control = "public, max-age=604800"
 
 
 
