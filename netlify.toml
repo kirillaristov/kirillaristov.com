@@ -43,16 +43,16 @@
     X-XSS-protection = "1; mode=block"  
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "origin-when-cross-origin"
-    Cache-Control = "max-age=3592000"
+    Cache-Control = "max-age=3592011"
 [[headers]]
-  for = "*.css"
+  for = "/*.css"
   [headers.values]
-    Cache-Control = "max-age=3592000"
+    Cache-Control = "max-age=1592001"
 [[headers]]
-  for = "*.js"
+  for = "/*.js"
   [headers.values]
-    Cache-Control = "max-age=3592000"
+    Cache-Control = "max-age=1592002"
 [[headers]]
-  for = "*.woff2"
+  for = "/*.woff2"
   [headers.values]
-    Cache-Control = "max-age=3592000"
+    Cache-Control = "max-age=1592003"
