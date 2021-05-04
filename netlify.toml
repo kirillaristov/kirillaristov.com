@@ -43,7 +43,7 @@
     X-XSS-protection = "1; mode=block"  
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "origin-when-cross-origin"
-    Cache-Control = "max-age=0, must-revalidate, public"
+    Cache-Control = "max-age=3592000"
 [[headers]]
   for = "*.css"
   [headers.values]
