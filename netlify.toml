@@ -44,20 +44,37 @@
     X-XSS-protection = "1; mode=block"  
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "origin-when-cross-origin"
-    Cache-Control = "max-age=0, must-revalidate, public"
+#   Cache-Control = "max-age=0, must-revalidate, public"
+    Cache-Control = "no-cache, no-store"
+
+# 2678400 = 31 days
+# 31536000 = 365 days
 
 [[headers]]
   for = "*.css"
   [headers.values]
-    Cache-Control = "public, max-age=604800"
+    Cache-Control = "max-age=2678400, public, immutable"
 [[headers]]
   for = "*.js"
   [headers.values]
-    Cache-Control = "public, max-age=604800"
+    Cache-Control = "max-age=2678400, public, immutable"
 [[headers]]
   for = "*.woff2"
   [headers.values]
-    Cache-Control = "public, max-age=604800"
-
-
-
+    Cache-Control = "max-age=2678400, public, immutable"
+[[headers]]
+  for = "*.jpg"
+  [headers.values]
+    Cache-Control = "max-age=0, must-revalidate, public"
+[[headers]]
+  for = "*.png"
+  [headers.values]
+    Cache-Control = "max-age=2678400, public, immutable"
+[[headers]]
+  for = "*.svg"
+  [headers.values]
+    Cache-Control = "max-age=2678400, public, immutable"
+[[headers]]
+  for = "*.ico"
+  [headers.values]
+    Cache-Control = "max-age=31536000, public, immutable"
