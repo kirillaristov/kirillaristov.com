@@ -36,12 +36,9 @@
   status = 404
   
 
-# 86400 = 1 day
-# 2678400 = 31 days
-# 31536000 = 365 days
-
-# Please cache this content, and then do not trust your cache
+# Headers and Caching
 [[headers]]
+  # for *.html
   for = "/*"
   [headers.values]
     Strict-Transport-Security = "max-age=63072000; includeSubdomains; preload"
@@ -49,13 +46,14 @@
     X-XSS-protection = "1; mode=block"  
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "origin-when-cross-origin"
+    # Please cache this content, and then do not trust your cache
     Cache-Control = "max-age=0, must-revalidate, public"
 [[headers]]
   for = "*.jpg"
   [headers.values]
     Cache-Control = "max-age=0, must-revalidate, public"
 
-# 1 day
+# 1 day (86400 sec)
 [[headers]]
   for = "*.png"
   [headers.values]
@@ -65,7 +63,7 @@
   [headers.values]
     Cache-Control = "max-age=86400, public, immutable"
 
-# 31 days
+# 31 days (2678400 sec)
 [[headers]]
   for = "*.css"
   [headers.values]
