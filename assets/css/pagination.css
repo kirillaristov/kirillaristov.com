@@ -141,14 +141,14 @@ li {list-style-type: none;}
   justify-content:flex-end;
   order:3
  }
-} 
+
  
  .pagination-next, .pagination-previous {
 	padding-left: .75em;
 	padding-right: .75em;
 	white-space: nowrap;
  }
-
+}
 
 ::selection {
 	background-color: #00d1b2;
