@@ -58,7 +58,7 @@
   
   <!--noindex-->
   {{- with .Site.GetPage "/favourite-books" }}
-    <h2><a href="/{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     {{ .Content }}
   {{ end }}
   <!--/noindex-->
