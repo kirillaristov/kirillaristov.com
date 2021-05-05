@@ -34,11 +34,10 @@
   from = "/*"
   to = "/en/404/"
   status = 404
-  
+
 
 # Headers and Caching
 [[headers]]
-  # for *.html
   for = "/*"
   [headers.values]
     Strict-Transport-Security = "max-age=63072000; includeSubdomains; preload"
@@ -48,20 +47,14 @@
     Referrer-Policy = "origin-when-cross-origin"
     # Please cache this content, and then do not trust your cache
     Cache-Control = "max-age=0, must-revalidate, public"
+
+
+# 7 days (604800 sec)
 [[headers]]
   for = "*.jpg"
   [headers.values]
-    Cache-Control = "max-age=0, must-revalidate, public"
+    Cache-Control = "max-age=604800, public, immutable"
 
-# 1 day (86400 sec)
-[[headers]]
-  for = "*.png"
-  [headers.values]
-    Cache-Control = "max-age=86400, public, immutable"
-[[headers]]
-  for = "*.svg"
-  [headers.values]
-    Cache-Control = "max-age=86400, public, immutable"
 
 # 31 days (2678400 sec)
 [[headers]]
