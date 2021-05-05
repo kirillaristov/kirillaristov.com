@@ -1,7 +1,7 @@
 /* --- <Route Classifier> --- */
-#route-classifier body {overflow-x:hidden;font-size:13px;color:#000;background-color:#fff;font-family:arial,helvetica,sans-serif;}
-/*#route-classifier #content {padding-left:0;padding-right:0;}
-#route-classifier h2, #route-classifier p {padding-left:30px;padding-right:25px;}*/
+
+/*#route-classifier body {overflow-x:hidden;font-size:13px;color:#000;background-color:#fff;font-family:arial,helvetica,sans-serif;}*/
+
 #as-the-first-settlers-route-classifier {margin-top:30px;border-collapse:collapse;}
 #as-the-first-settlers-route-classifier td {
 	border-bottom-style:solid;
@@ -30,22 +30,22 @@
 /*colours*/
 .green			{background-color:#66fb6699;fill:#16e616;}
 .green .track_descr, .green .track_km, .green .track_title {color:#103e0d;}
-.green .color	{background-color:#16e616;fill:#16e616;}
+.green .color		{background-color:#16e616;fill:#16e616;}
 .green td		{border-color:#78da7266;}
 
 .blue			{background-color:#6284fc1a;fill:#1800ff;}
 .blue .track_descr, .blue .track_km, .blue .track_title {color:#333232;}
-.blue .color	{background-color:#1800ff;fill:#1800ff;}
+.blue .color		{background-color:#1800ff;fill:#1800ff;}
 .blue td		{border-color:#aaabed4d;}
 
 .yellow			{background-color:#f0ff0066;fill:#f0ff00;}
 .yellow .track_descr, .yellow .track_km, .yellow .track_title {color:#2f2e2e;}
-.yellow .color	{background-color:#f0ff00;fill:#f0ff00;}
+.yellow .color		{background-color:#f0ff00;fill:#f0ff00;}
 .yellow td		{border-color:#c5a65d4d;}
 
 .branch			{background-color:#1478fa66;fill:#14b6fa;}
 .branch .track_descr, .branch .track_km, .branch .track_title {color:#0d1462;}
-.branch .color	{background-color:#14b6fa;fill:#14b6fa;}
+.branch .color		{background-color:#14b6fa;fill:#14b6fa;}
 .branch td		{border-color:#5051a24d;}
 
 /* --- </Route Classifier> --- */
