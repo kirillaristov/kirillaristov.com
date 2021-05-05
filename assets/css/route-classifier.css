@@ -1,7 +1,4 @@
 /* --- <Route Classifier> --- */
-
-/*#route-classifier body {overflow-x:hidden;font-size:13px;color:#000;background-color:#fff;font-family:arial,helvetica,sans-serif;}*/
-
 #as-the-first-settlers-route-classifier {margin-top:30px;border-collapse:collapse;}
 #as-the-first-settlers-route-classifier td {
 	border-bottom-style:solid;
@@ -10,21 +7,21 @@
 	border-right-width:1px;
 	}
 
-#as-the-first-settlers-route-classifier td:not(.track_direction) {padding:10px;}
-#as-the-first-settlers-route-classifier .track_direction {width:6px;border:none;}
-#as-the-first-settlers-route-classifier .track_title {width:15%;height:35px;}
-#as-the-first-settlers-route-classifier .track_descr {border-right:none;}
-#as-the-first-settlers-route-classifier .camp_descr {width:30%;}
-#as-the-first-settlers-route-classifier .camp_date {text-align:center;}
-#as-the-first-settlers-route-classifier .camp_date, #route-classifier .track_km {white-space:nowrap;}
-#as-the-first-settlers-route-classifier tr:first-child>td.color {border-bottom:1px solid #a1a6c2;border-right:1px solid #a1a6c2;}
-#as-the-first-settlers-route-classifier tr:last-child>td.color {border-right:1px solid #a1a6c2;}
-#as-the-first-settlers-route-classifier tr:last-child>td {border-bottom:none;}
-#as-the-first-settlers-route-classifier .camp_descr img {width:21px;}
+.camp_date, .camp_descr	{background-color:#fff;color:#262525;}
 
-.camp_date, .camp_descr {background-color:#fff;color:#262525;}
-#as-the-first-settlers-route-classifier .table_caption td {background-color:#d8f65e4d;}
-#as-the-first-settlers-route-classifier .table_caption {border-bottom:5px solid #c7cff5;}
+#as-the-first-settlers-route-classifier .camp_date, #as-the-first-settlers-route-classifier .track_km {white-space:nowrap;}
+#as-the-first-settlers-route-classifier td:not(.track_direction)	{padding:10px;}
+#as-the-first-settlers-route-classifier .track_direction		{width:6px;border:none;}
+#as-the-first-settlers-route-classifier .track_title			{width:15%;height:35px;}
+#as-the-first-settlers-route-classifier .track_descr			{border-right:none;}
+#as-the-first-settlers-route-classifier .camp_descr			{width:30%;}
+#as-the-first-settlers-route-classifier .camp_date			{text-align:center;}
+#as-the-first-settlers-route-classifier tr:first-child>td.color		{border-bottom:1px solid #a1a6c2;border-right:1px solid #a1a6c2;}
+#as-the-first-settlers-route-classifier tr:last-child>td.color		{border-right:1px solid #a1a6c2;}
+#as-the-first-settlers-route-classifier tr:last-child>td		{border-bottom:none;}
+#as-the-first-settlers-route-classifier .camp_descr img			{width:21px;}
+#as-the-first-settlers-route-classifier .table_caption td		{background-color:#d8f65e4d;}
+#as-the-first-settlers-route-classifier .table_caption			{border-bottom:5px solid #c7cff5;}
 
 
 /*colours*/
