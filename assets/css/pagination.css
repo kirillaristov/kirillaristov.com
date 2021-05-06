@@ -69,14 +69,14 @@
  pointer-events:none
 }
 .pagination-list {
- flex-wrap:wrap
+ flex-wrap:wrap;
+ justify-content:center;
 }
 
 .pagination-previous {
  order:1
 }
 .pagination-list {
- justify-content:center;
  order:2
 }
 .pagination-next {
@@ -103,7 +103,6 @@
  .pagination-list {
   flex-grow:1;
   flex-shrink:1;
-  justify-content:flex-start;
  }
  .pagination {
   justify-content:space-between
