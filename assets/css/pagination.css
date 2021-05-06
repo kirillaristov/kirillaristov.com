@@ -71,6 +71,19 @@
 .pagination-list {
  flex-wrap:wrap
 }
+
+.pagination-previous {
+ order:1
+}
+.pagination-list {
+ justify-content:center;
+ order:2
+}
+.pagination-next {
+ order:3
+}
+
+
 @media screen and (max-width:768px) {
  .pagination {
   flex-wrap:wrap
@@ -85,25 +98,15 @@
   flex-shrink:1
  }
 }
-@media screen and (min-width:769px),print {
+
+@media screen and (min-width:769px) {
  .pagination-list {
   flex-grow:1;
   flex-shrink:1;
   justify-content:flex-start;
-  order:1
  }
  .pagination {
   justify-content:space-between
- }
- .pagination-previous {
-  order:1
- }
- .pagination-list {
-  justify-content:center;
-  order:2
- }
- .pagination-next {
-  order:3
  }
  .pagination-next, .pagination-previous {
 	padding-left: .75em;
@@ -111,6 +114,7 @@
 	white-space: nowrap;
  }
 }
+
 
 ::selection {
 	background-color: #00d1b2;
