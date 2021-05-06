@@ -141,7 +141,7 @@ li {list-style-type: none;}
   justify-content:flex-end;
   order:3
  }
-
+ 
  
  .pagination-next, .pagination-previous {
 	padding-left: .75em;
