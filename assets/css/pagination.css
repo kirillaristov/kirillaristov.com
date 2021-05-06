@@ -3,6 +3,26 @@
  margin:-.25rem
 }
 
+li {list-style-type: none;}
+
+.pagination.is-small {
+ font-size:.75rem
+}
+.pagination.is-medium {
+ font-size:1.25rem
+}
+.pagination.is-large {
+ font-size:1.5rem
+}
+.pagination.is-rounded .pagination-next,
+.pagination.is-rounded .pagination-previous {
+ padding-left:1em;
+ padding-right:1em;
+ border-radius:290486px
+}
+.pagination.is-rounded .pagination-link {
+ border-radius:290486px
+}
 .pagination,
 .pagination-list {
  align-items:center;
@@ -92,25 +112,19 @@
   justify-content:flex-start;
   order:1
  }
- .pagination-previous {
-  order:2
- }
- .pagination-next {
-  order:3
- }
  .pagination {
   justify-content:space-between
  }
- .pagination-previous {
+ .pagination .pagination-previous {
   order:1
  }
- .pagination-list {
+ .pagination .pagination-list {
   justify-content:center;
   order:2
  }
- .pagination-next {
+ .pagination .pagination-next {
   order:3
- } 
+ }
  .pagination-next, .pagination-previous {
 	padding-left: .75em;
 	padding-right: .75em;
@@ -123,7 +137,7 @@
 	color: #fff;
 }
 
-.pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, {
+.button, .file-cta, .file-name, .input, .pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, .select select, .textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
 	align-items: center;
@@ -152,7 +166,7 @@
 	text-align: center;
 }
 
-.pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, {
+.breadcrumb, .button, .delete, .file, .is-unselectable, .modal-close, .pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, .tabs {
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -164,4 +178,14 @@
 	border-color: #dbdbdb;
 	color: #363636;
 	min-width: 2.5em;
+}
+
+a {
+	color: #3273dc;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+*, ::after, ::before {
+	box-sizing: inherit;
 }
