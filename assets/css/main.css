@@ -13,7 +13,7 @@ h4		{font:normal 15px/20px cuprum,serif;color:#000000;}
 
 .breadcrumbs {color:#212529;}
 
-p  		{word-break:keep-all;}
+p {word-break:keep-all;}
 
 .content h1 {margin:30px 0 16px;padding:20px 0 2px;border-bottom:1px solid #eaecef;}
 .content h2 {margin-bottom:16px;padding-top:20px;padding-bottom:2px;border-bottom:1px solid #eaecef;}
@@ -23,15 +23,12 @@ p  		{word-break:keep-all;}
 .content h3.media__title {padding-top:0;}
 .content h2.home__blog-title {border-color:#8f53fd;}
 
-
 .content h3, .content h4 {clear:both;margin-bottom:12px;padding-top:20px;}
 
 .content h2:not(.content__title) + h3 {padding-top:0;margin-top:-5px;}
 .content h2.content__title + h3 {padding-top:18px;}
 
-/* .content ul {margin-bottom:15px;padding-bottom:10px;} */
 .content ul.blogcontent {list-style-type:none;margin-left:0;}
-/* .content ul > li:not(:last-child) {margin-bottom:15px;} */
 .content ul.blogcontent > li:not(:last-child) {margin-bottom:40px;}
 .content ul.mediacontent > li:not(:last-child) {margin-bottom:40px;}
 
@@ -52,7 +49,7 @@ nav.slave {margin-bottom:30px;}
 
 img {overflow:hidden;border:none;vertical-align:middle;}
 
-
+::selection {color:#fff;background-color:#00d1b2;}
 
 small, .small	{font-size:0.8em;}
 iframe	{vertical-align:middle;border:none;background-color:#7b90fd;}
@@ -118,23 +115,6 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 
 
 /* --- <MENU> --- */
-/* <hamburger button> */
-.menu__button {align-items:center;justify-content:center;float:left;z-index:7;width:61px;height:60px;cursor:pointer;background-color:#dfeaf2;}
-#home .menu__button {background-color:#f9f9f9;}
-.menu__button > span {display:inline-block;position:relative;width:2px;height:8px;margin:0 6px;padding:10px;}
-.menu__button > span > span {position:absolute;left:7px;display:block;width:6px;height:6px;background-color:#25A8D8;border-radius:50%;}
-.menu__button > span > span {transition:all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1.000);transition-timing-function:cubic-bezier(0.645, 0.045, 0.355, 1.000);}
-#home .menu__button > span > span {background-color:#25A8D8;}
-
-
-.menu__button .line-1 {top:0;}
-.menu__button .line-2 {top:11px;}
-.menu__button .line-3 {bottom:0;}
-.menu__button.is-active .line-1 {transform:translateX(11px) translateY(11px);}
-.menu__button.is-active .line-2 {}
-.menu__button.is-active .line-3 {transform:translateX(-11px) translateY(-11px);}
-/* </hamburger button> */
-
 .menu li {display:inline-block;outline:none;}
 .menu li a {display:block;padding:8px 11px;outline:none;}
 .menu li.active {padding:8px 11px;color:#b44141;}
@@ -165,15 +145,11 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 /* --- </MENU> --- */
 
 
-
-
-
 /* --- Миниатюры фото для страниц Путешествие 2014х --- */
 .mediacontent__short {margin-top:10px;text-align:center;letter-spacing:20px;}
 .mediacontent__short a {display:inline-block;margin-bottom:20px;max-width:100%;}
 .mediacontent__short a img {background-color:#c0bdf8;text-align:left;letter-spacing:normal;}
 /* --- Миниатюры фото для страниц Путешествие 2014х --- */
-
 
 
 
