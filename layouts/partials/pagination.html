@@ -86,13 +86,13 @@
     {{- if $paginator.HasPrev }}
         <a class="pagination-previous" href="{{ $paginator.Prev.URL }}">{{ .Site.Params.PREVIOUS }}</a>
     {{- else }}
-        <a class="pagination-previous" title="{{ .Site.Params.ON_FIRST }}" disabled>{{ .Site.Params.PREVIOUS }}</a>
+        <a class="pagination-previous disabled" title="{{ .Site.Params.ON_FIRST }}">{{ .Site.Params.PREVIOUS }}</a>
     {{- end }}
 
     {{- if $paginator.HasNext }}
         <a class="pagination-next" href="{{ $paginator.Next.URL }}">{{ .Site.Params.NEXT }}</a>
     {{- else }}
-        <a class="pagination-next" title="{{ .Site.Params.ON_LAST }}" disabled>{{ .Site.Params.NEXT }}</a>
+        <a class="pagination-next disabled" title="{{ .Site.Params.ON_LAST }}">{{ .Site.Params.NEXT }}</a>
     {{- end }}
 
     <ul class="pagination-list">
