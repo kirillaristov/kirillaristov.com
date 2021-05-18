@@ -12,7 +12,7 @@
 
 <br>{{ $.Site.Params.COORDINATES }}: <a target="_blank" href="/map/?type=hybrid&amp;zoom=12&amp;center={{.}}&amp;placemark={{.}}">{{.}}</a>
 
-{{ $url := printf "/map/?type=hybrid&amp;zoom=12&amp;center='%s'&amp;placemark='%s'" . }}
+{{ $url := printf "/map/?type=hybrid&amp;zoom=12&amp;center=%s&amp;placemark=%s" ., . }}
   
 <br>
 {{ $url }}
