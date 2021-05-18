@@ -18,6 +18,6 @@
 {{ $url }}
 <br>
 
-<br>{{ $.Site.Params.COORDINATES }}: <a target="_blank" {{printf "href=%q" $url }}>{{.}}</a>
+<br>{{ $.Site.Params.COORDINATES }}: <a target="_blank" {{printf "href=%q" $url | safeHTMLAttr }}>{{.}}</a>
 
 {{- end }}
