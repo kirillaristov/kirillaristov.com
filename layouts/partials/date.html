@@ -1,3 +1,4 @@
+<p><small>
 {{- with partial "get-date-from-filename.html" . -}}
 
   {{- if eq "ru" $.Lang -}}
@@ -6,4 +7,5 @@
     {{ . | dateFormat $.Site.Params.datePosted }} UTC
   {{- end -}}
 
-{{- end }}
+{{- end -}}
+</small></p>
