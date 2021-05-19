@@ -1,5 +1,5 @@
-<p class="post__date"><small>
 {{- with partial "get-date-from-filename.html" . -}}
+<p class="post__date"><small>
 
   {{- if eq "ru" $.Lang -}}
     {{ . | dateFormat "1" }} {{ index $.Site.Data.month (. | dateFormat "1") }} {{ . | dateFormat "2006"  }}, {{ . | dateFormat "15" }}:{{ . | dateFormat "04" }} UTC
@@ -7,5 +7,5 @@
     {{ . | dateFormat $.Site.Params.datePosted }} UTC
   {{- end -}}
 
-{{- end -}}
 </small></p>
+{{- end -}}
