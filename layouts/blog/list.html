@@ -5,11 +5,9 @@
   <li>
     <h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
 
-    <p><small>
-    {{- partial "date.html" . }}
-    {{- partial "get-post-coord.html" . -}}
-    </small></p>    
-    
+    {{ partial "date.html" . }}
+    {{ partial "get-post-coord.html" . }}
+
     {{- with partial "get-images.html" . }}   
       <p class="images">
         {{- range $image := . }}
