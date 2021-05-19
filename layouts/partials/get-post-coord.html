@@ -1,4 +1,4 @@
-{{ $coord := .Param "coord" | default "" }}
+{{- $coord := .Param "coord" | default "" }}
 
 {{- $currentPage := strings.TrimRight "/" (replace .RelPermalink "/en" "") }}
 
@@ -8,7 +8,7 @@
   {{- end }}
 {{- end }}
 
-{{- with $coord -}}
+{{- with $coord }}
 
 {{- $url := printf "/map/#type=hybrid&amp;zoom=12&amp;center=%s&amp;placemark=%s" (.) (.) -}}
 
