@@ -10,14 +10,8 @@
 
 {{- with $coord -}}
 
-<br>{{ $.Site.Params.COORDINATES }}: <a target="_blank" href="/map/#type=hybrid&amp;zoom=12&amp;center={{.}}&amp;placemark={{.}}">{{.}}</a>
-
 {{ $url := printf "/map/#type=hybrid&amp;zoom=12&amp;center=%s&amp;placemark=%s" (.) (.) }}
-  
-<br>
-{{ $url }}
-<br>
 
-<br>{{ $.Site.Params.COORDINATES }}: <a target="_blank" {{printf "href=%q" $url | safeHTMLAttr }}>{{.}}</a>
+<br>{{ $.Site.Params.COORDINATES }}: <a target="_blank" {{ printf "href=%q" $url | safeHTMLAttr }}>{{.}}</a>
 
 {{- end }}
