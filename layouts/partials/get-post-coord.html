@@ -1,4 +1,4 @@
-{{- $coord := .Param "coord" | default "" }}
+{{ $coord := .Param "coord" | default "" }}
 
 {{- $currentPage := strings.TrimRight "/" (replace .RelPermalink "/en" "") }}
 
@@ -14,4 +14,4 @@
 
 <p class="post__coord"><small>{{ $.Site.Params.COORDINATES }}: <a target="_blank" {{ printf "href=%q" $url | safeHTMLAttr }}>{{.}}</a></small></p>
 
-{{- end -}}
+{{- end }}
