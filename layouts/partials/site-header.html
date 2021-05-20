@@ -2,10 +2,11 @@
 {{ partial "lang-changer.html" . }}
   
 <h1 class="header__site-name">
-{{ if not .IsHome }}<a href="/{{.Lang}}/">{{end}}
+<span itemscope itemtype="http://schema.org/Organization">{{ if not .IsHome }}<a href="/{{.Lang}}/">{{end}}
   {{- partial "svg/logo.svg" -}}
   {{- .Site.Title -}}
 {{ if not .IsHome }}</a>{{end}}
+</span>
 </h1>
   
 {{ partial "menu.html" . }}
