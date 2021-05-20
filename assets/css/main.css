@@ -19,7 +19,7 @@ p {word-break:keep-all;}
 .content h2 {margin-bottom:16px;padding-top:20px;padding-bottom:2px;border-bottom:1px solid #eaecef;}
 .content h2.content__title {margin-bottom:16px;padding-top:0;border-bottom:none;}
 .content h2.blog__title {padding-top:0;}
-.content h2.post__title {margin-bottom:22px;}
+.content h2.post__title {margin-bottom:10px;}
 .content h3.media__title {padding-top:0;}
 .content h2.home__blog-title {border-color:#8f53fd;}
 
