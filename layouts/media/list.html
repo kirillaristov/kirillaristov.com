@@ -10,8 +10,8 @@
 {{- $pic_thumb := print "/static/media/" $base  "/" $base ".jpg.thumb.jpg" }}
 
 {{- if (fileExists $pic_thumb) }}
-  {{- $width := '' }}
-  {{- $height := '' }}
+  {{- $width := "" }}
+  {{- $height := "" }}
   {{- with (imageConfig $pic_thumb) }}
     {{- $width = .Width }}
     {{- $height = .Height }}
@@ -22,6 +22,5 @@
 </a>
 
 {{ end }}
+{{ end }}
 </div>
-
-{{- end }}
