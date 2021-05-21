@@ -9,9 +9,12 @@
 {{- $pic_full := print "/static/media/" $base  "/" $base ".jpg" }}
 {{- $pic_thumb := print "/static/media/" $base  "/" $base ".jpg.thumb.jpg" }}
 
+{{- $pic_thumb2 := print "static/media/" $base  "/" $base ".jpg.thumb.jpg" }}
+
+
 {{- $width := "" }}
 {{- $height := "" }}
-{{- with (imageConfig $pic_thumb) }}
+{{- with (imageConfig $pic_thumb2) }}
   {{- $width = .Width }}
   {{- $height = .Height }}
 {{- end -}}
