@@ -9,7 +9,7 @@
 {{- $pic_full := print "/static/media/" $base  "/" $base ".jpg" }}
 {{- $pic_thumb := print "/static/media/" $base  "/" $base ".jpg.thumb.jpg" }}
 
-{{- if (fileExists $pic_thumb) }}
+{{# if (fileExists $pic_thumb) #}}
   {{- $width := "" }}
   {{- $height := "" }}
   {{- with (imageConfig $pic_thumb) }}
@@ -21,7 +21,7 @@
 <img class="galleryPic" loading="lazy" width="{{ $width }}" height="{{ $height }}" src="{{ $pic_thumb }}" alt="{{ partial "get-title.html" . }}{{ with partial "get-content.html" . }}. {{ chomp . }}{{ end }}">
 </a>
 
+{{# end #}}
 {{ end }}
-{{- end }}
 </div>
 {{- end }}
