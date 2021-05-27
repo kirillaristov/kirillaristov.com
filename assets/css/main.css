@@ -29,6 +29,7 @@ h4	{font:normal 15px/20px cuprum,serif;color:#000000;}
 .content ul.blogcontent {list-style-type:none;margin-left:0;}
 .content ul.blogcontent > li:not(:last-child) {margin-bottom:40px;}
 .content ul.mediacontent > li:not(:last-child) {margin-bottom:40px;}
+.content ul.mediacontent img {max-width:100%;height:auto;}
 
 .content p {margin-top:15px;margin-bottom:15px;padding-bottom:10px;}
 .content p.media__descr {margin-bottom:0;}
