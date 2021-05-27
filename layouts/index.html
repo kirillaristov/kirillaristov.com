@@ -12,13 +12,13 @@
 {{ partial "get-post-coord.html" . }}
 
 {{- with partial "get-images.html" . }}   
-  <p class="images">
+<p class="images">
 	{{- range $image := . }}
-	  {{- with $.Site.GetPage $image }}
-		{{- partial "figure2.html" . }}
-	  {{- end }}
+		{{- with $.Site.GetPage $image }}
+			{{- partial "figure2.html" . }}
+		{{- end }}
 	{{- end }}
-  </p>
+</p>
 {{- end }}
 
 {{ partial "get-content.html" . }}
