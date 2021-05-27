@@ -24,7 +24,7 @@
       {{- $pic_full := print "/static/media/" .File.ContentBaseName "/" .File.ContentBaseName ".jpg" }}
       {{- $pic_thumb := print "/static/media/" .File.ContentBaseName "/" .File.ContentBaseName ".jpg.thumb.jpg" -}}
 
-<a class="jpic" href="{{ .RelPermalink }}" title="{{ partial "get-title.html" . }}" data-href="{{ $pic_full }}" data-title="{{ partial "get-title.html" . }}" data-location="{{ partial "get-media-location.html" . }}"><img class="galleryPic" src="{{ $pic_thumb }}" alt="{{ partial "get-title.html" . }}{{ with partial "get-content.html" . }}. {{ chomp . }}{{ end }}"></a>
+<a class="jpic" href="{{ .RelPermalink }}" title="{{ partial "get-title.html" . }}" data-href="{{ $pic_full }}" data-title="{{ partial "get-title.html" . }}" data-location="{{ partial "get-media-location.html" . }}"><img loading="lazy" class="galleryPic" src="{{ $pic_thumb }}" alt="{{ partial "get-title.html" . }}{{ with partial "get-content.html" . }}. {{ chomp . }}{{ end }}"></a>
 
     {{- end }}
   {{- end -}}
