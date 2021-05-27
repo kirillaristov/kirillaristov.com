@@ -29,7 +29,7 @@
 
 {{/* */}}
 {{ if eq $addLink "true" }}<a href="{{ $path | relLangURL }}">{{ end -}}
- <img loading="lazy" src="{{ $pic }}" alt="{{ $title }}, {{ $location }}">
+ <img loading="lazy" src="{{ $pic }}" alt="{{ $title }}, {{ with $.Scratch.Get "location" }}{{ $.Site.Params.LOCATION }}: {{ . }}.{{ end }}">
 {{- if eq $addLink "true" }}</a>{{ end }}
 
 {{- end }}
