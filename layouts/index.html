@@ -4,7 +4,7 @@
 
 {{ with .Site.GetPage "/blog" }}<h1><a href="{{.RelPermalink}}">{{.Title}}</a></h1>{{ end }}
 
-<ul>
+<ul class="blogcontent">
 {{ range first 5 (where .Site.Pages "Section" "blog") }}
 <li>
 <h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
