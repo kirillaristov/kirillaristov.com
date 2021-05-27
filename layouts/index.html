@@ -1,68 +1,57 @@
 {{ define "main" }}
 
-  {{- .Content }}
+{{- .Content }}
 
-  {{- with .Site.GetPage "/blog" }}
-  <h1><a href="{{.RelPermalink}}">{{.Title}}</a></h1>
-  {{ end }}
-  <ul>
-  {{ range first 5 (where .Site.Pages "Section" "blog") }}
-    <li>
-    <h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
+{{ with .Site.GetPage "/blog" }}<h1><a href="{{.RelPermalink}}">{{.Title}}</a></h1>{{ end }}
 
-    <p><small>
-    {{- partial "date.html" . }}
-    {{ partial "get-post-coord.html" . -}}
-    </small></p>    
-    
-    {{- with partial "get-images.html" . }}   
-      <p class="images">
-        {{- range $image := . }}
-          {{- with $.Site.GetPage $image }}
-            {{- partial "figure2.html" . }}
-          {{- end }}
-        {{- end }}
-      </p>
-    {{- end }}
+<ul>
+{{ range first 5 (where .Site.Pages "Section" "blog") }}
+<li>
+<h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
+{{ partial "date.html" . }}
+{{ partial "get-post-coord.html" . }}
 
-    {{ partial "get-content.html" . }}
-    </li>
-  {{ end }}
-  </ul>
-  <h2><a href="/{{ .Lang }}/blog/">{{ .Site.Params.READ_MORE }}</a></h2>
-  
-  
-  <hr>
-  
-  {{- with .Site.GetPage "/media" }}
-    <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-  {{ end }}
-  <ul class="mediacontent">
-  {{ range first 5 (where .Site.Pages "Section" "media") }}
-  <li>
-    <h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
+{{- with partial "get-images.html" . }}   
+  <p class="images">
+	{{- range $image := . }}
+	  {{- with $.Site.GetPage $image }}
+		{{- partial "figure2.html" . }}
+	  {{- end }}
+	{{- end }}
+  </p>
+{{- end }}
 
-    <p><small>
-    {{- partial "date.html" . }}
-    {{ partial "get-media-coord.html" . }}
-    {{ partial "get-media-location.html" . -}}
-    </small></p>
+{{ partial "get-content.html" . }}
+</li>
+{{ end }}
+</ul>
 
-    {{- .Scratch.Set "addLink" "true" }}
-    {{ partial "figure.html" . }}
-  </li>
-  {{ end }}
-  </ul>
-  <h2><a href="/{{ .Lang }}/media/">{{ .Site.Params.READ_MORE }}</a></h2>
-  
-  
-  <!--noindex-->
-  {{- with .Site.GetPage "/favourite-books" }}
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    {{ .Content }}
-  {{ end }}
-  <!--/noindex-->
-  
-  
+<div class="read-more"><a href="/{{ .Lang }}/blog/">{{ .Site.Params.READ_MORE }}</a></div>
+
+
+{{ with .Site.GetPage "/media" }}<h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>{{ end }}
+<ul class="mediacontent">
+{{ range first 5 (where .Site.Pages "Section" "media") }}
+<li>
+<h2 class="post__title"><a href="{{ .RelPermalink }}">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</a></h2>
+{{ partial "date.html" . }}
+{{ partial "get-media-coord.html" . }}
+{{ partial "get-media-location.html" . }}
+
+{{ .Scratch.Set "addLink" "true" }}
+{{ partial "figure.html" . }}
+</li>
+{{ end }}
+</ul>
+
+<div class="read-more"><a href="/{{ .Lang }}/media/">{{ .Site.Params.READ_MORE }}</a></div>
+
+
+<!--noindex-->
+{{- with .Site.GetPage "/favourite-books" }}
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+{{ .Content }}
+{{ end }}
+<!--/noindex-->
 
 {{- end }}
