@@ -21,14 +21,14 @@
     {{ .Site.Params.COORDINATES }}: {{ $coord }}
   </figcaption>
   {{- if eq $addLink "true" }}<a href="{{ $path | relLangURL }}">{{ end -}}
-    <img src="{{ $pic }}" alt="{{ $title }}, {{ $location }}">
+    <img loading="lazy" src="{{ $pic }}" alt="{{ $title }}, {{ $location }}">
   {{- if eq $addLink "true" }}</a>{{ end }}
 </figure>
 {{- else -}}
 
 {{/* */}}
 <p class="image">{{ if eq $addLink "true" }}<a href="{{ $path | relLangURL }}">{{ end -}}
- <img src="{{ $pic }}" alt="{{ $title }}, {{ $location }}">
+<img loading="lazy" src="{{ $pic }}" alt="{{ $title }}, {{ $location }}">
 {{- if eq $addLink "true" }}</a>{{ end }}</p>
 
 {{- end }}
