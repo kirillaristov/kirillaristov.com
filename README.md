@@ -4,17 +4,17 @@
 
 ## Hugo для Windows 7/10
 
-1. Открыть страницу с последней версией Hugo: https://github.com/gohugoio/hugo/releases/latest (на 2 июня 2021 года последняя версия 0.83.1/64bit).
-2. Скачать версию для windows (32 или 64-битную).
-3. Скопировать файл hugo.exe из скачанного архива в папку `C:\Windows\System32`.
-4. Проверить: Win+R -> cmd -> `hugo version`.
+1. Открыть страницу с последней версией Hugo: https://github.com/gohugoio/hugo/releases/latest (на 2 июня 2021 года последняя версия 0.83.1/64bit)
+2. Скачать версию для windows (32 или 64-битную)
+3. Скопировать файл hugo.exe из скачанного архива в папку `C:\Windows\System32`
+4. Проверить: Win+R -> cmd -> `hugo version`
 
 ## Git для Windows 7/10
 
 1. Скачать последнюю версию git: https://git-scm.com/download/win (https://github.com/git-for-windows/git/releases/latest) (на 2 июня 2021 года последняя версия 2.31.1/64bit)
-2. Установить с параметрами по умолчанию.
-3. Перезагрузиться.
-4. Проверить: Win+R -> cmd -> `git version`.
+2. Установить с параметрами по умолчанию
+3. Перезагрузиться
+4. Проверить: Win+R -> cmd -> `git version`
 
 ## Запуск Hugo
 
