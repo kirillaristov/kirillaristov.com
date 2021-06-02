@@ -22,3 +22,9 @@
 4. Клонировать оригинальный дистрибутив в `C:\hugo\kir.com`: `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
 5. Запустить hugo в `C:\hugo\kir.com`: `hugo server`
 6. Открыть в браузере адрес http://localhost:1313
+
+## Публикация на Netlify
+
+1. Контент расположен в https://github.com/kirillaristov/kirillaristov.github.io
+2. Настройки публикации на Netlify расположены в netlify.toml
+3. После изменения контента на Github, изменения автоматически копируются и собираются на Netlify (если автоматическая сборка на Netlify не отключена)
