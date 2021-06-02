@@ -19,7 +19,7 @@
 
 [context.production.environment]
   TZ = "UTC"
-  HUGO_VERSION = "0.79.0"
+  HUGO_VERSION = "0.83.1"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
