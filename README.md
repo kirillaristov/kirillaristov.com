@@ -1,26 +1,24 @@
-# kirillaristov.github.io
+# Подготовка среды для локальной разработки
 
-# Подготовка среды
+## Hugo для Windows
 
-## Hugo для Windows 7/10
+1. Скачать последнюю версию hugo для windows: https://github.com/gohugoio/hugo/releases/latest (0.83.1 на 2021-06-02)
+2. Скопировать файл hugo.exe из скачанного архива в `C:\Windows\System32`
+3. Проверить работоспособность: Win+R -> cmd -> `hugo version`
 
-1. Открыть страницу с последней версией Hugo: https://github.com/gohugoio/hugo/releases/latest (на 2 июня 2021 года последняя версия 0.83.1/64bit)
-2. Скачать версию для windows (32 или 64-битную)
-3. Скопировать файл hugo.exe из скачанного архива в папку `C:\Windows\System32`
-4. Проверить: Win+R -> cmd -> `hugo version`
+## Git для Windows
 
-## Git для Windows 7/10
-
-1. Скачать последнюю версию git: https://git-scm.com/download/win (https://github.com/git-for-windows/git/releases/latest) (на 2 июня 2021 года последняя версия 2.31.1/64bit)
-2. Установить с параметрами по умолчанию
-3. Перезагрузиться
-4. Проверить: Win+R -> cmd -> `git version`
+1. Скачать последнюю версию git для windows: https://git-scm.com/download/win (https://github.com/git-for-windows/git/releases/latest) (2.31.1 на 2021-06-02)
+2. Запустить скаченный *.exe
+3. Установить с параметрами по умолчанию
+4. Перезагрузиться
+5. Проверить: Win+R -> cmd -> `git version`
 
 ## Запуск Hugo
 
-1. Создать каталог C:\hugo\kir.com
+1. Создать каталог `C:\hugo\kir.com`
 2. Запустить консоль Win+R -> cmd
 3. Перейти в каталог hugo: `cd C:\hugo\kir.com`
-4. Клонировать оригинальный дистрибутив `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
-5. Запустить hugo из текущего каталога C:\hugo\kir.com: `hugo server`
-6. Открыть браузер на адресе http://localhost:1313
+4. Клонировать оригинальный дистрибутив в `C:\hugo\kir.com`: `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
+5. Запустить hugo в текущем каталоге `C:\hugo\kir.com`: `hugo server`
+6. Открыть в браузере адрес http://localhost:1313
