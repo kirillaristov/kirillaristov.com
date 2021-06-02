@@ -21,7 +21,7 @@
 3. Перейти в `cd C:\hugo\kir.com`
 4. Клонировать оригинальный дистрибутив в `C:\hugo\kir.com`: `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
 5. Запустить hugo в `C:\hugo\kir.com`: `hugo server`
-6. Открыть в браузере адрес [localhost:1313](http://localhost:1313)
+6. Открыть в браузере адрес http://localhost:1313
 
 ## Публикация на Netlify
 
