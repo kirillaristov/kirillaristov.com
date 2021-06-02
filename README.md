@@ -2,13 +2,13 @@
 
 ## Hugo для Windows
 
-1. Скачать последнюю версию hugo для windows: https://github.com/gohugoio/hugo/releases/latest (0.83.1 на 2021-06-02)
+1. Скачать последнюю версию `hugo` для windows: https://github.com/gohugoio/hugo/releases/latest (0.83.1 на 2021-06-02)
 2. Скопировать файл `hugo.exe` из скачанного архива в `C:\Windows\System32`
 3. Проверить: `hugo version`
 
 ## Git для Windows
 
-1. Скачать последнюю версию git для windows: https://git-scm.com/download/win (2.31.1 на 2021-06-02)
+1. Скачать последнюю версию `git` для windows: https://git-scm.com/download/win (2.31.1 на 2021-06-02)
 2. Установить с параметрами по умолчанию
 3. Перезагрузиться
 4. Проверить: `git version`
