@@ -1,9 +1,21 @@
 [build]
   publish = "public/"
   command = "hugo --gc --enableGitInfo"
+  ignore = "git diff --quiet HEAD^ HEAD netlify.toml README.md"
 
 [build.processing]
+  # If skip_processing = true, all other settings are ignored
   skip_processing = true
+#[build.processing.css]
+#  bundle = false
+#  minify = false
+#[build.processing.js]
+#  bundle = false
+#  minify = false
+#[build.processing.html]
+#  pretty_urls = false
+#[build.processing.images]
+#  compress = false
 
 [context.production.environment]
   TZ = "UTC"
@@ -36,7 +48,6 @@
   to = "/en/404/"
   status = 404
 
-
 # Headers and Caching
 [[headers]]
   for = "/*"
@@ -49,13 +60,11 @@
     # Please cache this content, and then do not trust your cache
     Cache-Control = "max-age=0, must-revalidate, public"
 
-
 # 7 days (604800 sec)
 [[headers]]
   for = "*.jpg"
   [headers.values]
     Cache-Control = "max-age=604800, public, immutable"
-
 
 # 31 days (2678400 sec)
 [[headers]]
