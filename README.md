@@ -16,12 +16,11 @@
 
 ## Локальный запуск сайта
 
-1. Создать каталог `C:\hugo\kir.com`
-2. Запустить консоль Win+R -> cmd
-3. Перейти в `cd C:\hugo\kir.com`
-4. Клонировать оригинальный дистрибутив в `C:\hugo\kir.com`: `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
-5. Запустить hugo в `C:\hugo\kir.com`: `hugo server`
-6. Открыть в браузере адрес http://localhost:1313
+1. Создать каталог `C:\www\kir.com`
+2. Открыть консоль и перейти в `cd C:\www\kir.com`
+3. Клонировать оригинальный дистрибутив: `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
+4. Запустить hugo в `C:\www\kir.com`: `hugo server`
+5. Открыть в браузере адрес http://localhost:1313
 
 ## Публикация на Netlify
 
