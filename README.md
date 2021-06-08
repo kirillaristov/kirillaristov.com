@@ -1,3 +1,16 @@
+# Структура каталогов
+
+* archetypes
+* assets
+* content
+* data
+* layouts
+* static
+* README.md
+* config.yaml
+* index.html
+* netlify.toml 
+
 # Среда для локальной разработки
 
 ## Hugo для Windows
