@@ -1,15 +1,15 @@
 # Структура каталогов
 
-* archetypes
-* assets
-* content
-* data
-* layouts
-* static
-* README.md
-* config.yaml
-* index.html
-* netlify.toml 
+* archetypes - шаблон нового поста
+* assets - сss+js файлы
+* content - страницы с текстом
+* data - содержит файл month.yaml с массивом месяцев для вызова $.Site.Data.month
+* layouts - шаблоны
+* static - все статичные файлы, в том числе вся media
+* README.md - этот файл
+* config.yaml - конфиг Hugo
+* index.html - страница для github.pages
+* netlify.toml - конфиг Netlify
 
 # Среда для локальной разработки
 
