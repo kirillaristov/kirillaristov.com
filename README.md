@@ -49,6 +49,6 @@
 ## Публикация на Netlify
 
 1. Отправить изменения в https://github.com/kirillaristov/kirillaristov.github.io (через веб-версию или `git push`)
-2. Копируется автоматически в https://app.netlify.com/sites/aristov/overview
+2. Копируется автоматически в https://app.netlify.com/sites/aristov
 3. Собирается автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml` (автоматическую сборку можно отключить)
 4. Публикуется автоматически на https://aristov.netlify.app.
