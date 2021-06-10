@@ -17,8 +17,8 @@
   * `/layouts/blog/` - шаблоны для страниц `/blog`
   * `/layouts/media/` - шаблоны для страниц `/media`
   * `/layouts/my-routes/` - шаблоны для страниц `/my-routes`
-  * `/layouts/partials/` - компоненты шаблонов, например: `{{ partial "get-title" . }}`
-  * `/layouts/shortcodes/` - шаблоны для коротких вставок в файлы контента `*.md`, например: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
+  * `/layouts/partials/` - компоненты шаблонов, пример вызова: `{{ partial "get-title" . }}`
+  * `/layouts/shortcodes/` - шаблоны для коротких вставок в файлы контента `*.md`, пример вызова: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
   * `/layouts/index.html` - шаблон для корневого индексного файла
   * `/layouts/robots.txt` - файл `robots.txt` в его конечном виде
 * `/static` - содержит статичные файлы, в том числе вся media. При сборке корневая папка `/static` из пути удаляется
