@@ -15,13 +15,13 @@
     * `../taxonomy__.html` - ?
     * `../term.html` - ?
     * `../terms.html` - ?
-  * `/layouts/blog/` - шаблоны для страниц `/blog`
-  * `/layouts/media/` - шаблоны для страниц `/media`
-  * `/layouts/my-routes/` - шаблоны для страниц `/my-routes`
-  * `/layouts/partials/` - компоненты шаблонов, пример вызова: `{{ partial "get-title" . }}`
-  * `/layouts/shortcodes/` - шаблоны для коротких вставок в файлы контента `*.md`, пример вызова: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
-  * `/layouts/index.html` - шаблон для корневого индексного файла
-  * `/layouts/robots.txt` - файл `robots.txt` в его конечном виде
+  * `./blog/` - шаблоны для страниц `/blog`
+  * `./media/` - шаблоны для страниц `/media`
+  * `./my-routes/` - шаблоны для страниц `/my-routes`
+  * `./partials/` - компоненты шаблонов, пример вызова: `{{ partial "get-title" . }}`
+  * `./shortcodes/` - шаблоны для коротких вставок в файлы контента `*.md`, пример вызова: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
+  * `./index.html` - шаблон для корневого индексного файла
+  * `./robots.txt` - файл `robots.txt` в его конечном виде
 * `/static/` - содержит статичные файлы, в том числе вся media. При сборке корневая папка `/static` из пути удаляется
 * `README.md` - этот файл
 * `config.yaml` - конфиг `hugo`
