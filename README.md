@@ -1,12 +1,12 @@
 # Структура каталогов
 
 * `/archetypes/default.md` - шаблон нового поста
-* `/assets` - сss+js файлы
-* `/content` - страницы с текстом
-* `/data` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
-* `/layouts` - шаблоны:
-  * `/layouts/404` - шаблон 404 ошибки
-  * `/layouts/_default` - базовые шаблоны:
+* `/assets/` - сss+js файлы
+* `/content/` - страницы с текстом
+* `/data/` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
+* `/layouts/` - шаблоны:
+  * `/layouts/404/` - шаблон 404 ошибки
+  * `/layouts/_default/` - базовые шаблоны:
     * `/layouts/_default/_markup/` - шаблоны для элементов разметки: `render-heading.html` для заголовков `<h1>-<h6>`, `render-image.html` для изображений `img`, `render-link.html` для ссылок `<a>`
     * `/layouts/_default/baseof.html` - отсюда все начинается, корневой шаблон
     * `/layouts/_default/list.html` - шаблон для индексного файла контента, имя которого начинается с подчеркивания: `_index.md`
@@ -22,7 +22,7 @@
   * `/layouts/shortcodes/` - шаблоны для коротких вставок в файлы контента `*.md`, пример вызова: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
   * `/layouts/index.html` - шаблон для корневого индексного файла
   * `/layouts/robots.txt` - файл `robots.txt` в его конечном виде
-* `/static` - содержит статичные файлы, в том числе вся media. При сборке корневая папка `/static` из пути удаляется
+* `/static/` - содержит статичные файлы, в том числе вся media. При сборке корневая папка `/static` из пути удаляется
 * `README.md` - этот файл
 * `config.yaml` - конфиг `hugo`
 * `index.html` - индексная страница для github.pages
