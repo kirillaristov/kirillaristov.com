@@ -48,7 +48,7 @@
 
 ## Публикация на Netlify
 
-1. Изменения отправляются на github в https://github.com/kirillaristov/kirillaristov.github.io
-2. Автоматически копируются на Netlify в https://app.netlify.com/sites/aristov/overview
-3. Автоматически собираются с параметрами, перечисленными в `config.yaml` и `netlify.toml` (если автоматическая сборка на Netlify не отключена)
-4. Автоматически публикуются на https://aristov.netlify.app.
+1. Отправить изменения на github в https://github.com/kirillaristov/kirillaristov.github.io
+2. Копируется *автоматически* на Netlify в https://app.netlify.com/sites/aristov/overview
+3. Собирается *автоматически* с параметрами, перечисленными в `config.yaml` и `netlify.toml` (если автоматическая сборка на Netlify не отключена)
+4. Публикуется *автоматически* на https://aristov.netlify.app.
