@@ -7,7 +7,7 @@
 * `/layouts/` - шаблоны:
   * `./404/` - шаблон 404 ошибки
   * `./_default/` - базовые шаблоны:
-    * `../_markup/` - содержит `render-heading.html` для `<h1>-<h6>`, `render-image.html` для `img`, `render-link.html` для `<a>`
+    * `../_markup/` - содержит `render-heading.html` для `<h1>-<h6>`, `render-image.html` для `<img>`, `render-link.html` для `<a>`
     * `../baseof.html` - отсюда все начинается, корневой шаблон
     * `../list.html` - шаблон для индексного файла контента, имя которого начинается с подчеркивания: `_index.md`
     * `../rss.xml` - шаблон для rss-ленты
