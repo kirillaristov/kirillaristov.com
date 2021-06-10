@@ -6,6 +6,7 @@
 * `/data` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
 * `/layouts` - шаблоны:
   * `/layouts/404` - шаблон 404 ошибки
+    * `/layouts/_default` - fdd
   * `/layouts/_default/_markup/` - шаблоны для элементов разметки: `render-heading.html` для заголовков `<h1>-<h6>`, `render-image.html` для изображений `img`, `render-link.html` для ссылок `<a>`
   * `/layouts/_default/baseof.html` - отсюда все начинается, корневой шаблон
   * `/layouts/_default/list.html` - шаблон для индексного файла контента, имя которого начинается с подчеркивания: `_index.md`
