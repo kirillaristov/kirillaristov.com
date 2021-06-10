@@ -1,28 +1,28 @@
 # Структура каталогов
 
-* archetypes - шаблон нового поста
-* assets - сss+js файлы
-* content - страницы с текстом
-* data - содержит файл month.yaml с массивом месяцев для вызова $.Site.Data.month
-* layouts - шаблоны
-* static - все статичные файлы, в том числе вся media
-* README.md - этот файл
-* config.yaml - конфиг Hugo
-* index.html - страница для github.pages
-* netlify.toml - конфиг Netlify
+* `/archetypes` - шаблон нового поста
+* `/assets` - сss+js файлы
+* `/content` - страницы с текстом
+* `/data` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
+* `/layouts` - шаблоны
+* `/static` - все статичные файлы, в том числе вся media
+* `README.md` - этот файл
+* `config.yaml` - конфиг `hugo`
+* `index.html` - индексная страница для github.pages
+* `netlify.toml` - конфиг `netlify`
 
 
 # Среда для локальной разработки
 
 ## Hugo для Windows
 
-1. Скачать последнюю версию `hugo` для windows: https://github.com/gohugoio/hugo/releases/latest (0.83.1 на 2021-06-02)
+1. Скачать последнюю версию `hugo` для `windows`: https://github.com/gohugoio/hugo/releases/latest (0.83.1 на 2021-06-02)
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
 3. Проверить: `hugo version`
 
 ## Git для Windows
 
-1. Скачать последнюю версию `git` для windows: https://git-scm.com/download/win (2.31.1 на 2021-06-02)
+1. Скачать последнюю версию `git` для `windows`: https://git-scm.com/download/win (2.31.1 на 2021-06-02)
 2. Установить с параметрами по умолчанию
 3. Перезагрузиться
 4. Проверить: `git version`
@@ -38,20 +38,20 @@
 4. Запустить hugo: `hugo server`
 5. Проверить доступность сайта на адресе http://localhost:1313
 
-## Внесение правок в локальную копию и их тестирование
+## Внесение правок в локальную копию и тестирование
 
 1. Проверить наличие правок в основном дистрибутиве на github:
   * Перейти в локальный рабочий каталог: `cd c:\www\kir.com`
   * Скопировать правки: `git pull`
 2. Запустить hugo: `hugo server`
 3. Внести правки в локальные исходники
-4. Сборка автоматически произведется Hugo - успешно или с ошибками
+4. Hugo автоматически произведет сборку - успешно или с ошибками
 5. Протестировать правки на адресе http://localhost:1313
 
 
 #  Публикация
 
-## Отправка протестированных правок на github
+## Отправка проверенных правок на github
 
 1. Перейти в локальный рабочий каталог: `cd c:\www\kir.com`
 2. Индексировать внесенные правки: `git add .`
@@ -60,9 +60,9 @@
 5. Отправить правку на github: `git push`
 * Авторизоваться на `github.com` (однократно при первом запуске)
 
-## Автоматическая публикация на Netlify
+## Автоматическая публикация на netlify
 
-1. Правка отправляется в https://github.com/kirillaristov/kirillaristov.github.io (через веб-версию или `git push`), затем:
+1. Правка отправляется в https://github.com/kirillaristov/kirillaristov.github.io (через `git push` или веб-версию), затем:
 2. Копируется автоматически в https://app.netlify.com/sites/aristov
-3. Собирается автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml` (автоматическую сборку можно отключить)
+3. Собирается автоматически (автоматическую сборку можно отключить) с параметрами, перечисленными в `config.yaml` и `netlify.toml`
 4. Публикуется автоматически на https://aristov.netlify.app.
