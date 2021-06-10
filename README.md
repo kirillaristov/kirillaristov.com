@@ -20,7 +20,7 @@
 * `/layouts/shortcodes/` - шаблоны для коротких вставок в файлы контента `*.md`, например: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
 * `/layouts/index.html` - шаблон для корневого индексного файла
 * `/layouts/robots.txt` - файл `robots.txt` в его конечном виде
-* `/static` - все статичные файлы, в том числе вся media
+* `/static` - содержит статичные файлы, в том числе вся media. При сборке корневая папка `/static` из пути удаляется
 * `README.md` - этот файл
 * `config.yaml` - конфиг `hugo`
 * `index.html` - индексная страница для github.pages
