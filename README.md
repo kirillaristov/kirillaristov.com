@@ -1,10 +1,25 @@
 # Структура каталогов
 
-* `/archetypes` - шаблон нового поста
+* `/archetypes/default.md` - шаблон нового поста
 * `/assets` - сss+js файлы
 * `/content` - страницы с текстом
 * `/data` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
-* `/layouts` - шаблоны
+* `/layouts/404` - шаблон 404 ошибки
+* `/layouts/_default/_markup/` - шаблоны для элементов разметки: `render-heading.html` для заголовков `<h1>-<h6>`, `render-image.html` для изображений img, `render-link.html` для ссылок `<a>`
+* `/layouts/_default/baseof.html` - отсюда все начинается, корневой шаблон
+* `/layouts/_default/list.html` - шаблон для индексного файла контента, имя которого начинается с подчеркивания: `_index.md`
+* `/layouts/_default/rss.xml` - шаблон для rss-ленты
+* `/layouts/_default/single.html` - шаблон для одиночного файла: `index.md`
+* `/layouts/_default/taxonomy__.html` - ?
+* `/layouts/_default/term.html` - ?
+* `/layouts/_default/terms.html` - ?
+* `/layouts/blog/` - шаблоны для страниц `/blog`
+* `/layouts/media/` - шаблоны для страниц `/media`
+* `/layouts/my-routes/` - шаблоны для страниц `/my-routes`
+* `/layouts/partials/` - компоненты шаблонов, например: `{{ partial "get-title" . }}`
+* `/layouts/shortcodes/` - шаблоны для коротких вставок в файлы контента `*.md`, например: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
+* `/layouts/index.html` - шаблон для корневого индексного файла
+* `/layouts/robots.txt` - файл `robots.txt` в его конечном виде
 * `/static` - все статичные файлы, в том числе вся media
 * `README.md` - этот файл
 * `config.yaml` - конфиг `hugo`
