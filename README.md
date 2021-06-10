@@ -6,15 +6,15 @@
 * `/data` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
 * `/layouts` - шаблоны:
   * `/layouts/404` - шаблон 404 ошибки
-    * `/layouts/_default` - fdd
-  * `/layouts/_default/_markup/` - шаблоны для элементов разметки: `render-heading.html` для заголовков `<h1>-<h6>`, `render-image.html` для изображений `img`, `render-link.html` для ссылок `<a>`
-  * `/layouts/_default/baseof.html` - отсюда все начинается, корневой шаблон
-  * `/layouts/_default/list.html` - шаблон для индексного файла контента, имя которого начинается с подчеркивания: `_index.md`
-  * `/layouts/_default/rss.xml` - шаблон для rss-ленты
-  * `/layouts/_default/single.html` - шаблон для одиночного файла: `index.md`
-  * `/layouts/_default/taxonomy__.html` - ?
-  * `/layouts/_default/term.html` - ?
-  * `/layouts/_default/terms.html` - ?
+  * `/layouts/_default` - базовые шаблоны:
+    * `/layouts/_default/_markup/` - шаблоны для элементов разметки: `render-heading.html` для заголовков `<h1>-<h6>`, `render-image.html` для изображений `img`, `render-link.html` для ссылок `<a>`
+    * `/layouts/_default/baseof.html` - отсюда все начинается, корневой шаблон
+    * `/layouts/_default/list.html` - шаблон для индексного файла контента, имя которого начинается с подчеркивания: `_index.md`
+    * `/layouts/_default/rss.xml` - шаблон для rss-ленты
+    * `/layouts/_default/single.html` - шаблон для одиночного файла: `index.md`
+    * `/layouts/_default/taxonomy__.html` - ?
+    * `/layouts/_default/term.html` - ?
+    * `/layouts/_default/terms.html` - ?
   * `/layouts/blog/` - шаблоны для страниц `/blog`
   * `/layouts/media/` - шаблоны для страниц `/media`
   * `/layouts/my-routes/` - шаблоны для страниц `/my-routes`
