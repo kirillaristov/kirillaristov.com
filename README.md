@@ -60,9 +60,9 @@
 5. Отправить правку на github: `git push`
 * Авторизоваться на `github.com` (однократно при первом запуске)
 
-## Публикация на Netlify
+## Автоматическая публикация на Netlify
 
-1. Отправить правки в https://github.com/kirillaristov/kirillaristov.github.io (через веб-версию или `git push`)
+1. Правка отправляется в https://github.com/kirillaristov/kirillaristov.github.io (через веб-версию или `git push`), затем:
 2. Копируется автоматически в https://app.netlify.com/sites/aristov
 3. Собирается автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml` (автоматическую сборку можно отключить)
 4. Публикуется автоматически на https://aristov.netlify.app.
