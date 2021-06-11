@@ -25,7 +25,7 @@
 * `/static/` - содержит статичные файлы, в том числе вся media. При сборке корневая папка `/static` из пути удаляется
 * `README.md` - этот файл
 * `config.yaml` - конфиг `hugo`
-* `index.html` - индексная страница github.pages
+* `index.html` - индексная страница `github.pages`
 * `netlify.toml` - конфиг `netlify`
 
 
