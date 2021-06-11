@@ -13,8 +13,8 @@
     * `../rss.xml` - шаблон rss-ленты
     * `../single.html` - шаблон одиночного файла: `index.md`
     * `../taxonomy__.html` - ?
-    * `../term.html` - ?
-    * `../terms.html` - ?
+    * `../term.html` - шаблон отдельной категории (/ru/categories/as-the-first-settlers/) или тэга (/ru/tags/2008/)
+    * `../terms.html` - шаблон /ru/categories/; /ru/tags/
   * `./blog/` - шаблоны страниц `/blog`
   * `./media/` - шаблоны страниц `/media`
   * `./my-routes/` - шаблоны страниц `/my-routes`
