@@ -49,7 +49,7 @@
 
 ## Первый запуск локальной копии сайта
 
-1. Создать локальный каталог: `mkdir c:\www\kir.com`
+1. Создать локальный рабочий каталог: `mkdir c:\www\kir.com`
 2. Перейти в него: `cd c:\www\kir.com`
 3. Клонировать оригинальный дистрибутив: `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
 4. Запустить hugo: `hugo server`
