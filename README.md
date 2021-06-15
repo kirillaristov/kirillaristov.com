@@ -12,9 +12,9 @@
     * `list.html` - шаблон индексного файла контента, имя которого начинается с подчеркивания: `_index.md`
     * `rss.xml` - шаблон rss-ленты
     * `single.html` - шаблон одиночного файла: `index.md`
-  * `blog/` - шаблоны страниц `/blog`
-  * `media/` - шаблоны страниц `/media`
-  * `my-routes/` - шаблоны страниц `/my-routes`
+  * `blog/` - шаблоны страниц `blog/`
+  * `media/` - шаблоны страниц `media/`
+  * `my-routes/` - шаблоны страниц `my-routes/`
   * `partials/` - компоненты шаблонов, пример вызова: `{{ partial "get-title" . }}`
   * `shortcodes/` - шаблоны коротких вставок в файлы контента `*.md`, пример вызова: `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
   * `taxonomy/` - шаблоны категорий и тегов:
@@ -25,7 +25,7 @@
 * `/static/` - содержит статичные файлы, в том числе вся media. При сборке корневая папка `/static` из пути удаляется
 * `README.md` - этот файл
 * `config.yaml` - конфиг `hugo`
-* `index.html` - индексная страница `github.pages`
+* `index.html` - домашнаяя страница `github.pages`
 * `netlify.toml` - конфиг `netlify`
 
 
