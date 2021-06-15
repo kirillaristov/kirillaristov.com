@@ -7,4 +7,6 @@ keywords: 404
 
 Woops. Looks like this page doesn't exist.
 
-<img src="/dist/images/404/404.en.jpg" alt="Page not found">
+<a href="/en/">
+  <img src="/dist/images/404/404.en.jpg" alt="Page not found">
+</a>
