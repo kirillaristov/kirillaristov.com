@@ -28,9 +28,9 @@
   * `kml-files/` - треки
   * `map/` - __карта__
   * `static/` - неизменяемые большие файлы
-    * `media` - __фотоархив__
-    * `my-routes` - файлы из маршрутов
-    * `videos/thumbs` - превью видео
+    * `media/` - __фотоархив__
+    * `my-routes/` - файлы из маршрутов
+    * `videos/thumbs/` - превью видео
   * `favicon.ico`
   * `logo.jpg`
 * `README.md` - этот файл
