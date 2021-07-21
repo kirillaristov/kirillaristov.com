@@ -5,7 +5,7 @@
 * `content/` - __страницы с текстом в формате markdown__
 * `data/` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
 * `layouts/` - __шаблоны__
-  * `404/` - шаблон 404 ошибки
+  * `404/` - шаблон ошибки 404
   * `_default/` - базовые шаблоны
     * `_markup/` - содержит `render-heading.html` для `<h1>-<h6>`, `render-image.html` для `<img>`, `render-link.html` для `<a>`
     * `baseof.html` - корневой шаблон, отсюда всё начинается
