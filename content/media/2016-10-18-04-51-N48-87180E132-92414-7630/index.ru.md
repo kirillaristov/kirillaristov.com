@@ -3,4 +3,5 @@ title: 'Трасса Чита—Хабаровск, Дальний Восток 
 location: 'Еврейская автономная область, около Биробиджана, Россия'
 categories: [as-the-first-settlers]
 tags: [all, 2016]
+hidden: true
 ---
