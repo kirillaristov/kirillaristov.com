@@ -100,6 +100,7 @@ languages:
     DATE: Date
     LOCATION: Location
     COORDINATES: Coordinates
+    TAGS: Tags
     
     ABOUT_TITLE: Who I am
     ABOUT: I develop long-distance routes In The Wild. The voyage is a tool to discover many sides of our World, to feel the Bliss once more and to understand much more human lives. I spread my ideas, because long hard Voyages are possibility to open rare human personalities, I believe best personalities.
@@ -158,6 +159,7 @@ languages:
     DATE: Дата
     LOCATION: Место
     COORDINATES: Координаты
+    TAGS: Метки
     
     ABOUT_TITLE: Кто Я
     ABOUT: Я разрабатываю дальние маршруты в условиях дикой природы. Странствие — это инструмент, открывающий грани нашего мира; это путь к пониманию человеческих жизней; способ почувствовать Счастье ещё один раз. Я распространяю мои идеи, потому что долгие трудные Странствия — это возможности для становления необычных людей, я верю — хороших и нужных людей.
