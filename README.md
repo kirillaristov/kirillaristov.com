@@ -95,12 +95,14 @@
 
 ## Автоматическая сборка: выключение
 
-1. `Netlify` -> `Site settings` -> `Build & deploy` -> блок `[Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings)` -> `Edit settings` -> `Stop builds` -> подтвердить действие.
+1. `Netlify` -> `Deploys` -> `Deploy settings` -> блок [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Stop builds` -> подтвердить действие.
 2. На подключенную почту придет оповещение о том, что автоматический деплой выключен.
 
 ## Автоматический сборка: включение
 
 1. `Netlify` -> `[Deploys](https://app.netlify.com/sites/aristov/deploys)` -> `Activate builds` -> подтвердить действие.
-2. Или: `Netlify` -> `Site settings` -> `Build & deploy` -> блок `[Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings)` -> `Edit settings` -> `Activate builds` -> подтвердить действие.
+2. Или `Netlify` -> `Site settings` -> `Build & deploy` -> блок [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Activate builds` -> подтвердить действие.
 3. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после коммита в основной репозиторий.
-4. Для немедленного запуска `Trigger deploy` -> `Deploy site`.
+4. Для немедленного запуска сборки `Netlify` -> `Deploys` -> `Trigger deploy` -> `Deploy site`.
+5. Проверить статус автоматической публикации `Netlify` -> `Deploys` -> `Start auto publishing` -> подтвердить действие.
+6. Если последняя сборка не опубликована, войти в сборку -> `Publish deploy`
