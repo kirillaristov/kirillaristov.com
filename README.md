@@ -88,10 +88,10 @@
 
 ## Публикация на netlify
 
-1. Правка сохраняется в https://github.com/kirillaristov/kirillaristov.github.io (через `git push` или веб-версию), затем:
-2. Копируется автоматически в https://app.netlify.com/sites/aristov
-3. Собирается (deploy) автоматически (автоматическую сборку можно отключить) с параметрами, перечисленными в `config.yaml` и `netlify.toml`
-4. Публикуется (publish) автоматически на https://aristov.netlify.app.
+1. Правка сохраняется в [github.com/kirillaristov/kirillaristov.github.io](https://github.com/kirillaristov/kirillaristov.github.io) (через `git push` или веб-версию), затем:
+2. Копируется автоматически в [app.netlify.com/sites/aristov](https://app.netlify.com/sites/aristov)
+3. Собирается (deploy) автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml`
+4. Публикуется (publish) автоматически на [aristov.netlify.app](https://aristov.netlify.app).
 
 ## Автоматический деплой: включение
 
