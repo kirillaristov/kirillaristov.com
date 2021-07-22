@@ -35,7 +35,7 @@
   * `logo.jpg`
 * `README.md` - этот файл
 * `config.yaml` - конфиг `hugo`
-* `index.html` - домашняя страница для `github.pages`
+* `index.html` - домашняя страница для `github.pages` [kirillaristov.github.io](https://kirillaristov.github.io)
 * `netlify.toml` - конфиг `netlify`
 
 
