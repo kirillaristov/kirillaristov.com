@@ -84,24 +84,24 @@
 2. Индексировать внесенные правки `git add .`
 3. Создать коммит `git commit`
 4. В открывшемся окне добавить описание правки, сохранить и закрыть окно
-5. Отправить правку на github `git push` (однократно при первом запуске авторизоваться на `github.com`)
+5. Отправить правку на github `git push` (однократно при первом запуске авторизоваться на github)
 
 ## Публикация на netlify
 
 1. Разместить правку в [github.com/kirillaristov/kirillaristov.github.io](https://github.com/kirillaristov/kirillaristov.github.io) (через `git push` или веб-версию), затем:
 2. Копируется автоматически в [app.netlify.com/sites/aristov](https://app.netlify.com/sites/aristov)
 3. Собирается/deploy автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml`
-4. Публикуется/publish автоматически на [aristov.netlify.app](https://aristov.netlify.app).
+4. Публикуется/publish автоматически на [aristov.netlify.app](https://aristov.netlify.app)
 
 ## Выключение автоматической сборки
 
-1. `Netlify` -> `Deploys` -> `Deploy settings` -> секция [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Stop builds` -> подтвердить действие.
-2. На подключенную почту придет оповещение о том, что автоматическая сборка выключена.
+1. `Netlify` -> `Deploys` -> `Deploy settings` -> секция [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Stop builds` -> подтвердить действие
+2. На подключенную почту придет оповещение о том, что автоматическая сборка выключена
 
 ## Включение автоматической сборки
 
-1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Activate builds` -> подтвердить действие.
-2. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после коммита в основной репозиторий.
-3. Для немедленного запуска сборки `Netlify` -> `Deploys` -> `Trigger deploy` -> `Deploy site`.
-4. Проверить статус автоматической публикации `Netlify` -> `Deploys` -> `Start auto publishing` -> подтвердить действие.
+1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Activate builds` -> подтвердить действие
+2. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после коммита в основной репозиторий
+3. Для немедленного запуска сборки `Netlify` -> `Deploys` -> `Trigger deploy` -> `Deploy site`
+4. Проверить статус автоматической публикации `Netlify` -> `Deploys` -> `Start auto publishing` -> подтвердить действие
 5. Если последняя сборка не опубликована, войти в сборку -> `Publish deploy`
