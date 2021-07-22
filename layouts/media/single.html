@@ -5,7 +5,8 @@
 <p><small>
 {{- partial "date.html" . }}
 {{ partial "get-media-coord.html" . }}
-{{ partial "get-media-location.html" . -}}
+{{ partial "get-media-location.html" . }}
+{{ partial "tags.html" . -}}
 </small></p>
 
 {{ partial "prev-next.html" . }}
@@ -14,7 +15,5 @@
 
 {{- .Scratch.Set "addLink" "false" }}
 {{- partial "figure.html" . }}
-
-{{ partial "tags.html" . }}
 
 {{- end }}
