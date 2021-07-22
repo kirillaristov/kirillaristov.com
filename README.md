@@ -88,19 +88,19 @@
 
 ## Публикация на netlify
 
-1. Правка сохраняется в [github.com/kirillaristov/kirillaristov.github.io](https://github.com/kirillaristov/kirillaristov.github.io) (через `git push` или веб-версию), затем:
+1. Разместить правку в [github.com/kirillaristov/kirillaristov.github.io](https://github.com/kirillaristov/kirillaristov.github.io) (через `git push` или веб-версию), затем:
 2. Копируется автоматически в [app.netlify.com/sites/aristov](https://app.netlify.com/sites/aristov)
-3. Собирается (deploy) автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml`
-4. Публикуется (publish) автоматически на [aristov.netlify.app](https://aristov.netlify.app).
+3. Собирается/deploy автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml`
+4. Публикуется/publish автоматически на [aristov.netlify.app](https://aristov.netlify.app).
 
-## Автоматический деплой: включение
+## Автоматическая сборка: выключение
 
-1. Netlify -> [Deploys](https://app.netlify.com/sites/aristov/deploys) -> Activate builds -> подтвердить действие.
-2. Или: Netlify -> Site settings -> Build & deploy -> блок [Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> Edit settings -> Activate builds -> Save.
+1. `Netlify` -> `Site settings` -> `Build & deploy` -> блок `[Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings)` -> `Edit settings` -> `Stop builds` -> подтвердить действие.
+2. На подключенную почту придет оповещение о том, что автоматический деплой выключен.
+
+## Автоматический сборка: включение
+
+1. `Netlify` -> `[Deploys](https://app.netlify.com/sites/aristov/deploys)` -> `Activate builds` -> подтвердить действие.
+2. Или: `Netlify` -> `Site settings` -> `Build & deploy` -> блок `[Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings)` -> `Edit settings` -> `Activate builds` -> подтвердить действие.
 3. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после коммита в основной репозиторий.
-4. Для ручного запуска Trigger deploy -> Deploy site.
-
-## Автоматический деплой: выключение
-
-1. Netlify -> Site settings -> Build & deploy -> блок [Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> Edit settings -> Stop builds -> Save.
-2. На подключенную почту придет оповещение о том, что автоматический деплой выключен, может быть запущен вручную.
+4. Для немедленного запуска `Trigger deploy` -> `Deploy site`.
