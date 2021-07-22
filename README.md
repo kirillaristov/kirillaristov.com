@@ -93,12 +93,12 @@
 3. Собирается/deploy автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml`
 4. Публикуется/publish автоматически на [aristov.netlify.app](https://aristov.netlify.app).
 
-## Автоматическая сборка: выключение
+## Выключение автоматической сборки
 
 1. `Netlify` -> `Deploys` -> `Deploy settings` -> секция [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Stop builds` -> подтвердить действие.
 2. На подключенную почту придет оповещение о том, что автоматический деплой выключен.
 
-## Автоматический сборка: включение
+## Включение автоматической сборки
 
 1. `Netlify` -> `[Deploys](https://app.netlify.com/sites/aristov/deploys)` -> `Activate builds` -> подтвердить действие.
 2. Или `Netlify` -> `Site settings` -> `Build & deploy` -> секция [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Activate builds` -> подтвердить действие.
