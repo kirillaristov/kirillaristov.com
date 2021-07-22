@@ -93,7 +93,7 @@
 3. Собирается автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml`
 4. Публикуется автоматически на [aristov.netlify.app](https://aristov.netlify.app)
 
-## Выключение автоматической сборки
+## Отключение автоматической сборки
 
 1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Deploy settings` -> секция `Build settings` -> `Edit settings` -> `Stop builds` -> подтвердить действие
 2. На подключенную почту придет оповещение о том, что автоматическая сборка выключена
