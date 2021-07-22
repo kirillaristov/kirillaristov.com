@@ -50,7 +50,7 @@ button 		{margin:0;padding:0;border-radius:0;outline:none;border:none;background
 hr		{clear:both;height:1px;font-size:1px;margin:2px 0;background-color:transparent;width:100%;border:none;border-bottom:1px solid #8f53fd;}
 abbr, acronym 	{cursor:help;}
 nav.slave 	{margin-bottom:30px;}
-img 		{overflow:hidden;border:none;vertical-align:middle;}
+img 		{height:auto;overflow:hidden;border:none;vertical-align:middle;}
 small, .small	{font-size:0.8em;}
 iframe		{vertical-align:middle;border:none;background-color:#7b90fd;}
 label		{cursor:pointer;}
