@@ -88,17 +88,19 @@
 
 ## Публикация на netlify
 
-1. Правка отправляется в github.com/kirillaristov/kirillaristov.github.io (через `git push` или веб-версию), затем:
+1. Правка сохраняется в https://github.com/kirillaristov/kirillaristov.github.io (через `git push` или веб-версию), затем:
 2. Копируется автоматически в https://app.netlify.com/sites/aristov
-3. Собирается автоматически (автоматическую сборку можно отключить) с параметрами, перечисленными в `config.yaml` и `netlify.toml`
-4. Публикуется автоматически на https://aristov.netlify.app.
+3. Собирается (deploy) автоматически (автоматическую сборку можно отключить) с параметрами, перечисленными в `config.yaml` и `netlify.toml`
+4. Публикуется (publish) автоматически на https://aristov.netlify.app.
 
-## Автоматическая публикация: включение
+## Автоматический деплой: включение
 
-1. Netlify -> [Deploys](https://app.netlify.com/sites/aristov/deploys) -> Activate builds или Start auto publishing -> подтвердить действие.
-2. На подключенную почту придет оповещение о том, что автоматическая публикация включена и будет запущена после коммита в основной репозиторий.
-3. Для ручного запуска Trigger deploy -> Deploy site.
+1. Netlify -> [Deploys](https://app.netlify.com/sites/aristov/deploys) -> Activate builds -> подтвердить действие.
+2. Или: Netlify -> Site settings -> Build & deploy -> блок [Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> Edit settings -> Activate builds -> Save.
+3. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после коммита в основной репозиторий.
+4. Для ручного запуска Trigger deploy -> Deploy site.
 
-## Автоматическая публикация: выключение
+## Автоматический деплой: выключение
 
-1. Netlify -> [Deploys](https://app.netlify.com/sites/aristov/deploys) -> Stop auto publishing -> подтвердить действие.
+1. Netlify -> Site settings -> Build & deploy -> блок [Build settings](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> Edit settings -> Stop builds -> Save.
+2. На подключенную почту придет оповещение о том, что автоматический деплой выключен, может быть запущен вручную.
