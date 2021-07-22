@@ -103,5 +103,8 @@
 1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Activate builds`
 2. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после обновления репозитория
 3. Для немедленного запуска сборки `Netlify` -> `Deploys` -> `Trigger deploy` -> `Deploy site`
-4. Автоматическая *публикация* сборок должна быть включена `Netlify` -> `Deploys` -> `Start auto publishing`
-5. Если последняя сборка не опубликована, войти в сборку -> `Publish deploy`
+
+## Публикация сборок
+
+1. Если последняя сборка не опубликована, войти в сборку -> `Publish deploy`
+2. Включение автоматической публикации сборок `Netlify` -> `Deploys` -> `Start auto publishing`
