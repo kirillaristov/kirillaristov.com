@@ -11,7 +11,7 @@
 
     {{- $url := printf "/map/#type=hybrid&amp;zoom=12&amp;center=%s&amp;placemark=%s" ($imageCoord) ($imageCoord) -}}
 
-      <div class="post__coord">{{ $.Site.Params.COORDINATES }}: <a target="_blank" {{ printf "href=%q" $url | safeHTMLAttr }}>{{$imageCoord}}</a></div>
+      <div class="post__coord"><small>{{ $.Site.Params.COORDINATES }}: <a target="_blank" {{ printf "href=%q" $url | safeHTMLAttr }}>{{$imageCoord}}</a></small></div>
 
   {{- end }}
 
