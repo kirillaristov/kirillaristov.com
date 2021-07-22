@@ -2,8 +2,9 @@
 
 <h2 class="post__title">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</h2>
 
-{{ partial "date.html" . }}
+{{ partial "get-date.html" . }}
 {{ partial "get-post-coord.html" . }}
+{{ partial "get-tags.html" . }}
 
 {{ partial "prev-next.html" . }}
 
@@ -17,7 +18,5 @@
     {{- end }}
   {{- end }}
 {{- end }}
-
-{{ partial "get-tags.html" . }}
 
 {{- end }}
