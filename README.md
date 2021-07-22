@@ -43,13 +43,13 @@
 
 ## Hugo для Windows
 
-1. Скачать последнюю версию `hugo` для `windows` [https://github.com/gohugoio/hugo/releases/latest](github.com/gohugoio/hugo/releases/latest) (0.83.1 на 2021-06-02)
+1. Скачать последнюю версию `hugo` для `windows` [github.com/gohugoio/hugo/releases/latest](https://github.com/gohugoio/hugo/releases/latest) (0.83.1 на 2021-06-02)
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
 3. Проверить: `hugo version`
 
 ## Git для Windows
 
-1. Скачать последнюю версию `git` для `windows` [https://git-scm.com/download/win](git-scm.com/download/win) (2.31.1 на 2021-06-02)
+1. Скачать последнюю версию `git` для `windows` [git-scm.com/download/win](https://git-scm.com/download/win) (2.31.1 на 2021-06-02)
 2. Установить с параметрами по умолчанию
 3. Перезагрузиться
 4. Проверить `git version`
@@ -63,7 +63,7 @@
 2. Перейти в него `cd c:\www\kir.com`
 3. Клонировать оригинальный дистрибутив `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
 4. Запустить hugo `hugo server`
-5. Проверить доступность сайта на адресе [http://localhost:1313](localhost:1313)
+5. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
 
 ## Внесение правок в локальную копию и тестирование
 
@@ -73,7 +73,7 @@
 2. Запустить hugo `hugo server`
 3. Внести правки в локальные исходники
 4. Hugo автоматически произведет сборку - успешно или с ошибками
-5. Протестировать правки на адресе [http://localhost:1313](localhost:1313)
+5. Протестировать правки на адресе [localhost:1313](http://localhost:1313)
 
 
 #  Публикация
