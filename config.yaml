@@ -33,6 +33,8 @@ permalinks:
 #  blog: /blog/:year:month:day:15:04/
   media: /media/:filename/
 
+assetDir: "assets"
+
 disableHugoGeneratorInject: true
 disableLiveReload: true
 disableFastRender: true
