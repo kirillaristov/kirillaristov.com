@@ -93,8 +93,12 @@
 3. Собирается автоматически (автоматическую сборку можно отключить) с параметрами, перечисленными в `config.yaml` и `netlify.toml`
 4. Публикуется автоматически на https://aristov.netlify.app.
 
-## Автоматическая публикация: включение
+## Автоматическая публикация: включение/on
 
-1. [Netlify -> Deploys](https://app.netlify.com/sites/aristov/deploys) -> Activate builds -> подтвердить действие.
+1. [Netlify -> Deploys](https://app.netlify.com/sites/aristov/deploys) -> Activate builds или Start auto publishing -> подтвердить действие.
 2. На подключенную почту придет оповещение о том, что автоматическая публикация включена и будет запущена после коммита в основной репозиторий.
 3. Для ручного запуска Trigger deploy -> Deploy site.
+
+## Автоматическая публикация: выключение/off
+
+1. [Netlify -> Deploys](https://app.netlify.com/sites/aristov/deploys) -> Stop auto publishing -> подтвердить действие.
