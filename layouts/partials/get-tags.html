@@ -1,9 +1,10 @@
 {{ with .GetTerms "tags" -}}
 
 <div class="post__tags"><small>{{ $.Site.Params.TAGS }}:
-
+  
+  {{- $first := true }}
   {{- range . }}
-  <a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{- if $first }}{{ $first = false }}{{ else }}, {{ end }}<a class="tag" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{- end }}
 
 </small></div>
