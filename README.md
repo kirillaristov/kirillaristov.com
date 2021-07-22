@@ -100,7 +100,7 @@
 
 ## Включение автоматической сборки
 
-1. `Netlify` -> `[Deploys](https://app.netlify.com/sites/aristov/deploys)` -> `Activate builds` -> подтвердить действие.
+1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Activate builds` -> подтвердить действие.
 2. Или `Netlify` -> `Site settings` -> `Build & deploy` -> секция [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Activate builds` -> подтвердить действие.
 3. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после коммита в основной репозиторий.
 4. Для немедленного запуска сборки `Netlify` -> `Deploys` -> `Trigger deploy` -> `Deploy site`.
