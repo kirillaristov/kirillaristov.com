@@ -95,7 +95,7 @@
 
 ## Выключение автоматической сборки
 
-1. `Netlify` -> `Deploys` -> `Deploy settings` -> секция [`Build settings`](https://app.netlify.com/sites/aristov/settings/deploys#build-settings) -> `Edit settings` -> `Stop builds` -> подтвердить действие
+1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Deploy settings` -> секция `Build settings` -> `Edit settings` -> `Stop builds` -> подтвердить действие
 2. На подключенную почту придет оповещение о том, что автоматическая сборка выключена
 
 ## Включение автоматической сборки
