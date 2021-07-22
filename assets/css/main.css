@@ -19,7 +19,7 @@ h4	{font:normal 15px/20px cuprum,serif;color:#000000;}
 .content h3.media__title {padding-top:0;}
 .content h2.home__blog-title {border-color:#8f53fd;}
 
-.post__tags a:after {content:", ";} .post__tags a:last-child:after {content:"";}
+/* .post__tags a:after {content:", ";} .post__tags a:last-child:after {content:"";} */
 
 .post__date {margin-bottom:14px;}
 
