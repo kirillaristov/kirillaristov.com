@@ -2,6 +2,8 @@
 
 <div class="mediacontent__short">
 {{- range sort .Pages }}
+  
+{{- if ne .Params.hidden true }}
 
 {{- $path := .RelPermalink }}
 {{- $base := path.Base $path }}
@@ -23,5 +25,6 @@
 </a>
 
 {{ end }}
+{{- end }}
 </div>
 {{- end }}
