@@ -2,12 +2,12 @@
 
 <h2 class="post__title">{{ with partial "get-title.html" . }}{{ . }}{{ end }}</h2>
 
-<p><small>
+<div>
 {{- partial "date.html" . }}
 {{ partial "get-media-coord.html" . }}
 {{ partial "get-media-location.html" . }}
 {{ partial "tags.html" . -}}
-</small></p>
+</div>
 
 {{ partial "prev-next.html" . }}
 
