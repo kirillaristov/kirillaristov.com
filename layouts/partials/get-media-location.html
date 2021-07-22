@@ -10,6 +10,6 @@
 
 {{- with $.Scratch.Get "location" -}}
 
-<div class="post__location">{{ $.Site.Params.LOCATION }}: {{ . }}.</div>
+<div class="post__location"><small>{{ $.Site.Params.LOCATION }}: {{ . }}.</small></div>
 
 {{- end }}
