@@ -108,6 +108,7 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 
 .template-blog-item .intro {margin-top:25px;}
 .content__title {margin-bottom:15px;}
+
 #map {width:100%;width:calc(100% + 60px);min-width:200px;height:400px;margin:20px -30px 35px;background-color:#d3e3fc;}
 
 .section:not(:first-child) {margin-top:40px;}
@@ -115,10 +116,10 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 
 
 /* --- <MENU> --- */
+.menu {padding-bottom:12px;}
 .menu li {display:inline-block;outline:none;}
-.menu li a {display:block;padding:8px 11px;outline:none;}
-.menu li.active {padding:8px 11px;color:#b44141;}
-
+.menu li a {display:block;padding:16px 11px;outline:none;}
+.menu li.active {padding:16px 11px;color:#b44141;}
 .menu li a:hover {background-color:#d0fc82;color:#000;}
 /* --- </MENU> --- */
 
