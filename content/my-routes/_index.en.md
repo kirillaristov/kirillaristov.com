@@ -2,6 +2,10 @@
 title: My Routes
 gallery:
   tags: [fav]
+menu:
+  main:
+    name: Routes
+    weight: 9
 ---
 
 <h2><a href="/en/my-routes/as-the-first-settlers/">As The First Settlers</a></h2>
