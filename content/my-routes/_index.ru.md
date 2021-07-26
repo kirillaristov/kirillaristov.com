@@ -2,6 +2,10 @@
 title: Мои Маршруты
 gallery:
   tags: [fav]
+menu:
+  main:
+    name: Маршруты
+    weight: 9
 ---
 
 <h2><a href="/ru/my-routes/as-the-first-settlers/">Как Первые Переселенцы</a></h2>
