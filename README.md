@@ -95,16 +95,16 @@
 
 ## Отключение автоматической сборки
 
-1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Deploy settings` -> секция `Build settings` -> `Edit settings` -> `Stop builds`
+1. `Netlify` -> `kir.com` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Deploy settings` -> секция `Build settings` -> `Edit settings` -> `Stop builds`
 2. На подключенную почту придет оповещение о том, что автоматическая сборка отключена
 
 ## Включение автоматической сборки
 
-1. `Netlify` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Activate builds`
+1. `Netlify` -> `kir.com` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Activate builds`
 2. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после обновления репозитория
-3. Для немедленного запуска сборки `Netlify` -> `Deploys` -> `Trigger deploy` -> `Deploy site`
+3. Для немедленного запуска сборки `Netlify` -> `kir.com` -> `Deploys` -> `Trigger deploy` -> `Deploy site`
 
 ## Публикация сборок
 
 1. Если последняя сборка не опубликована, войти в сборку -> `Publish deploy`
-2. Включение автоматической публикации сборок `Netlify` -> `Deploys` -> `Start auto publishing`
+2. Включение автоматической публикации сборок `Netlify` -> `kir.com` -> `Deploys` -> `Start auto publishing`
