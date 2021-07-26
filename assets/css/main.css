@@ -156,7 +156,7 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 /* --- Diary TransRussia --- */
 #page_diary .content h2 {margin-bottom:0;}
 #page_diary .content h3 {padding-top:0;}
-#page_diary .content .entry-date {margin-top:0;margin-top:0;padding-bottom:0;}
+#page_diary .content .entry-date {margin-top:0;margin-bottom:0;padding-bottom:0;}
 #page_diary .content .day-description {margin-left:20px;}
 /* --- Diary TransRussia --- */
 
