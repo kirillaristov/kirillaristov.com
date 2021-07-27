@@ -18,7 +18,7 @@
   {{- $height = .Height }}
 {{- end -}}
 
-<a class="jpic" href="{{ .RelPermalink }}" title="{{ partial "get-title.html" . }}" data-href="{{ $pic_full }}" data-title="{{ partial "get-title.html" . }}" data-location="{{ partial "get-media-location.html" . }}">
+<a class="jpic" href="{{ .RelPermalink }}" title="{{ partial "get-title.html" . }}" data-href="{{ $pic_full }}" data-title="{{ partial "get-title.html" . }}" data-location="{{ partial "get-media-location.html" . -}}">
 <img loading="lazy" width="{{ $width }}" height="{{ $height }}" src="{{ $pic_thumb }}" alt="{{ partial "get-title.html" . }}{{ with partial "get-content.html" . }}. {{ chomp . }}{{ end }}">
 </a>
 
