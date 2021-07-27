@@ -8,7 +8,7 @@ date: 2010-11-18T16:18:34Z
 ---
 
 2.700 km paddling in 66 days from August 5 to October 22, 2010 year. 8 of 9 Dams crossing scheme on the Volga.
-<br><br>
+
 [Photos](/en/categories/paddling-2700km-along-the-volga-2010/) |
 [Diary](diary/) |
 <a href="/map/#type=hybrid&amp;center=53.70209,41.31989&amp;zoom=5&amp;kml=kml2010" target="_blank">Track</a>
