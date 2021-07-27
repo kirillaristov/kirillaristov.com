@@ -8,7 +8,7 @@ date: 2008-10-12T14:34:56Z
 ---
 
 ТрансРоссия Москва&ndash;Владивосток на велосипеде: 10.300&nbsp;км за 118&nbsp;дней. С 17&nbsp;мая по 11&nbsp;сентября 2008.
-<br><br>
+
 [Фотографии](/ru/categories/transrussia-10300km-by-bicycle-2008/) |
 [Дневник](diary) |
 <a href="/map/#type=hybrid&amp;center=50.17195,87.17019&amp;zoom=4&amp;kml=kml2008" target="_blank">Трек</a>
