@@ -7,7 +7,8 @@ gallery:
 date: 2012-10-15T15:17:45Z
 ---
 
-Two weeks by bicycle in Brazil. Possibility to compare habitable areas — with and without winters. Understanding that cold weather, ice and snow is good cleaners so we able to live in the wild with minimum risks. August&nbsp;20 — September&nbsp;6, 2012.<br>
+Two weeks by bicycle in Brazil. Possibility to compare habitable areas — with and without winters. Understanding that cold weather, ice and snow is good cleaners so we able to live in the wild with minimum risks. August&nbsp;20 — September&nbsp;6, 2012.
+<br><br>
 [Photos](/en/categories/brazil-by-bicycle-2012/) |
 <a href="/map/#type=hybrid&amp;center=-22.28671,-42.43613&amp;zoom=9&amp;kml=kml2012" target="_blank">Track</a>
 
