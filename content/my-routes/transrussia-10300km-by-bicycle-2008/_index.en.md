@@ -8,7 +8,7 @@ date: 2008-10-12T14:34:56Z
 ---
 
 TransRussia Moscow—Vladivostok by bicycle: 10.300 km in 118 days. From May 17 to September 11, 2008.
-<br><br>
+
 [Photos](/en/categories/transrussia-10300km-by-bicycle-2008/) |
 [Diary](diary/) |
 <a href="/map/#type=hybrid&amp;center=50.17195,87.17019&amp;zoom=4&amp;kml=kml2008" target="_blank">Track</a>
