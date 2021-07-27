@@ -8,7 +8,7 @@ date: 2010-11-18T16:18:34Z
 ---
 
 2.700 км гребли за 66 дней с 5 августа по 22 октября 2010 года. Схема обхода 8 из 9 плотин на Волге.
-<br><br>
+
 [Фотографии](/ru/categories/paddling-2700km-along-the-volga-2010/) |
 [Дневник](diary/) |
 <a href="/map/#type=hybrid&amp;center=53.70209,41.31989&amp;zoom=5&amp;kml=kml2010" target="_blank">Трек</a>
