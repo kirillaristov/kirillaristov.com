@@ -1,7 +1,7 @@
 {{ define "main" -}}
 
 <div class="mediacontent__short">
-{{- range sort .Pages }}
+{{- range sort .Pages "File.Path" }}
   
 {{/* if ne .Params.hidden true */}}
 
