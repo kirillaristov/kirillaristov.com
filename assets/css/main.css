@@ -154,10 +154,10 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 
 
 /* --- Diary TransRussia --- */
-#page_diary .content h2 {margin-bottom:0;margin-left:15px;}
-#page_diary .content h2.section-name {margin-left:0;color:#000;}
-#page_diary .content h3 {padding-top:0;margin-left:15px;}
-#page_diary .content .entry-date {margin:0 0 0 15px;padding-bottom:0;}
+#page_diary .content h2 {margin-bottom:0;margin-left:15px;padding-bottom:0;}
+#page_diary .content h2.section-name {margin-left:0;color:#1a7eff;}
+#page_diary .content h3 {padding-top:0;margin-left:15px;color:#484847;font-size:18px;}
+#page_diary .content .entry-date {position:relative;bottom:20px;margin:0 0 0 15px;padding-bottom:0;color:#b441416b;font-size:small;text-align:right;}
 #page_diary .content .day-description {margin-left:35px;}
 /* --- Diary TransRussia --- */
 
