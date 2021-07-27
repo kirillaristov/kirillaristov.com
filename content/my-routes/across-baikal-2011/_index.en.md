@@ -7,7 +7,8 @@ gallery:
 date: 2011-11-04T08:14:23Z
 ---
 
-Paddling across lake Baikal from coast to coast on a regular river baidarka. And several kilometers along shore to the Baikalo-Lensky Strict Nature Reserve. 340 km total. 2011, August — September.<br>
+Paddling across lake Baikal from coast to coast on a regular river baidarka. And several kilometers along shore to the Baikalo-Lensky Strict Nature Reserve. 340 km total. 2011, August — September.
+<br><br>
 [Photos](/en/categories/across-baikal-2011/) |
 <a href="/map/#type=hybrid&amp;center=52.81922,107.00964&amp;zoom=8&amp;kml=kml2011" target="_blank">Track</a>
 
