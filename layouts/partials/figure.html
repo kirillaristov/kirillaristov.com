@@ -6,5 +6,5 @@
 {{- $pic := print "/static/media/" $base  "/" $base ".jpg" -}}
 
 <p class="image">{{ if eq $addLink "true" }}<a href="{{ $path | relLangURL }}">{{ end -}}
-<img loading="lazy" src="{{ $pic }}" alt="{{ partial "get-title.html" . }}{{ with partial "get-media-location.html" . }}, {{ $.Site.Params.LOCATION }}: {{ chomp . }}{{ end }}">
+<img loading="lazy" src="{{ $pic }}" alt="{{ partial "get-title.html" . }}{{ with partial "get-media-location.html" . }}, {{ chomp . }}{{ end }}">
 {{- if eq $addLink "true" }}</a>{{ end }}</p>
