@@ -3,7 +3,7 @@
 <p class="media__category-list">
 {{- $first := true }}
 {{- range .Site.Taxonomies.categories.ByCount }}
-{{- if $first }}{{ $first = false }}{{ else }}, {{ end }}<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> [{{ .Count }}]
+{{- if $first }}{{ $first = false }}{{ else }}, {{ end }}<a href="{{ .Page.Permalink }}">{{ .Page.Title }}&nbsp;<sup>{{ .Count }}</sup></a>
 {{- end -}}
 </p>
 
