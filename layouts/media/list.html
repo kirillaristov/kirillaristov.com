@@ -1,5 +1,10 @@
 {{ define "main" -}}
 
+{{- $first := false }}
+{{- range .Site.Taxonomies.categories }}
+{{- if $first }}{{ $first = true }}, {{ end }}<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> [{{ .Count }}]
+{{- end }}
+
 <div class="mediacontent__short">
 {{- range sort .Pages "File.Path" "desc" }}
 
