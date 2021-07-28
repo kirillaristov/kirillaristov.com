@@ -1,9 +1,11 @@
 {{ define "main" -}}
 
-{{- $first := false }}
+<p class="media__category-list">
+{{- $first := true }}
 {{- range .Site.Taxonomies.categories }}
-{{- if $first }}{{ $first = true }}, {{ end }}<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> [{{ .Count }}]
-{{- end }}
+{{- if $first }}{{ $first = false }}{{ else }}, {{ end }}<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> [{{ .Count }}]
+{{- end -}}
+</p>
 
 <div class="mediacontent__short">
 {{- range sort .Pages "File.Path" "desc" }}
