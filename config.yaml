@@ -91,8 +91,8 @@ languages:
     READ_MORE: "Read More…"
     
     FEED: Feed
-    NEWER: Up
-    OLDER: Down
+    NEWER: Newer
+    OLDER: Older
     PREVIOUS: Previous
     NEXT: Next page
     ON_FIRST: On first page
@@ -150,8 +150,8 @@ languages:
     READ_MORE: "Читать далее…"
     
     FEED: Трансляция
-    NEWER: Выше
-    OLDER: Ниже
+    NEWER: Раньше
+    OLDER: Позже
     PREVIOUS: Предыдущая
     NEXT: Следующая
     ON_FIRST: На первой странице
