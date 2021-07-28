@@ -1,11 +1,11 @@
 {{ with partial "get-date-from-filename.html" . -}}
-<div class="post__date"><time datetime="{{ . | dateFormat "2006-01-02T15:04:05Z0700" }}">
+<div class="post__date">
 
   {{- if eq "ru" $.Lang -}}
-    {{ . | dateFormat "1" }} {{ index $.Site.Data.month (. | dateFormat "1") }} {{ . | dateFormat "2006"  }}, {{ . | dateFormat "15" }}:{{ . | dateFormat "04" }} UTC
+    {{- . | dateFormat "1" }} {{ index $.Site.Data.month (. | dateFormat "1") }} {{ . | dateFormat "2006"  }}, {{ . | dateFormat "15" }}:{{ . | dateFormat "04" }} UTC
   {{- else -}}
-    {{ . | dateFormat $.Site.Params.datePosted }} UTC
+    {{- . | dateFormat $.Site.Params.datePosted }} UTC
   {{- end -}}
 
-</time></div>
+</div>
 {{- end }}
