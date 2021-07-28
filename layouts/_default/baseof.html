@@ -31,7 +31,7 @@
 {{ partial "get-opengraph" . }}
 
 <link rel="canonical" href="{{ .Permalink }}">
-<link rel="alternate" hreflang="x-default" href="">
+<link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
 <link rel="alternate" hreflang="en" href="{{ strings.TrimRight "/" (replace .RelPermalink "/ru" "/en") }}/">
 <link rel="alternate" hreflang="ru" href="{{ strings.TrimRight "/" (replace .RelPermalink "/en" "/ru") }}/">
 <link rel="alternate" href="/{{ .Lang }}/rss.xml" title="{{ .Site.Title }}" type="application/rss+xml">
