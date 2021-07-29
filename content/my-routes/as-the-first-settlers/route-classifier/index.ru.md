@@ -27,7 +27,7 @@ date: 2016-12-26T19:18:23Z
 <td class="camp_descr"><img src="/dist/images/marks/zz-lovely-place.png" alt=""> 2016-10-15 02-34-35</td>
 <td class="track_title"><img src="/dist/images/marks/down.png" alt=""> Amur river</td>
 <td class="track_km">15.8</td>
-<td class="track_descr">The End of the third year</td>
+<td class="track_descr">Последний день третьего года</td>
 </tr>
 
 <tr class="table_row blue">
