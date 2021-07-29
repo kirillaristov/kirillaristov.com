@@ -4,9 +4,9 @@ date: 2016-12-26T19:18:23Z
 ---
 
 Автоматически созданный, на основе текущих геоданных.<br>
-Легенда: <svg class="color blue" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>вода, <svg class="color green" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>суша, <svg class="color yellow" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>сложный участок, <svg class="color branch" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>речная протока.<br>
-Стрелки указывают направление движения относительно течения реки( <img src="/dist/images/marks/down.png" alt="">по течению,
-<img src="/dist/images/marks/up.png" alt="">против течения, <img src="/dist/images/marks/flat.png" alt="">водоём).
+Условные обозначения: <svg class="color blue" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;вода, <svg class="color green" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;суша, <svg class="color yellow" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;сложный участок, <svg class="color branch" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;речная протока.<br>
+Стрелки указывают направление движения относительно течения реки: <img src="/dist/images/marks/down.png" alt="">&nbsp;по течению,
+<img src="/dist/images/marks/up.png" alt="">против течения, <img src="/dist/images/marks/flat.png" alt="">&nbsp;водоём.
 
 
 
