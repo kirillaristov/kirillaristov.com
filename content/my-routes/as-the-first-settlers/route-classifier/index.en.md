@@ -4,9 +4,9 @@ date: 2016-12-26T19:18:23Z
 ---
 
 Automatically generated, based on actual geodata.<br>
-Description: <svg class="color blue" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>water, <svg class="color green" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>ground, <svg class="color yellow" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>tough part, <svg class="color branch" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>river branch.<br>
-Arrows indicate the direction of movement relative to the flow of the river
-( <img src="/dist/images/marks/down.png" alt="">downstream, <img src="/dist/images/marks/up.png" alt="">upstream, <img src="/dist/images/marks/flat.png" alt="">flat).
+Description: <svg class="color blue" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;water, <svg class="color green" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;ground, <svg class="color yellow" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;tough part, <svg class="color branch" width="30" height=15><polyline points="0 0 0 15 15 15 15 0"/></svg>&nbsp;river branch.
+
+Arrows indicate the direction of movement relative to the flow of the river <img src="/dist/images/marks/down.png" alt="">&nbsp;downstream, <img src="/dist/images/marks/up.png" alt="">&nbsp;upstream, <img src="/dist/images/marks/flat.png" alt="">&nbsp;flat.
 
 
 
