@@ -1,5 +1,5 @@
 /* --- <Route Classifier> --- */
-#as-the-first-settlers-route-classifier {display:flex;overflow-x:auto;margin-top:30px;border-collapse:collapse;}
+#as-the-first-settlers-route-classifier {display:flex;overflow-x:auto;scroll-snap-type:x mandatory;margin-top:30px;border-collapse:collapse;}
 #as-the-first-settlers-route-classifier td {
 	border-bottom-style:solid;
 	border-right-style:solid;
