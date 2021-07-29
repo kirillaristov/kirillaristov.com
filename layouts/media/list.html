@@ -1,9 +1,11 @@
 {{ define "main" -}}
 
-<p class="media__category-list">
+<p class="media__tag-list">
 {{- $first := true }}
-{{- range .Site.Taxonomies.categories.ByCount }}
-{{- if $first }}{{ $first = false }}{{ else }}, {{ end }}<a href="{{ .Page.Permalink }}">{{ .Page.Title }}<!-- &nbsp;<sup>{{ .Count }}</sup> --></a>
+{{- range $name, $taxonomy := .Site.Taxonomies.tags }}
+  {{- with $.Site.GetPage (printf "/tags/%s" $name) }}
+    {{- if $first }}{{ $first = false }}{{ else }}, {{ end }}<a href="{{ .RelPermalink }}">{{ $name }}</a>
+  {{- end }}
 {{- end -}}
 </p>
 
