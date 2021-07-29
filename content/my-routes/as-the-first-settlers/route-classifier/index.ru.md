@@ -27,14 +27,14 @@ date: 2016-12-26T19:18:23Z
 <td class="camp_descr"><img src="/dist/images/marks/zz-lovely-place.png" alt=""> 2016-10-15 02-34-35</td>
 <td class="track_title"><img src="/dist/images/marks/down.png" alt=""> Amur river</td>
 <td class="track_km">15.8</td>
-<td class="track_descr">The End of the third year</td>
+<td class="track_descr">Последний день третьего года</td>
 </tr>
 
 <tr class="table_row blue">
 <td class="track_direction down color"></td>
 <td class="camp_date">2016-10-14</td>
 <td class="camp_descr"><img src="/dist/images/marks/ground-camping.png" alt=""> Амурзет.<br>2016-10-14 11:45:09, 62 m</td>
-<td class="track_title"><img src="/dist/images/marks/down.png" alt=""> Amur river</td>
+<td class="track_title"><img src="/dist/images/marks/down.png" alt="">Amur river</td>
 <td class="track_km">62</td>
 <td class="track_descr"></td>
 </tr>
@@ -42,8 +42,8 @@ date: 2016-12-26T19:18:23Z
 <tr class="table_row blue">
 <td class="track_direction down color"></td>
 <td class="camp_date">2016-10-13</td>
-<td class="camp_descr"><img src="/dist/images/marks/01-camp.png" alt=""> Между избой и берегом на песке. Сначала заночевал в избушке, но из-за храпа двух молодых ребят переехал на улицу. Вообще, надо было так сначала и поступить.<br>2016-10-13 15:08:58, 71 m</td>
-<td class="track_title"><img src="/dist/images/marks/down.png" alt=""> Amur river</td>
+<td class="camp_descr"><img src="/dist/images/marks/01-camp.png" alt="">Между избой и берегом на песке. Сначала заночевал в избушке, но из-за храпа двух молодых ребят переехал на улицу. Вообще, надо было так сначала и поступить.<br>2016-10-13 15:08:58, 71 m</td>
+<td class="track_title"><img src="/dist/images/marks/down.png" alt="">Amur river</td>
 <td class="track_km">118.2</td>
 <td class="track_descr"></td>
 </tr>
@@ -51,7 +51,7 @@ date: 2016-12-26T19:18:23Z
 <tr class="table_row blue">
 <td class="track_direction down color"></td>
 <td class="camp_date">2016-10-12</td>
-<td class="camp_descr"><img src="/dist/images/marks/ground-camping.png" alt=""> Пашково, пограничная застава, дом-общежитие для командировочных.<br>2016-10-12 11:29:46, 80 m</td>
+<td class="camp_descr"><img src="/dist/images/marks/ground-camping.png" alt="">Пашково, пограничная застава, дом-общежитие для командировочных.<br>2016-10-12 11:29:46, 80 m</td>
 <td class="track_title"><img src="/dist/images/marks/down.png" alt=""> Amur river</td>
 <td class="track_km">60.3</td>
 <td class="track_descr"></td>
