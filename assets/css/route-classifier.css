@@ -12,9 +12,9 @@
 #as-the-first-settlers-route-classifier .camp_date, #as-the-first-settlers-route-classifier .track_km {white-space:nowrap;}
 #as-the-first-settlers-route-classifier td:not(.track_direction)	{padding:10px;}
 #as-the-first-settlers-route-classifier .track_direction		{width:6px;border:none;}
-#as-the-first-settlers-route-classifier .track_title			{width:15%;height:35px;}
+#as-the-first-settlers-route-classifier .track_title			{max-width:15%;height:35px;}
 #as-the-first-settlers-route-classifier .track_descr			{border-right:none;}
-#as-the-first-settlers-route-classifier .camp_descr			{width:30%;}
+#as-the-first-settlers-route-classifier .camp_descr			{max-width:30%;}
 #as-the-first-settlers-route-classifier .camp_date			{text-align:center;}
 #as-the-first-settlers-route-classifier tr:first-child>td.color		{border-bottom:1px solid #a1a6c2;border-right:1px solid #a1a6c2;}
 #as-the-first-settlers-route-classifier tr:last-child>td.color		{border-right:1px solid #a1a6c2;}
