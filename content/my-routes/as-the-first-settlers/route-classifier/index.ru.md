@@ -15,10 +15,10 @@ date: 2016-12-26T19:18:23Z
 <tr class="table_caption">
 <td class="track_direction"></td>
 <td class="camp_date">310&nbsp;days<br>in action</td>
-<td class="camp_descr"></td>
+<td class="camp_descr">Описание стоянки</td>
 <td class="track_title">417 different parts</td>
 <td class="track_km">12644<br>km</td>
-<td class="track_descr"></td>
+<td class="track_descr">Описание пути</td>
 </tr>
 
 <tr class="table_row blue">
