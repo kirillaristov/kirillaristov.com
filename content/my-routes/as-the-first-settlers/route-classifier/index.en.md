@@ -15,10 +15,10 @@ Arrows indicate the direction of movement relative to the flow of the river
 <tr class="table_caption">
 <td class="track_direction"></td>
 <td class="camp_date">310&nbsp;days<br>in action</td>
-<td class="camp_descr"></td>
+<td class="camp_descr">Camp description</td>
 <td class="track_title">417 different parts</td>
 <td class="track_km">12644<br>km</td>
-<td class="track_descr"></td>
+<td class="track_descr">Track description</td>
 </tr>
 
 <tr class="table_row blue">
