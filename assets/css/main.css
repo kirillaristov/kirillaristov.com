@@ -146,11 +146,12 @@ a[target="_blank"], a.external	{cursor:url("data:image/x-icon;base64,AAACAAEAICA
 /* --- </MENU> --- */
 
 
-/* --- Миниатюры фото для страниц Путешествие 2014х --- */
-.mediacontent__short		{margin-top:30px;text-align:center;letter-spacing:20px;}
-.mediacontent__short a		{max-width:100%;display:inline-block;margin-bottom:20px;}
-.mediacontent__short a img	{max-width:100%;background-color:#c0bdf8;text-align:left;letter-spacing:normal;}
-/* --- Миниатюры фото для страниц Путешествие 2014х --- */
+/* --- Media --- */
+.media__tag-list {margin-top:35px;word-spacing:7px;}
+.mediacontent__short {margin-top:30px;text-align:center;letter-spacing:20px;}
+.mediacontent__short a {max-width:100%;display:inline-block;margin-bottom:20px;}
+.mediacontent__short a img {max-width:100%;background-color:#c0bdf8;text-align:left;letter-spacing:normal;}
+/* --- Media --- */
 
 
 /* --- Diary TransRussia --- */
