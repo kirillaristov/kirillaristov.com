@@ -1,11 +1,10 @@
 {{ define "main" -}}
 
-<h1>Название категории/тега: {{ .Title }}</h1>
-<h1>Это: {{ .Data.Singular }} (категория или тег). Из {{ .Data.Plural }} (категории или теги)</h1>
-<h1>.RelPermalink: {{ .RelPermalink }}</h1>
-<h1>.RelPermalink.Base: {{ path.Base .RelPermalink }}</h1>
-
 <!-- term.html - Страница отдельного тега или категории -->
+
+<h1>{{ .Title }}</h1>
+<h1>{{ .Data.Singular }}: {{ path.Base .RelPermalink }}. Из: {{ .Data.Plural }}</h1>
+<h1>.RelPermalink: {{ .RelPermalink }}</h1>
 
 <div class="mediacontent__short">
 {{- range sort .Pages "File.Path" "desc" }}
