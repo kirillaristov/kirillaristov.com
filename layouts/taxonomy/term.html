@@ -4,7 +4,6 @@
 
 <h1>{{ .Title }}</h1>
 <h1>{{ .Data.Singular }}: {{ path.Base .RelPermalink }}. Из: {{ .Data.Plural }}</h1>
-<h1>.RelPermalink: {{ .RelPermalink }}</h1>
 
 <div class="mediacontent__short">
 {{- range sort .Pages "File.Path" "desc" }}
