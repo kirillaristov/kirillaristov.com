@@ -61,6 +61,11 @@
 3. `git add .`
 4. `git commit`
 5. Запустить hugo `hugo server`. Устранить ошибки при их наличии, особое внимание уделить конфигурационному файлу `config.yaml`
+6. Зафиксировать изменения: `git add .` > `git commit`. Добавить текст коммита, сохранить, закрыть окно
+7. Создать новый публичный репозиторий на `github`
+8. Добавить удаленный репозиторий `git remote add origin https://github.com/kirillaristov/ntr.github.io.git`
+9. `git branch -M main`
+10. Отправить `git push -u origin main`
 
 
 # Тестирование
