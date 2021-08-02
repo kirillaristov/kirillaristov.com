@@ -56,17 +56,18 @@
 
 ## Запуск Hugo с нуля
 
-1. Создать рабочий каталог, разместить в нем стандартный набор файлов, перейти в каталог `cd c:\www\example.com`
-2. Инициализировать git `git init`
+1. Создать рабочий каталог, разместить в нем стандартный набор файлов, перейти в него `cd c:\www\example.com`
+2. `git init`
 3. `git add .`
 4. `git commit`
-5. Запустить hugo `hugo server`. Устранить ошибки при их наличии, особое внимание уделить конфигурационному файлу `config.yaml`
-6. Зафиксировать изменения: `git add .` > `git commit`. Добавить текст коммита, сохранить, закрыть окно
-7. Создать новый публичный репозиторий на `github`
-8. Добавить удаленный репозиторий `git remote add origin https://github.com/kirillaristov/ntr.github.io.git`
-9. `git branch -M main`
-10. Отправить `git push -u origin main`
-
+5. `hugo server`
+6. Внести необходимые правки
+7. `git add .`
+8. `git commit`
+9. Создать новый публичный репозиторий на `github`
+10. `git remote add origin https://github.com/kirillaristov/ntr.github.io.git`
+11. `git branch -M main`
+12. `git push -u origin main`
 
 # Тестирование
 
