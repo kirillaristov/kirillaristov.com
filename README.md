@@ -49,7 +49,7 @@
 
 ## Git для Windows
 
-1. Скачать последнюю версию `git` для `windows` [git-scm.com/download/win](https://git-scm.com/download/win) (2.31.1 на 2021-06-02)
+1. Скачать последнюю версию `git` для `windows` [git-scm.com/download/win](https://git-scm.com/download/win) (2.32.0 на 2021-08-03)
 2. Установить с параметрами по умолчанию
 3. Перезагрузиться
 4. Проверить `git version`
