@@ -45,19 +45,19 @@
 
 1. Скачать последнюю версию `hugo` для `windows` [github.com/gohugoio/hugo/releases/latest](https://github.com/gohugoio/hugo/releases/latest) (0.86.1 на 2021-08-03)
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
-3. Проверить: `hugo version`
+3. Проверить `cmd` > `hugo version`
 
 ## Git для Windows
 
 1. Скачать последнюю версию `git` для `windows` [git-scm.com/download/win](https://git-scm.com/download/win) (2.32.0 на 2021-08-03)
 2. Установить с параметрами по умолчанию
 3. Перезагрузиться
-4. Проверить `git version`
+4. Проверить `cmd` > `git version`
 
 ## Запуск Hugo с нуля
 
 1. Создать рабочий каталог, разместить в нем базовый набор файлов
-2. Запустить командную строку в созданном каталоге
+2. Запустить командную строку в созданном каталоге `cmd` > `cd c:\www\example.com`
 3. `git init`
 4. `git add .`
 5. `git commit`
