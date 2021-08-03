@@ -56,36 +56,37 @@
 
 ## Запуск Hugo с нуля
 
-1. Создать рабочий каталог, разместить в нем базовый набор файлов
-2. Запустить командную строку в созданном каталоге `cmd` > `cd d:\www\example.com`
-3. `git init`
-4. `git add .`
-5. `git commit`
-6. `hugo server`
-7. Внести необходимые правки
-8. `git add .`
-9. `git commit`
-10. Создать новый публичный репозиторий на `github`
-11. `git remote add origin https://github.com/example-user/example-repo.git`
-12. `git branch -M main`
-13. `git push -u origin main`
+1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
+2. Перейти в него `d:` > `cd d:\www\example.com`
+3. Сгенерировать базовый набор файлов `hugo new site` или скопировать имеющийся базовый набор
+4. `git init`
+5. `git add .`
+6. `git commit`
+7. `hugo server`
+8. Внести необходимые правки
+9. `git add .`
+10. `git commit`
+11. Создать новый публичный репозиторий на `github`
+12. `git remote add origin https://github.com/example-user/example-repo.git`
+13. `git branch -M main`
+14. `git push -u origin main`
 
 # Тестирование
 
 ## Первый запуск локальной копии сайта
 
-1. Создать локальный рабочий каталог `mkdir d:\www\kir.com`
-2. Перейти в него `cd d:\www\kir.com`
+1. Создать рабочий каталог `cmd` > `mkdir d:\www\kir.com`
+2. Перейти в него `d:` > `cd d:\www\kir.com`
 3. Клонировать оригинальный дистрибутив<br>
 `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`<br>
 `git clone https://github.com/kirillaristov/ntr.github.io.git .`
-5. Запустить hugo из рабочего каталога `hugo server`
-6. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
+4. Запустить hugo из рабочего каталога `hugo server`
+5. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
 
 ## Внесение правок в локальную копию и тестирование
 
 1. Проверить наличие правок в основном дистрибутиве на github:
-  * Перейти в локальный рабочий каталог `cd d:\www\kir.com`
+  * Перейти в локальный рабочий каталог `cmd` > `d:` > `cd d:\www\kir.com`
   * Скопировать правки `git pull`
 2. Запустить hugo в рабочем каталоге `hugo server`
 3. Внести правки в локальные исходники
@@ -97,7 +98,7 @@
 
 ## Отправка правок на github
 
-1. Перейти в локальный рабочий каталог `cd d:\www\kir.com`
+1. Перейти в локальный рабочий каталог `cmd` > `d:` > `cd d:\www\kir.com`
 2. Индексировать внесенные правки `git add .`
 3. Создать коммит `git commit`
 4. В открывшемся окне добавить описание правки, сохранить и закрыть окно
