@@ -76,9 +76,11 @@
 
 1. Создать локальный рабочий каталог `mkdir d:\www\kir.com`
 2. Перейти в него `cd d:\www\kir.com`
-3. Клонировать оригинальный дистрибутив `git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`
-4. Запустить hugo из рабочего каталога `hugo server`
-5. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
+3. Клонировать оригинальный дистрибутив<br>
+`git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`<br>
+`git clone https://github.com/kirillaristov/ntr.github.io.git .`
+5. Запустить hugo из рабочего каталога `hugo server`
+6. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
 
 ## Внесение правок в локальную копию и тестирование
 
