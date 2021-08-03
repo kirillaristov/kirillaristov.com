@@ -38,7 +38,7 @@ disableLiveReload: true
 disableFastRender: true
 disablePathToLower: true
 enableGitInfo: true
-# removePathAccents: false
+# removePathAccents: false (remove accent or special symbols from tags and categories)
 enableRobotsTXT: true
 
 paginate: 10
@@ -78,6 +78,7 @@ outputFormats:
 languages:
   en:
     weight: 2
+
     title: "Along Bluetrails of Endless Rivers"
     description: "Lifelong routes. Tough equipment development and testing"
     keywords: "Kirill Aristov, Kirill from Fryazino, wild Russia, combining trips, kayak, adventure, journey, voyage, Siberia"
@@ -89,29 +90,27 @@ languages:
     ABOUT_MORE: "More about me"
 
     FOOTER:
-        TITLE: "Kirill Aristov, Russia"
-        LANG_TO: "Switch to Russian"
-        LANG_FROM: "You are currently viewing English version"
-        SLOGAN: "I am for Peace, for Freedom; Happy Smiles, Dreams coming true and Clear Blue Sky"
-        LICENSE: "Content is available under the Creative Commons Attribution-ShareAlike License"
+      TITLE: "Kirill Aristov, Russia"
+      LANG_TO: "Switch to Russian"
+      LANG_FROM: "You are currently viewing English version"
+      SLOGAN: "I am for Peace, for Freedom; Happy Smiles, Dreams coming true and Clear Blue Sky"
+      LICENSE: "Content is available under the Creative Commons Attribution-ShareAlike License"
 
     SUBSCRIBE:
-        TITLE: "Subscribe to History"
-        EMAIL: "Email"      
-        SUBMIT: "Subscribe"
+      TITLE: "Subscribe to History"
+      EMAIL: "Email"      
+      SUBMIT: "Subscribe"
 
     CONTACTS:
-        TITLE: "Contacts"
-        ADDRESS: "Russia, 141190, Moscow&nbsp;region,<br>Science City Fryazino, Vokzalnaya&nbsp;street, 19,&nbsp;82"
-        CEO: "Kirill Aristov"
+      TITLE: "Contacts"
+      ADDRESS: "Russia, 141190, Moscow&nbsp;region,<br>Science City Fryazino, Vokzalnaya&nbsp;street, 19,&nbsp;82"
+      CEO: "Kirill Aristov"
 
     dateLastEdited: "January 2, 2006 at 15:04"
     datePosted: "January 2, 2006. 15:04"
 
     CONTENTS: "Contents"
-
     READ_MORE: "Read More…"
-
     FEED: "Feed"
     NEWER: "Newer"
     OLDER: "Older"
@@ -138,6 +137,7 @@ languages:
 
   ru:
     weight: 1
+
     title: "Голубыми тропинками бесконечных рек"
     description: "Маршруты длиною в жизнь. Разработка и тестирование надёжной экипировки"
     keywords: "Кирилл Аристов, Кирилл из Фрязино, дикая природа России, комбинированные путешествия, каяк, приключение, странствие, Сибирь"
@@ -149,29 +149,27 @@ languages:
     ABOUT_MORE: "Подробнее обо мне"
 
     FOOTER:
-        TITLE: "Кирилл Аристов, Россия"
-        LANG_TO: "Переключить на английский"
-        LANG_FROM: "Вы просматриваете русскоязычную версию"
-        SLOGAN: "Я за Мир, за Свободу; Счастливые улыбки, Сбывающиеся Мечты и Ясное Голубое Небо"
-        LICENSE: "Содержание доступно по лицензии Creative Commons «С указанием авторства — С сохранением условий»"
+      TITLE: "Кирилл Аристов, Россия"
+      LANG_TO: "Переключить на английский"
+      LANG_FROM: "Вы просматриваете русскоязычную версию"
+      SLOGAN: "Я за Мир, за Свободу; Счастливые улыбки, Сбывающиеся Мечты и Ясное Голубое Небо"
+      LICENSE: "Содержание доступно по лицензии Creative Commons «С указанием авторства — С сохранением условий»"
 
     SUBSCRIBE:
-        TITLE: "Подпишитесь на историю"
-        EMAIL: "Email"
-        SUBMIT: "Подписаться"
+      TITLE: "Подпишитесь на историю"
+      EMAIL: "Email"
+      SUBMIT: "Подписаться"
 
     CONTACTS:
-        TITLE: "Контакты"
-        ADDRESS: "Россия, 141190, Московская&nbsp;область,<br>Наукоград&nbsp;Фрязино, улица&nbsp;Вокзальная, 19,&nbsp;82"
-        CEO: "Кирилл Аристов"
+      TITLE: "Контакты"
+      ADDRESS: "Россия, 141190, Московская&nbsp;область,<br>Наукоград&nbsp;Фрязино, улица&nbsp;Вокзальная, 19,&nbsp;82"
+      CEO: "Кирилл Аристов"
 
     dateLastEdited: "2 January 2006 в 15:04"
     datePosted: "2 January 2006, 15:04"
 
     CONTENTS: "Содержание"
-
     READ_MORE: "Читать далее…"
-
     FEED: "Трансляция"
     NEWER: "Раньше"
     OLDER: "Позже"
