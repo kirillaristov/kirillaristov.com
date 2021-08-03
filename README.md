@@ -43,7 +43,7 @@
 
 ## Hugo для Windows
 
-1. Скачать последнюю версию `hugo` для `windows` [github.com/gohugoio/hugo/releases/latest](https://github.com/gohugoio/hugo/releases/latest) (0.83.1 на 2021-06-02)
+1. Скачать последнюю версию `hugo` для `windows` [github.com/gohugoio/hugo/releases/latest](https://github.com/gohugoio/hugo/releases/latest) (0.86.1 на 2021-08-03)
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
 3. Проверить: `hugo version`
 
