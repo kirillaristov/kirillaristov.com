@@ -1,4 +1,4 @@
-baseURL: "https://kirillaristov.com/"
+BaseURL: "https://kirillaristov.com/"
 
 frontmatter:
   date:
@@ -112,7 +112,7 @@ languages:
 
     CONTENTS: "Contents"
     READ_MORE: "Read More…"
-    READ_ALL_BLOG: "Read all posts…"
+    READ_ALL_BLOG: "Read all posts"
     FEED: "Feed"
     NEWER: "Newer"
     OLDER: "Older"
@@ -173,7 +173,7 @@ languages:
 
     CONTENTS: "Содержание"
     READ_MORE: "Читать далее…"
-    READ_ALL_BLOG: "Читать все записи…"
+    READ_ALL_BLOG: "Читать все записи"
     FEED: "Трансляция"
     NEWER: "Раньше"
     OLDER: "Позже"
