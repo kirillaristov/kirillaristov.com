@@ -16,7 +16,8 @@ date: 2010-11-18T16:18:34Z
 
 
 ## Есть миф, что Волга — река
-### На самом деле Волга уже более чем полвека — рукотворные озёра.
+
+На самом деле Волга уже более чем полвека — рукотворные озёра.
 
 [![Через 10 дней после старта, начало судоходства на Волге (начинается подпор Иваньковского водохранилища)](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010.051-small.jpg)](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010.051-full.jpg?classes=jpic,right,break)
 [![Высотная диаграмма, перепад высот Волги от Истока до середины Волгоградского водохранилища](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010-elevation-small.gif)](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010-elevation-full.gif?classes=jpic,right,break)

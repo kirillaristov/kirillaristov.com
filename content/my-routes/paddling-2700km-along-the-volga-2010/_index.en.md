@@ -17,6 +17,8 @@ date: 2010-11-18T16:18:34Z
 
 ## There is a myth that the Volga — river
 
+Actually the Volga has been a reservoir for more than half a century.
+
 [![Через 10 дней после старта, начало судоходства на Волге (начинается подпор Иваньковского водохранилища)](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010.051-small.jpg)](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010.051-full.jpg?classes=jpic,right,break)
 [![Высотная диаграмма, перепад высот Волги от Истока до середины Волгоградского водохранилища](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010-elevation-small.gif)](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010-elevation-full.gif?classes=jpic,right,break)
 [![Общая схема Волги](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010-small.jpg)](/static/my-routes/paddling-2700km-along-the-volga-2010/volga2010-full.jpg?classes=jpic,right,break)

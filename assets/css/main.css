@@ -82,8 +82,9 @@ a			{text-decoration:none;}
 a:active		{color:#1a69a1;border-color:#1a69a1;outline:1px dotted #3a3a3a;}
 a:visited		{color:#1a69a1;border-color:#1a69a1;}
 
-.toc__list a {border:none!important;}
-.toc__title {font:normal 25px/33px cuprum,serif;color:#b44141;margin:40px 0 16px;padding-bottom:2px;border-bottom:1px solid #eaecef;}
+#TableOfContents {margin:40px 0 16px;padding-bottom:2px;border-bottom:1px solid #eaecef;}
+#TableOfContents a {border:none!important;}
+#TableOfContents ul ul {margin-left:20px;}
 
 .underline 	{border-bottom:1px solid;}
 .dashed	{border-bottom:1px dashed;}
