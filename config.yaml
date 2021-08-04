@@ -98,7 +98,7 @@ languages:
 
     SUBSCRIBE:
       TITLE: "Subscribe to History"
-      EMAIL: "Email"      
+      EMAIL: "Email"
       SUBMIT: "Subscribe"
 
     CONTACTS:
