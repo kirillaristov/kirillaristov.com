@@ -78,8 +78,8 @@
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\kir.com`
 2. Перейти в него `d:` > `cd www\kir.com`
 3. Клонировать оригинальный дистрибутив<br>
-`git clone https://github.com/kirillaristov/kirillaristov.github.io.git .`<br>
-`git clone https://github.com/kirillaristov/ntr.github.io.git .`
+`git clone https://github.com/kirillaristov/kirillaristov.com.git .`<br>
+`git clone https://github.com/kirillaristov/nationaltrails.ru.git .`
 4. Запустить hugo из рабочего каталога `hugo server`
 5. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
 
@@ -106,26 +106,30 @@
 
 ## Публикация на netlify
 
-1. Разместить правку в [github.com/kirillaristov/kirillaristov.github.io](https://github.com/kirillaristov/kirillaristov.github.io) (через `git push` или веб-версию), затем:
+1. Разместить правку в [github.com/kirillaristov/kirillaristov.com](https://github.com/kirillaristov/kirillaristov.com) (через `git push` или веб-версию), затем:
 2. Копируется автоматически в [app.netlify.com/sites/aristov](https://app.netlify.com/sites/aristov)
 3. Собирается автоматически с параметрами, перечисленными в `config.yaml` и `netlify.toml`, расположенными в корне репозитория
 4. Публикуется автоматически на [aristov.netlify.app](https://aristov.netlify.app)
 
+## Смена источника публикаций на netlify
+
+1. `Netlify` > `kir.com` > [`Deploys`](https://app.netlify.com/sites/aristov/deploys) > `Deploy settings` > секция `Build settings` > `Edit settings` > `Link to a different repository`
+
 ## Отключение автоматической сборки
 
-1. `Netlify` -> `kir.com` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Deploy settings` -> секция `Build settings` -> `Edit settings` -> `Stop builds`
+1. `Netlify` > `kir.com` > [`Deploys`](https://app.netlify.com/sites/aristov/deploys) > `Deploy settings` > секция `Build settings` > `Edit settings` > `Stop builds`
 2. На подключенную почту придет оповещение о том, что автоматическая сборка отключена
 
 ## Включение автоматической сборки
 
-1. `Netlify` -> `kir.com` -> [`Deploys`](https://app.netlify.com/sites/aristov/deploys) -> `Activate builds`
+1. `Netlify` > `kir.com` > [`Deploys`](https://app.netlify.com/sites/aristov/deploys) > `Activate builds`
 2. На подключенную почту придет оповещение о том, что автоматическая сборка включена и будет запущена после обновления репозитория
-3. Для немедленного запуска сборки `Netlify` -> `kir.com` -> `Deploys` -> `Trigger deploy` -> `Deploy site`
+3. Для немедленного запуска сборки `Netlify` > `kir.com` > `Deploys` > `Trigger deploy` > `Deploy site`
 
 ## Публикация сборок
 
-1. Если последняя сборка не опубликована, войти в сборку -> `Publish deploy`
-2. Включение автоматической публикации сборок `Netlify` -> `kir.com` -> `Deploys` -> `Start auto publishing`
+1. Если последняя сборка не опубликована, войти в сборку > `Publish deploy`
+2. Включение автоматической публикации сборок `Netlify` > `kir.com` > `Deploys` > `Start auto publishing`
 
 # Редактирование
 
