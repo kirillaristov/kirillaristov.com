@@ -94,7 +94,8 @@ languages:
       LANG_TO: "Switch to Russian"
       LANG_FROM: "You are currently viewing English version"
       SLOGAN: "I am for Peace, for Freedom; Happy Smiles, Dreams coming true and Clear Blue Sky"
-      LICENSE: "Content is available under the Creative Commons Attribution-ShareAlike License"
+      LICENSE1: "Content is licensed under a"
+      LICENSE2: "Creative Commons Attribution-ShareAlike 4.0 International License"
 
     SUBSCRIBE:
       TITLE: "Subscribe to History"
@@ -153,7 +154,8 @@ languages:
       LANG_TO: "Переключить на английский"
       LANG_FROM: "Вы просматриваете русскоязычную версию"
       SLOGAN: "Я за Мир, за Свободу; Счастливые улыбки, Сбывающиеся Мечты и Ясное Голубое Небо"
-      LICENSE: "Содержание доступно по лицензии Creative Commons «С указанием авторства — С сохранением условий»"
+      LICENSE1: "Содержание доступно по лицензии"
+      LICENSE2: "Creative Commons «Атрибуция — На тех же условиях» 4.0 Всемирная"
 
     SUBSCRIBE:
       TITLE: "Подпишитесь на историю"

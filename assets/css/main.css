@@ -1,15 +1,16 @@
 /*----------------------------------------------------------------------------
 (c) Kirill Aristov, Russia
 ----------------------------------------------------------------------------*/
+
 html, body {overflow-x:hidden;}
 html, body, p, h1, h2, h3, h4, ul, li, blockquote, figure {margin:0;padding:0;}
-body {font-family:cuprum,serif;font-size:120%;line-height:1.3;color:#212529;background-color:#fff;}
+body {font:18px/24px cuprum,serif;color:#212529;background-color:#fff;}
 /*----------------------------------------------------------------------------
 ----------------------------------------------------------------------------*/
-h1 	{font:normal 33px/36px cuprum,serif;color:#767676;}
-h2 	{font:normal 25px/33px cuprum,serif;color:#b44141;}
-h3 	{font:normal 23px/31px cuprum,serif;color:#b44141;}
-h4	{font:normal 15px/20px cuprum,serif;color:#000000;}
+h1 {font:normal 33px/36px cuprum,serif;color:#767676;}
+h2 {font:normal 25px/33px cuprum,serif;color:#b44141;}
+h3 {font:normal 23px/31px cuprum,serif;color:#b44141;}
+h4 {font:normal 15px/20px cuprum,serif;color:#000000;}
 
 .content h1 {margin:30px 0 16px;padding:20px 0 2px;border-bottom:1px solid #eaecef;}
 .content h2 {margin-bottom:16px;padding-top:20px;padding-bottom:2px;border-bottom:1px solid #eaecef;}
