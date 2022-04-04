@@ -41,6 +41,10 @@
 
 # Среда локальной разработки
 
+## Notepad++
+
+1. Установить последнюю версию: [notepad-plus-plus.org/downloads](https://notepad-plus-plus.org/downloads) (8.3.3 на 2022-04-04)
+
 ## Git для Windows
 
 1. Скачать последнюю версию `git` для `windows` [git-scm.com/download/win](https://git-scm.com/download/win) (2.35.1 на 2022-04-04)
@@ -53,10 +57,6 @@
 1. Скачать последнюю версию `hugo` для `windows` [github.com/gohugoio/hugo/releases/latest](https://github.com/gohugoio/hugo/releases/latest) (0.96.0 на 2022-04-04)
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
 3. Проверить `cmd` > `hugo version`
-
-## Notepad++
-
-1. Установить последнюю версию: [notepad-plus-plus.org/downloads](https://notepad-plus-plus.org/downloads) (8.3.3 на 2022-04-04)
 
 ## Запуск Hugo с нуля
 
