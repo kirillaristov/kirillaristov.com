@@ -54,6 +54,10 @@
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
 3. Проверить `cmd` > `hugo version`
 
+## Notepad++
+
+1. Установить последнюю версию: [notepad-plus-plus.org/downloads](https://notepad-plus-plus.org/downloads) (8.3.3 на 2022-04-04)
+
 ## Запуск Hugo с нуля
 
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
