@@ -9,7 +9,7 @@
 1. Скачать последнюю версию `git` для `windows` [git-scm.com/download/win](https://git-scm.com/download/win) (2.35.1 на 2022-04-04)
 2. Установить с параметрами по умолчанию
 3. Проверить `cmd` > `git version`
-4. Символ окончания строк [автоматически преобразовывать](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important) `git config --global core.autocrlf true`
+4. Символ окончания строк [автоматически преобразовывать](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important) `cmd` > `git config --global core.autocrlf true`
 
 ## Hugo для Windows
 
