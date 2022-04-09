@@ -10,6 +10,9 @@
 2. Установить с параметрами по умолчанию
 3. Проверить `cmd` > `git version`
 4. Символ окончания строк [автоматически преобразовывать](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important) `cmd` > `git config --global core.autocrlf true`
+5. `git config --global user.email "kir@kirillaristov.com"`
+6. `git config --global user.name "Kirill Aristov"`
+7. `git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"`
 
 ## Hugo для Windows
 
