@@ -49,8 +49,7 @@
 
 1. Скачать последнюю версию `git` для `windows` [git-scm.com/download/win](https://git-scm.com/download/win) (2.35.1 на 2022-04-04)
 2. Установить с параметрами по умолчанию
-3. Перезагрузиться
-4. Проверить `cmd` > `git version` 
+3. Проверить `cmd` > `git version` 
 
 ## Hugo для Windows
 
