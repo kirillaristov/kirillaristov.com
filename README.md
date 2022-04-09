@@ -61,22 +61,23 @@
 
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
 2. Перейти в него `d:` > `cd www\example.com`
-3. Сгенерировать базовый набор файлов `hugo new site` или скопировать имеющийся базовый набор
-4. `git init`
-5. `git add .`
-6. `git commit`
-7. `hugo server`
-8. Внести необходимые правки
-9. `git add .`
-10. `git commit`
-11. Создать новый публичный репозиторий на `github`
-12. `git remote add origin https://github.com/example-user/example-repo.git`
-13. `git branch -M main`
-14. `git push -u origin main`
+3. Сгенерировать базовый набор файлов `hugo new site .`
+4. Клонировать [универсальную тему](https://themes.gohugo.io/themes/hugo-universal-theme) `cd themes` > `git clone https://github.com/devcows/hugo-universal-theme`
+5. `git init`
+6. `git add .`
+7. `git commit`
+8. `hugo server`
+9. Внести необходимые правки
+10. `git add .`
+11. `git commit`
+12. Создать новый публичный репозиторий на `github`
+13. `git remote add origin https://github.com/example-user/example-repo.git`
+14. `git branch -M main`
+15. `git push -u origin main`
 
 # Разработка и тестирование
 
-## Клонирование оригинального дистрибутива
+## Клонирование ранее созданного проекта
 
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\kir.com`
 2. Перейти в него `d:` > `cd www\kir.com`
