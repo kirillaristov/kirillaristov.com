@@ -16,7 +16,7 @@
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
 3. Проверить `cmd` > `hugo version`
 
-## Создание пустого Hugo-проекта (пропустить при наличии проекта) 
+## Создание пустого Hugo-проекта (пропустить при наличии) 
 
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
 2. Перейти в него `d:` > `cd www\example.com`
@@ -25,7 +25,7 @@
 `cd themes` > `git clone https://github.com/devcows/hugo-universal-theme`
 5. Перенести содержимое папки `themes\hugo-universal-theme\exampleSite` в корень сайта, подтвердить перезапись
 6. При необходимости закомментировать параметр `themesDir = "../.."` в файле `config.toml`
-7. Запустить сайт `hugo server`
+7. Запустить `hugo server`
 8. `git init`
 9. `git add .`
 10. `git commit`
