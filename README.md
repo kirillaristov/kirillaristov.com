@@ -31,13 +31,14 @@
 6. Закомментировать параметр `themesDir = "../.."` в файле `config.toml`
 7. Установить `baseurl = "http://example.com/"`
 8. Запустить `hugo server`
-9. `git init`
-10. `git add .`
-11. `git commit`
-12. Создать новый публичный репозиторий на `github`
-13. `git remote add origin https://github.com/example-user/example-repo.git`
-14. `git branch -M main`
-15. `git push -u origin main`
+9. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
+10. `git init`
+11. `git add .`
+12. `git commit`
+13. Создать новый публичный репозиторий на `github`, скопировать строку загрузки репозитория
+14. `git remote add origin https://github.com/example-user/example-repo.git`
+15. `git branch -M main`
+16. `git push -u origin main`, будет предложено авторизоваться на `github`
 
 # Разработка и тестирование
 
