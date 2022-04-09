@@ -24,15 +24,16 @@
 4. Клонировать [универсальную тему](https://themes.gohugo.io/themes/hugo-universal-theme)<br>
 `cd themes` > `git clone https://github.com/devcows/hugo-universal-theme`
 5. Перенести содержимое папки `themes\hugo-universal-theme\exampleSite` в корень сайта, подтвердить перезапись
-6. При необходимости закомментировать параметр `themesDir = "../.."` в файле `config.toml`
-7. Запустить `hugo server`
-8. `git init`
-9. `git add .`
-10. `git commit`
-11. Создать новый публичный репозиторий на `github`
-12. `git remote add origin https://github.com/example-user/example-repo.git`
-13. `git branch -M main`
-14. `git push -u origin main`
+6. Закомментировать параметр `themesDir = "../.."` в файле `config.toml`
+7. Установить `baseurl = "http://example.com/"`
+8. Запустить `hugo server`
+9. `git init`
+10. `git add .`
+11. `git commit`
+12. Создать новый публичный репозиторий на `github`
+13. `git remote add origin https://github.com/example-user/example-repo.git`
+14. `git branch -M main`
+15. `git push -u origin main`
 
 # Разработка и тестирование
 
