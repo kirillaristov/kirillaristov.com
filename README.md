@@ -23,17 +23,16 @@
 3. Сгенерировать базовый набор файлов `hugo new site .`
 4. Клонировать [универсальную тему](https://themes.gohugo.io/themes/hugo-universal-theme)<br>
 `cd themes` > `git clone https://github.com/devcows/hugo-universal-theme`
-6. `git init`
-7. `git add .`
-8. `git commit`
-9. `hugo server`
-10. Внести необходимые правки
-11. `git add .`
-12. `git commit`
-13. Создать новый публичный репозиторий на `github`
-14. `git remote add origin https://github.com/example-user/example-repo.git`
-15. `git branch -M main`
-16. `git push -u origin main`
+5. Перенести содержимое папки `themes\hugo-universal-theme\exampleSite` в корень сайта, подтвердить перезапись
+6. При необходимости закомментировать параметр `themesDir = "../.."` в файле `config.toml`
+7. Запустить сайт `hugo server`
+8. `git init`
+9. `git add .`
+10. `git commit`
+11. Создать новый публичный репозиторий на `github`
+12. `git remote add origin https://github.com/example-user/example-repo.git`
+13. `git branch -M main`
+14. `git push -u origin main`
 
 # Разработка и тестирование
 
