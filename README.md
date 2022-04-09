@@ -1,44 +1,3 @@
-# Назначение каталогов и файлов
-
-* `archetypes/default.md` - заготовка нового поста
-* `assets/` - сss+js файлы
-* `content/` - __страницы с текстом в формате markdown__
-* `data/` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
-* `layouts/` - __шаблоны__
-  * `404/` - шаблон ошибки 404
-  * `_default/` - базовые шаблоны
-    * `_markup/` - содержит `render-heading.html` для `<h1>-<h6>`, `render-image.html` для `<img>`, `render-link.html` для `<a>`
-    * `baseof.html` - __корневой шаблон, отсюда всё начинается__
-    * `list.html` - шаблон индексного файла контента (имя которого начинается с подчеркивания `_index.md`)
-    * `rss.xml` - шаблон rss-ленты
-    * `single.html` - шаблон одиночного файла `index.md`
-  * `blog/` - шаблоны страниц `blog/`
-  * `media/` - шаблоны страниц `media/`
-  * `my-routes/` - шаблоны страниц `my-routes/`
-  * `partials/` - компоненты шаблонов, пример вызова `{{ partial "get-title" . }}`
-  * `shortcodes/` - шаблоны коротких вставок в файлы контента `*.md`, пример вызова `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
-  * `taxonomy/` - шаблоны категорий и тегов
-    * `term.html` - шаблон отдельной категории `(/ru/categories/as-the-first-settlers/)` и отдельного тега `(/ru/tags/2008/)`
-    * `terms.html` - шаблон перечисления категорий `/ru/categories/` и перечисления тегов `/ru/tags/`
-  * `index.html` - шаблон корневого индексного файла
-  * `robots.txt` - файл `robots.txt` в его конечном виде
-* `static/` - содержит статичные файлы и директории. При сборке корневая папка `/static` из пути удаляется
-  * `dist/images/` - графика для оформления
-  * `fonts/` - шрифты
-  * `kml-files/` - треки
-  * `map/` - __карта__
-  * `static/` - неизменяемые большие файлы
-    * `media/` - __фотоархив__
-    * `my-routes/` - файлы из маршрутов
-    * `videos/thumbs/` - превью видео
-  * `favicon.ico`
-  * `logo.jpg`
-* `README.md` - этот файл
-* `config.yaml` - конфиг `hugo`
-* `index.html` - домашняя страница github pages [kirillaristov.github.io](https://kirillaristov.github.io)
-* `netlify.toml` - конфиг `netlify`
-
-
 # Среда локальной разработки
 
 ## Notepad++
@@ -62,18 +21,19 @@
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
 2. Перейти в него `d:` > `cd www\example.com`
 3. Сгенерировать базовый набор файлов `hugo new site .`
-4. Клонировать [универсальную тему](https://themes.gohugo.io/themes/hugo-universal-theme) `cd themes` > `git clone https://github.com/devcows/hugo-universal-theme`
-5. `git init`
-6. `git add .`
-7. `git commit`
-8. `hugo server`
-9. Внести необходимые правки
-10. `git add .`
-11. `git commit`
-12. Создать новый публичный репозиторий на `github`
-13. `git remote add origin https://github.com/example-user/example-repo.git`
-14. `git branch -M main`
-15. `git push -u origin main`
+4. Клонировать [универсальную тему](https://themes.gohugo.io/themes/hugo-universal-theme)<br>
+`cd themes` > `git clone https://github.com/devcows/hugo-universal-theme`
+6. `git init`
+7. `git add .`
+8. `git commit`
+9. `hugo server`
+10. Внести необходимые правки
+11. `git add .`
+12. `git commit`
+13. Создать новый публичный репозиторий на `github`
+14. `git remote add origin https://github.com/example-user/example-repo.git`
+15. `git branch -M main`
+16. `git push -u origin main`
 
 # Разработка и тестирование
 
@@ -148,3 +108,42 @@ menu:
     weight: Очередность вывода, цифра
 ```
 
+# Назначение каталогов и файлов
+
+* `archetypes/default.md` - заготовка нового поста
+* `assets/` - сss+js файлы
+* `content/` - __страницы с текстом в формате markdown__
+* `data/` - содержит файл `month.yaml` с массивом месяцев для вызова `$.Site.Data.month`
+* `layouts/` - __шаблоны__
+  * `404/` - шаблон ошибки 404
+  * `_default/` - базовые шаблоны
+    * `_markup/` - содержит `render-heading.html` для `<h1>-<h6>`, `render-image.html` для `<img>`, `render-link.html` для `<a>`
+    * `baseof.html` - __корневой шаблон, отсюда всё начинается__
+    * `list.html` - шаблон индексного файла контента (имя которого начинается с подчеркивания `_index.md`)
+    * `rss.xml` - шаблон rss-ленты
+    * `single.html` - шаблон одиночного файла `index.md`
+  * `blog/` - шаблоны страниц `blog/`
+  * `media/` - шаблоны страниц `media/`
+  * `my-routes/` - шаблоны страниц `my-routes/`
+  * `partials/` - компоненты шаблонов, пример вызова `{{ partial "get-title" . }}`
+  * `shortcodes/` - шаблоны коротких вставок в файлы контента `*.md`, пример вызова `{{< youtube-thumb "T2VpOYXu3vQ" >}}`
+  * `taxonomy/` - шаблоны категорий и тегов
+    * `term.html` - шаблон отдельной категории `(/ru/categories/as-the-first-settlers/)` и отдельного тега `(/ru/tags/2008/)`
+    * `terms.html` - шаблон перечисления категорий `/ru/categories/` и перечисления тегов `/ru/tags/`
+  * `index.html` - шаблон корневого индексного файла
+  * `robots.txt` - файл `robots.txt` в его конечном виде
+* `static/` - содержит статичные файлы и директории. При сборке корневая папка `/static` из пути удаляется
+  * `dist/images/` - графика для оформления
+  * `fonts/` - шрифты
+  * `kml-files/` - треки
+  * `map/` - __карта__
+  * `static/` - неизменяемые большие файлы
+    * `media/` - __фотоархив__
+    * `my-routes/` - файлы из маршрутов
+    * `videos/thumbs/` - превью видео
+  * `favicon.ico`
+  * `logo.jpg`
+* `README.md` - этот файл
+* `config.yaml` - конфиг `hugo`
+* `index.html` - домашняя страница github pages [kirillaristov.github.io](https://kirillaristov.github.io)
+* `netlify.toml` - конфиг `netlify`
