@@ -35,10 +35,12 @@
 10. `git init`
 11. `git add .`
 12. `git commit`
-13. Создать новый публичный репозиторий на `github`, скопировать строку загрузки репозитория
-14. `git remote add origin https://github.com/example-user/example-repo.git`
-15. `git branch -M main`
+13. `git branch -M main`
+14. Создать новый публичный репозиторий на `github`, скопировать строку загрузки репозитория
+15. `git remote add origin https://github.com/user/example.com.git`
 16. `git push -u origin main`, будет предложено авторизоваться на `github`
+17. В корне проекта создать файл netlify.toml
+18. В свойствах репозитория дать доступ для Netlify `Settings` > `GitHub Apps` > `Netlify` > `Configure` > `Repository access` > `Save`
 
 # Разработка и тестирование
 
