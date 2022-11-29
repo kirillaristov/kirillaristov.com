@@ -1,5 +1,0 @@
----
-title: ''
-coord: ''
-images: ''
----
