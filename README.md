@@ -21,7 +21,8 @@
 3. Проверить `cmd` > `hugo version`
 
 ## Создание пустого Hugo-проекта (пропустить при наличии) 
-#+html: <details><summary>Развернуть...</summary>
+<p>
+<details><summary>Развернуть...</summary>
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
 2. Перейти в него `d:` > `cd www\example.com`
 3. Сгенерировать базовый набор файлов `hugo new site .`
@@ -41,7 +42,8 @@
 16. `git push -u origin main`, будет предложено авторизоваться на `github`
 17. В корне проекта создать файл netlify.toml
 18. В свойствах репозитория дать доступ для Netlify `Settings` > `GitHub Apps` > `Netlify` > `Configure` > `Repository access` > `Save`
-#+html: </details>
+</details>
+</p>
 
 # Разработка и тестирование
 
