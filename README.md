@@ -21,7 +21,7 @@
 3. Проверить `cmd` > `hugo version`
 
 ## Создание пустого Hugo-проекта
-<details><summary>Не разворачивать, если уже есть проект...</summary>
+<details><summary>Не разворачивать, если уже есть проект</summary>
 
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
 2. Перейти в него `d:` > `cd www\example.com`
