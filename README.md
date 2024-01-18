@@ -24,7 +24,7 @@
 <details><summary>Не разворачивать, если уже есть проект</summary>
 
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\example.com`
-2. Перейти в него `d: cd www\example.com`
+2. Перейти в него `d:` > `cd www\example.com`
 3. Сгенерировать базовый набор файлов `hugo new site .`
 4. Клонировать [универсальную тему](https://themes.gohugo.io/themes/hugo-universal-theme)<br>
 `cd themes` > `git clone https://github.com/devcows/hugo-universal-theme`
@@ -49,7 +49,7 @@
 ## Клонирование ранее созданного проекта
 
 1. Создать рабочий каталог `cmd` > `mkdir d:\www\kir.com`
-2. Перейти в него `d: cd www\kir.com`
+2. Перейти в него `d:` > `cd www\kir.com`
 3. Клонировать оригинальный дистрибутив<br>
 `git clone https://github.com/kirillaristov/kirillaristov.com.git .`<br>
 `git clone https://github.com/kirillaristov/nationaltrails.ru.git .`
@@ -59,7 +59,7 @@
 ## Внесение правок в локальную копию и тестирование
 
 1. Проверить наличие правок в основном дистрибутиве на github:
-  * Перейти в локальный рабочий каталог `cmd` > `d: cd www\kir.com`
+  * Перейти в локальный рабочий каталог `cmd` > `d:` > `cd www\kir.com`
   * Скопировать правки `git pull`
 2. Запустить hugo в рабочем каталоге `hugo server`
 3. Внести правки в локальные исходники
@@ -71,7 +71,7 @@
 
 ## Отправка правок на github
 
-1. Перейти в локальный рабочий каталог `cmd` > `d: cd www\kir.com`
+1. Перейти в локальный рабочий каталог `cmd` > `d:` > `cd www\kir.com`
 2. Индексировать внесенные правки `git add .`
 3. Создать коммит `git commit`
 4. В открывшемся окне добавить описание правки, сохранить и закрыть окно
