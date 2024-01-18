@@ -16,7 +16,7 @@
 
 ## Hugo для Windows
 
-1. Скачать последнюю версию `hugo` для `windows` [github.com/gohugoio/hugo/releases/latest](https://github.com/gohugoio/hugo/releases/latest) (0.101.0 на 2022-07-03)
+1. Скачать последнюю AMD-версию `hugo` для `windows` (ARM под Android) [github.com/gohugoio/hugo/releases/latest](https://github.com/gohugoio/hugo/releases/latest) (0.121.2 на 2024-01-18)
 2. Переместить `hugo.exe` из распакованного архива в `C:\Windows\System32`
 3. Проверить `cmd` > `hugo version`
 
