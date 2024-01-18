@@ -41,7 +41,7 @@
 16. `git push -u origin main`, будет предложено авторизоваться на `github`
 17. В корне проекта создать файл netlify.toml
 18. В свойствах репозитория дать доступ для Netlify `Settings` > `GitHub Apps` > `Netlify` > `Configure` > `Repository access` > `Save`
-#+html:</details>
+#+html: </details>
 
 # Разработка и тестирование
 
