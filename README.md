@@ -52,7 +52,6 @@
 2. Перейти в него `d:` > `cd www\kir.com`
 3. Клонировать оригинальный дистрибутив<br>
 `git clone https://github.com/kirillaristov/kirillaristov.com.git .`<br>
-`git clone https://github.com/kirillaristov/nationaltrails.ru.git .`
 4. Запустить hugo из рабочего каталога `hugo server`
 5. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
 
