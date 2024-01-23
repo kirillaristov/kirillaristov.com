@@ -9,4 +9,4 @@ menu:
     weight: 3
 ---
 
-<p class="intro">Реки — это странствия. Это тайны, надежды, радости и отчаяния. Реки — это пути к другим вселенным, к девственным мирам.  Реки — это природа и это душа. Реки дарят ощущение жизни и учат жить, они закаляют. Реки не хранят следы и каждый человек на них — первооткрыватель.</p>
+<p class="intro">Rivers — are wanderings. These are mysteries, hopes, joys and despair. Rivers are paths to other universes, to virgin worlds.  Rivers are nature and they are the soul. Rivers give a sense of life and teach you to live, they strengthen. Rivers do not keep traces and every person on them is a discoverer.</p>

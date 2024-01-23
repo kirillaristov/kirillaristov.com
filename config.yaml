@@ -77,10 +77,9 @@ outputFormats:
 
 languages:
   en:
+    weight: 2
+    title: "Along Bluetrails of Endless Rivers"
     params:
-        weight: 2
-
-        title: "Along Bluetrails of Endless Rivers"
         description: "Lifelong routes. Tough equipment development and testing"
         keywords: "Kirill Aristov, Kirill from Fryazino, wild Russia, combining trips, kayak, adventure, journey, voyage, Siberia"
         author: "Kirill Aristov, Russia, https://kirillaristov.com"
@@ -95,6 +94,7 @@ languages:
           LANG_TO: "Switch to Russian"
           LANG_FROM: "You are currently viewing English version"
           SLOGAN: "I am for Peace, for Freedom; Happy Smiles, Dreams coming true and Clear Blue Sky"
+          MADE_WITH: "Made with Effort, Hopes and"
           LICENSE1: "Content is licensed under a"
           LICENSE2: "Creative Commons Attribution-ShareAlike 4.0 International License"
 
@@ -139,10 +139,9 @@ languages:
         SCROLL_UP: "Scroll Up"
 
   ru:
+    weight: 1
+    title: "Голубыми тропинками бесконечных рек"
     params:
-        weight: 1
-
-        title: "Голубыми тропинками бесконечных рек"
         description: "Маршруты длиною в жизнь. Разработка и тестирование надёжной экипировки"
         keywords: "Кирилл Аристов, Кирилл из Фрязино, дикая природа России, комбинированные путешествия, каяк, приключение, странствие, Сибирь"
         author: "Кирилл Аристов, Россия, https://kirillaristov.com"
@@ -157,6 +156,7 @@ languages:
           LANG_TO: "Переключить на английский"
           LANG_FROM: "Вы просматриваете русскоязычную версию"
           SLOGAN: "Я за Мир, за Свободу; Счастливые улыбки, Сбывающиеся Мечты и Ясное Голубое Небо"
+          MADE_WITH: "Сделано с усердием, надеждами и"
           LICENSE1: "Содержание доступно по лицензии"
           LICENSE2: "Creative Commons «Атрибуция — На тех же условиях» 4.0 Всемирная"
 
