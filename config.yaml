@@ -94,7 +94,8 @@ languages:
           LANG_TO: "Switch to Russian"
           LANG_FROM: "You are currently viewing English version"
           SLOGAN: "I am for Peace, for Freedom; Happy Smiles, Dreams coming true and Clear Blue Sky"
-          MADE_WITH: "Made with Effort, Hopes and"
+          MADE_WITH1: "Made with Effort, Hopes and"
+          MADE_WITH2: "by me"
           LICENSE1: "Content is licensed under a"
           LICENSE2: "Creative Commons Attribution-ShareAlike 4.0 International License"
 
@@ -156,7 +157,8 @@ languages:
           LANG_TO: "Переключить на английский"
           LANG_FROM: "Вы просматриваете русскоязычную версию"
           SLOGAN: "Я за Мир, за Свободу; Счастливые улыбки, Сбывающиеся Мечты и Ясное Голубое Небо"
-          MADE_WITH: "Сделано с усердием, надеждами и"
+          MADE_WITH1: "Сделано с усердием, надеждами и"
+          MADE_WITH2: "мною"
           LICENSE1: "Содержание доступно по лицензии"
           LICENSE2: "Creative Commons «Атрибуция — На тех же условиях» 4.0 Всемирная"
 
