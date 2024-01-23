@@ -52,7 +52,7 @@
 2. Перейти в него `d:` > `cd www\kir.com`
 3. Клонировать оригинальный дистрибутив<br>
 `git clone https://github.com/kirillaristov/kirillaristov.com.git .`<br>
-4. Запустить hugo из рабочего каталога `hugo server`
+4. Запустить hugo в рабочем `www\kir.com` каталоге: `hugo server`
 5. Проверить доступность сайта на адресе [localhost:1313](http://localhost:1313)
 
 ## Внесение правок в локальную копию и тестирование
