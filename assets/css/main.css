@@ -218,7 +218,7 @@ p.media__tag-list {margin-top:35px;word-spacing:7px;}
 .footer-bottom {clear:both;text-align:center;padding:30px 0 25px;color:#000;background-color:#d7d6f5;}
 .footer-bottom p {padding:0 20px;}
 .footer__made-with {margin-top:14px;}
-.footer__made-with span {display:inline-block;margin:0 5px;color:#aa8ed6;}
+.footer__made-with span {display:inline-block;margin:0 3px 0 5px;color:#aa8ed6;}
 .footer__made-with span:hover {color:#ffac33;}
 .footer__made-with span svg {vertical-align:sub;}
 .footer__license {margin-top:10px;}
