@@ -41,6 +41,8 @@ h4 {font:normal 15px/20px cuprum,serif;color:#000000;}
 .content .prev-next-navigation {margin-top:20px;margin-bottom:20px;}
 .content .last-edited {margin-top:50px;}
 
+.content li {margin:10px 0;}
+
 p {word-break:keep-all;}
 ::selection	{color:#fff;background-color:#00d1b2;}
 textarea,input 	{font:15px/22px cuprum, serif;padding:5px 8px;}
