@@ -81,8 +81,8 @@ languages:
     title: "Along Bluetrails of Endless Rivers"
     params:
         description: "Lifelong routes. Tough equipment development and testing"
-        keywords: "Kirill Aristov, Kirill from Fryazino, wild Russia, combining trips, kayak, adventure, journey, voyage, Siberia"
-        author: "Kirill Aristov, Russia, https://kirillaristov.com"
+        keywords: "Kirill Aristov, Kirill from Fryazino, wilderness, combining trips, kayak, adventure, journey, voyage, Siberia"
+        author: "Kirill Aristov, https://kirillaristov.com"
         generator: "Effort, Hope and Love. Hugo, Github and Netlify"
 
         ABOUT_TITLE: "Who I am"
@@ -90,7 +90,7 @@ languages:
         ABOUT_MORE: "More about me"
 
         FOOTER:
-          TITLE: "Kirill Aristov, Russia"
+          TITLE: "Kirill Aristov"
           LANG_TO: "Switch to Russian"
           LANG_FROM: "You are currently viewing English version"
           SLOGAN: "I am for Peace, for Freedom; Happy Smiles, Dreams coming true and Clear Blue Sky"
@@ -143,7 +143,7 @@ languages:
     title: "Голубыми тропинками бесконечных рек"
     params:
         description: "Маршруты длиною в жизнь. Разработка и тестирование надёжной экипировки"
-        keywords: "Кирилл Аристов, Кирилл из Фрязино, дикая природа России, комбинированные путешествия, каяк, приключение, странствие, Сибирь"
+        keywords: "Кирилл Аристов, Кирилл из Фрязино, дикая природа, комбинированные путешествия, каяк, приключение, странствие, Сибирь"
         author: "Кирилл Аристов, Россия, https://kirillaristov.com"
         generator: "Стремление, Надежда и Любовь. Hugo, Github and Netlify"
 
@@ -152,7 +152,7 @@ languages:
         ABOUT_MORE: "Подробнее обо мне"
 
         FOOTER:
-          TITLE: "Кирилл Аристов, Россия"
+          TITLE: "Кирилл Аристов"
           LANG_TO: "Переключить на английский"
           LANG_FROM: "Вы просматриваете русскоязычную версию"
           SLOGAN: "Я за Мир, за Свободу; Счастливые улыбки, Сбывающиеся Мечты и Ясное Голубое Небо"
