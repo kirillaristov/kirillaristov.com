@@ -19,11 +19,13 @@ I was born on July 25, 1984.
 
 
 ## Contacts
-Kirill Aristov;<br>
-Russia, 141190, Moscow region, Science City Fryazino, Vokzalnaya street, 19, 82.<br>
-[kir@kirillaristov.com](mailto:kir@kirillaristov.com); [+7 925 613-58-50](tel:+79256135850)
+Kirill Aristov,<br>
+Uruguay, Montevideo.<br>
+[kir@kirillaristov.com](mailto:kir@kirillaristov.com)
 
 ---
+
+## 2022. ...
 
 ## 2017. Создание некоммерческой организации «Национальные Тропы»
 10 октября 2017 года создаю автономную некоммерческую организацию Становления и развития Системы Национальных Троп [АНО&nbsp;«Национальные Тропы»](https://nationaltrails.ru) с временной штаб-квартирой в подмосковном Фрязино. Цель деятельности организации — создание фундамента Системы Национальных Троп. Сайт организации [nationaltrails.ru](https://nationaltrails.ru).

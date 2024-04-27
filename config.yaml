@@ -105,7 +105,7 @@ languages:
 
         CONTACTS:
           TITLE: "Contacts"
-          ADDRESS: "Russia, 141190, Moscow&nbsp;region,<br>Science City Fryazino, Vokzalnaya&nbsp;street, 19,&nbsp;82"
+          ADDRESS: "Uruguay, Montevideo"
           CEO: "Kirill Aristov"
 
         dateLastEdited: "January 2, 2006 at 15:04"
@@ -167,7 +167,7 @@ languages:
 
         CONTACTS:
           TITLE: "Контакты"
-          ADDRESS: "Россия, 141190, Московская&nbsp;область,<br>Наукоград&nbsp;Фрязино, улица&nbsp;Вокзальная, 19,&nbsp;82"
+          ADDRESS: "Уругвай, Монтевидео"
           CEO: "Кирилл Аристов"
 
         dateLastEdited: "2 January 2006 в 15:04"
