@@ -27,5 +27,8 @@ Dick Swaab, 2010.
 * [The Best of James Herriot: Favourite Memories of a Country Vet](https://google.com/books/edition/The_Best_of_James_Herriot/NppbngEACAAJ).<br>
 James Herriot, 1982.
 
+* [The Bears and I. Raising Three Cubs in the North Woods](https://google.com/books/edition/The_Bears_and_I/KYEaAAAAMAAJ).<br>
+Robert Franklin Leslie, 1967. [more1](https://www.rd.com/article/the-bear-and-i/), [more2](https://www.librarything.com/author/leslierobertfranklin), [more3](http://www.rickmylander.com/2014/10/qotm-robert-franklin-leslie.html).
+
 * [The Real James Herriot. The Authorized Biography](https://www.google.ru/books/edition/The_Real_James_Herriot/TbhYS5-PS8QC).<br>
 Jim Wight, 1999.
