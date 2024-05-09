@@ -24,6 +24,9 @@ date: 2020-10-10T21:52:10Z
 * [Мы — это наш мозг. От матки до Альцгеймера](https://google.com/books/edition/Мы_это_наш_мозг_От_мат/4SvnDwAAQBAJ).<br>
 Дик Свааб, 2010nl/2013ru. [[wiki](https://ru.wikipedia.org/wiki/Мы_—_это_наш_мозг._От_матки_до_Альцгеймера)]
 
+* [Общество потребления: его мифы и структуры](https://google.com/books/edition/Общество_потребления/nyrMDwAAQBAJ).<br>
+Жан Бодрийяр, 1970fr/2006ru. [[wiki](https://ru.wikipedia.org/wiki/Общество_потребления:_его_мифы_и_структуры)]
+
 * [Из воспоминаний сельского ветеринара](https://google.com/books/edition/Из_воспоминаний_сельс/pa3PtgAACAAJ).<br>
 Джеймс Хэрриот, 1982en/1993ru.
 
@@ -32,3 +35,9 @@ date: 2020-10-10T21:52:10Z
 
 * [Джеймс Хэрриот. Биография](https://google.com/books/edition/Джеймс_Хэрриот/sd9mkgAACAAJ).<br>
 Джим Уайт, 1999en/2009ru.
+
+* Ездовые собаки — друзья по риску.<br>
+Поль-Эмиль Виктор ([Paul-Emile Victor](https://en.wikipedia.org/wiki/Paul-Émile_Victor)), 1974fr/1980ru.
+
+* [Не кричи: «Волки!»](https://google.com/books/edition/Не_кричи_Волки/bX5KEAAAQBAJ).<br>
+Фарли Моуэт, 1963en/1968ru. [[wiki](https://ru.wikipedia.org/wiki/Не_кричи:_«Волки!»)]
