@@ -24,17 +24,20 @@ Alan Greenspan, 2007en. [[wiki](https://en.wikipedia.org/wiki/The_Age_of_Turbule
 * [We are our Brains: From the Womb to Alzheimer's](https://www.google.com/books/edition/We_are_Our_Brains/0ZGxAAAAQBAJ).<br>
 Dick Swaab, 2010nl.
 
+* [Stephen Hawking: A Memoir of Friendship and Physics](https://google.com/books/edition/Stephen_Hawking/KlW9DwAAQBAJ).<br>
+Leonard Mlodinov, 2020en.
+
 * [The Consumer Society: Myths and Structures](https://google.com/books/edition/The_Consumer_Society/dqudDQAAQBAJ).<br>
 Jean Baudrillard, 1970fr/1998en.
 
 * [The Best of James Herriot: Favourite Memories of a Country Vet](https://google.com/books/edition/The_Best_of_James_Herriot/NppbngEACAAJ).<br>
 James Herriot, 1982en.
 
-* [The Bears and I. Raising Three Cubs in the North Woods](https://google.com/books/edition/The_Bears_and_I/KYEaAAAAMAAJ).<br>
-Robert Franklin Leslie, 1967en. [more1](https://www.rd.com/article/the-bear-and-i/), [more2](https://www.librarything.com/author/leslierobertfranklin), [more3](http://www.rickmylander.com/2014/10/qotm-robert-franklin-leslie.html).
-
 * [The Real James Herriot. The Authorized Biography](https://www.google.ru/books/edition/The_Real_James_Herriot/TbhYS5-PS8QC).<br>
 Jim Wight, 1999en.
+
+* [The Bears and I. Raising Three Cubs in the North Woods](https://google.com/books/edition/The_Bears_and_I/KYEaAAAAMAAJ).<br>
+Robert Franklin Leslie, 1967en. [more1](https://www.rd.com/article/the-bear-and-i/), [more2](https://www.librarything.com/author/leslierobertfranklin), [more3](http://www.rickmylander.com/2014/10/qotm-robert-franklin-leslie.html).
 
 * [Chiens de trainaux, compagnons du risque](https://google.com/books/edition/Chiens_de_traîneaux_Compagnons_du_risqu/3f0LBwAAQBAJ).<br>
 [Paul-Emile Victor](https://en.wikipedia.org/wiki/Paul-Émile_Victor), 1974fr.
