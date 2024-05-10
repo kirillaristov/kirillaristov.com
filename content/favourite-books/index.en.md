@@ -3,8 +3,13 @@ title: Favourite Books
 date: 2020-10-10T21:52:10Z
 ---
 
+## Economics, Society
+
 * [Why Nations Fail: The Origins of Power, Prosperity, and Poverty](https://google.com/books/edition/Why_Nations_Fail/yIV_NMDDIvYC).<br>
 Daron Acemoglu and James Robinson, 2012en. [[wiki](https://en.wikipedia.org/wiki/Why_Nations_Fail)]
+
+* [An Inquiry into the Nature and Causes of the Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations).<br>
+Adam Smith, 1776en.
 
 * [The Prize: The Epic Quest for Oil, Money, and Power](https://google.com/books/edition/The_Prize/WiUTwBTux2oC).<br>
 Daniel Yergin, 1990en. [[wiki](https://en.wikipedia.org/wiki/The_Prize:_The_Epic_Quest_for_Oil,_Money,_and_Power)]
@@ -21,14 +26,29 @@ John Perkins, 2004en. [[wiki](https://en.wikipedia.org/wiki/Confessions_of_an_Ec
 * [The Age of Turbulence: Adventures in a New World](https://google.com/books/edition/The_Age_of_Turbulence/2HJ6ZLMTjtsC).<br>
 Alan Greenspan, 2007en. [[wiki](https://en.wikipedia.org/wiki/The_Age_of_Turbulence)]
 
+* [The Consumer Society: Myths and Structures](https://google.com/books/edition/The_Consumer_Society/dqudDQAAQBAJ).<br>
+Jean Baudrillard, 1970fr/1998en.
+
+
+## To understand human nature
+
 * [We are our Brains: From the Womb to Alzheimer's](https://www.google.com/books/edition/We_are_Our_Brains/0ZGxAAAAQBAJ).<br>
 Dick Swaab, 2010nl.
+
+* [Unnatural Causes](https://google.com/books/edition/Unnatural_Causes/0LFwDQAAQBAJ).<br>
+Richard Shepherd, 2018en.
+
+* [The Seven Ages of Death](https://google.com/books/edition/The_Seven_Ages_of_Death/kmAMEAAAQBAJ).<br>
+Richard Shepherd, 2021en.
+
+
+## Science
 
 * [Stephen Hawking: A Memoir of Friendship and Physics](https://google.com/books/edition/Stephen_Hawking/KlW9DwAAQBAJ).<br>
 Leonard Mlodinov, 2020en.
 
-* [The Consumer Society: Myths and Structures](https://google.com/books/edition/The_Consumer_Society/dqudDQAAQBAJ).<br>
-Jean Baudrillard, 1970fr/1998en.
+
+## Nature
 
 * [The Best of James Herriot: Favourite Memories of a Country Vet](https://google.com/books/edition/The_Best_of_James_Herriot/NppbngEACAAJ).<br>
 James Herriot, 1982en.
