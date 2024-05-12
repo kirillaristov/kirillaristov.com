@@ -35,12 +35,17 @@ date: 2020-10-10T21:52:10Z
 * [Мы — это наш мозг. От матки до Альцгеймера](https://google.com/books/edition/Мы_это_наш_мозг_От_мат/4SvnDwAAQBAJ).<br>
 Дик Свааб, 2010nl/2013ru. [[wiki](https://ru.wikipedia.org/wiki/Мы_—_это_наш_мозг._От_матки_до_Альцгеймера)]
 
+* [Сон. Почему мы спим и как нам это лучше всего удается](https://google.com/books/edition/Сон/A8KdkgAACAAJ).<br>
+Петер Шпорк, 2007de/2010ru.
+
 * [Неестественные причины](https://google.com/books/edition/Неестественные_причи/Ng2TDwAAQBAJ).<br>
 Ричард Шеперд, 2018en/2018ru.
 
 * [Семь возрастов смерти](https://google.com/books/edition/Семь_возрастов_смерти/ZUlVEAAAQBAJ).<br>
 Ричард Шеперд, 2021en/2021ru.
 
+* [Кризисы и катастрофы: кто и почему выживает](https://google.com/books/edition/Кризисы_и_катастрофы/uRVukgAACAAJ).<br>
+Аманда Рипли, 2008en/2009ru.
 
 ## Наука
 
@@ -64,3 +69,13 @@ date: 2020-10-10T21:52:10Z
 
 * [Не кричи: «Волки!»](https://google.com/books/edition/Не_кричи_Волки/bX5KEAAAQBAJ).<br>
 Фарли Моуэт, 1963en/1968ru. [[wiki](https://ru.wikipedia.org/wiki/Не_кричи:_«Волки!»)]
+
+
+## Душа
+
+* Весь Луис Ламур. Особенно Течение на Запад и его автобиография [Education of a Wandering Man](https://google.com/books/edition/Education_of_a_Wandering_Man/x_4j_vuDHp0C).
+
+* Весь Джек Лондон. Особенно [Время-не-ждет](https://ru.wikipedia.org/wiki/Время-не-ждёт_(роман)) и биографический роман о его жизни, написанный Ирвингом Стоуном (Моряк в седле).
+
+* [Происхождение. Биографический роман о жизни Чарльза Дарвина](https://ru.wikipedia.org/wiki/Происхождение_(книга)).<br>
+Ирвинг Стоун, 1980en/1983ru.
